@@ -1,0 +1,13 @@
+pandas
+spacy
+nltk
+scikit-learn
+transformers
+vaderSentiment
+xgboost
+matplotlib
+seaborn
+joblib
+sphinx
+streamlit
+PyPDF2 

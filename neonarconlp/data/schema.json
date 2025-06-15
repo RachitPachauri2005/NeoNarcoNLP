@@ -1,0 +1,7 @@
+{
+  "user_id": "string, anonymized unique identifier for each user",
+  "message": "string, chat message content",
+  "timestamp": "string, ISO 8601 datetime format",
+  "chat_group": "string, identifier for chat group",
+  "role": "string, one of ['supplier', 'smuggler', 'middleman']"
+}

@@ -1,0 +1,1001 @@
+user_id,message,timestamp,chat_group,role,psychelingo,deceptdetect,emovolatility,intenttrace,powerdyno,trustmeter,riskprofile,cogbiasscan,stresssignal
+user_0082,the shipment is delayed.,2025-05-17T03:51:46.716365,group_5,supplier,0,0,0.7364712141640124,0,neutral,-0.15615636062945915,bold,overconfidence,0.21863797480360336
+user_0065,"everything is under control, trust me.",2025-05-17T05:31:46.716365,group_9,supplier,1,0,0.4492090462838536,1,dominant,0.5176147342595345,bold,none,0.42261439815350255
+user_0036,payment received.,2025-05-25T19:42:46.716365,group_6,supplier,0,1,0.09671637683346401,1,neutral,-0.47095826555597387,bold,none,0.45942487967184253
+user_0016,"if you get caught, say nothing.",2025-05-19T14:36:46.716365,group_9,smuggler,1,0,0.7045718362149235,0,neutral,-0.5442034486969063,cautious,overconfidence,0.8553177210151469
+user_0013,"if you get caught, say nothing.",2025-05-28T16:09:46.716365,group_8,middleman,1,0,0.37018096711688264,0,neutral,-0.4660443559017733,bold,none,0.6349782881970603
+user_0069,use the new route.,2025-05-23T11:00:46.716365,group_8,smuggler,1,0,0.6846142509898746,0,dominant,0.6436051880136167,cautious,confirmation,0.26774087597570273
+user_0028,i feel nervous about this run.,2025-05-30T08:14:46.716365,group_4,middleman,1,1,0.8846831538867025,1,dominant,-0.4702396670038951,bold,none,0.5613681341631508
+user_0034,i feel nervous about this run.,2025-06-04T12:29:46.716365,group_10,smuggler,1,0,0.997325777989161,0,neutral,-0.012968330220737956,bold,overconfidence,0.15284131934826106
+user_0021,"i promise, this is the last time.",2025-06-12T03:58:46.716365,group_2,smuggler,1,1,0.529114345099137,0,neutral,0.4414436387203893,cautious,none,0.34017547303104523
+user_0038,"i promise, this is the last time.",2025-05-23T05:17:46.716365,group_8,supplier,1,0,0.5076816746043252,0,neutral,-0.4031104171027342,bold,overconfidence,0.37391385259114795
+user_0021,"just follow my lead, don't ask questions.",2025-06-09T03:49:46.716365,group_1,middleman,1,1,0.019476742385832302,1,submissive,-0.5210953793238824,bold,none,0.9469494452979941
+user_0011,are you sure this is safe?,2025-05-19T04:07:46.716365,group_9,supplier,0,1,0.9468486797049909,0,submissive,0.055347574836507984,cautious,overconfidence,0.9289134930021768
+user_0097,keep it quiet.,2025-05-30T05:00:46.716365,group_7,middleman,1,1,0.8996140846429455,1,dominant,-0.5041887726679841,bold,confirmation,0.02103426000705888
+user_0071,use the new route.,2025-06-11T19:16:46.716365,group_4,supplier,0,0,0.22894178381115438,0,submissive,-0.8582853002226931,bold,confirmation,0.6689777782962806
+user_0028,"just follow my lead, don't ask questions.",2025-05-22T01:03:46.716365,group_10,middleman,1,0,0.7846194242907534,1,dominant,-0.8113484070162356,cautious,confirmation,0.4235786230199208
+user_0060,package is ready for pickup.,2025-06-14T18:16:46.716365,group_2,supplier,1,1,0.8005925108616988,0,dominant,-0.616819855716692,cautious,overconfidence,0.4218816398344042
+user_0036,"we need to move fast, no time to think.",2025-05-27T09:23:46.716365,group_2,smuggler,0,0,0.652144893998522,0,dominant,0.8527339660162552,bold,overconfidence,0.406414057952472
+user_0062,keep it quiet.,2025-06-03T06:34:46.716365,group_1,supplier,1,0,0.9853088437797259,1,submissive,-0.42950154210615943,cautious,overconfidence,0.18989786726763713
+user_0028,package is ready for pickup.,2025-06-11T09:09:46.716365,group_9,supplier,1,0,0.05014233726395356,1,neutral,0.8387742616641505,bold,overconfidence,0.9607789032744504
+user_0011,"change of plans, update soon.",2025-05-19T03:22:46.716365,group_10,supplier,0,1,0.11988661394712419,0,neutral,0.1890383070668824,bold,confirmation,0.6573731644725225
+user_0073,"don't tell anyone else, okay?",2025-05-30T10:05:46.716365,group_5,supplier,1,0,0.2656145125313538,0,neutral,0.291001577675299,cautious,confirmation,0.9290183317055142
+user_0010,meet at the usual spot.,2025-06-05T21:06:46.716365,group_10,middleman,0,0,0.5376344041016273,1,dominant,0.8665187559874181,bold,overconfidence,0.36952708873888396
+user_0021,"we need to move fast, no time to think.",2025-06-09T17:52:46.716365,group_5,middleman,0,1,0.9317560394360774,0,dominant,-0.47106815702574467,bold,none,0.5532236408848159
+user_0035,everything is set.,2025-06-12T13:10:46.716365,group_4,middleman,1,0,0.6874971288013305,1,neutral,-0.02293629570124689,bold,overconfidence,0.6342844473091942
+user_0036,package is ready for pickup.,2025-05-16T04:24:46.716365,group_6,supplier,1,0,0.7412309083479308,1,neutral,-0.9806606007833201,bold,none,0.9039285715598931
+user_0070,package is ready for pickup.,2025-06-01T19:48:46.716365,group_10,middleman,0,1,0.12744551928213876,1,submissive,0.79796297748518,bold,confirmation,0.21007653833975404
+user_0032,the shipment is delayed.,2025-06-01T02:50:46.716365,group_9,smuggler,0,0,0.864605696219964,0,submissive,-0.9504272762036226,cautious,confirmation,0.8022351389371389
+user_0095,use the new route.,2025-05-28T03:57:46.716365,group_3,middleman,0,1,0.8721667829060897,1,dominant,-0.6008543399484962,cautious,confirmation,0.30519086733860057
+user_0030,use the new route.,2025-05-17T02:22:46.716365,group_4,smuggler,1,1,0.8643529420302863,1,submissive,0.2829634772152554,cautious,none,0.9811496871982601
+user_0069,"honestly, i don't know if this will work...",2025-05-17T06:40:46.716365,group_2,smuggler,0,1,0.03825719735326272,1,submissive,0.4570901213054086,cautious,confirmation,0.6062088533061433
+user_0066,the shipment is delayed.,2025-06-02T13:16:46.716365,group_10,supplier,1,0,0.7087852838341706,0,neutral,0.8511503309981654,bold,confirmation,0.4312973996249869
+user_0086,"honestly, i don't know if this will work...",2025-06-13T09:11:46.716365,group_6,middleman,0,1,0.5071225040352692,1,submissive,-0.19519922588455074,cautious,none,0.12728779905915322
+user_0054,"if you get caught, say nothing.",2025-05-23T22:37:46.716365,group_10,middleman,1,1,0.5479372131356982,0,submissive,-0.4261725662621456,cautious,none,0.6066615704797627
+user_0042,"we need to move fast, no time to think.",2025-06-05T03:04:46.716365,group_8,middleman,0,1,0.793735399106002,0,neutral,-0.8304089265497565,cautious,overconfidence,0.8184234645366643
+user_0097,use the new route.,2025-05-30T03:35:46.716365,group_4,supplier,0,0,0.04621371809275843,1,neutral,0.6994753892494638,bold,confirmation,0.41444101099771935
+user_0081,i feel nervous about this run.,2025-05-24T20:54:46.716365,group_7,smuggler,1,0,0.1475713450912982,0,dominant,0.5568408135346501,bold,overconfidence,0.804109856173143
+user_0090,"don't tell anyone else, okay?",2025-06-06T03:56:46.716365,group_1,middleman,0,0,0.45646182547017256,1,neutral,0.06226377171117736,cautious,confirmation,0.6126523227617628
+user_0093,"don't tell anyone else, okay?",2025-06-04T10:38:46.716365,group_9,smuggler,0,1,0.4500697572469081,0,neutral,-0.445377293738519,cautious,none,0.23924586381463286
+user_0057,let me know when you arrive.,2025-05-29T00:37:46.716365,group_4,smuggler,1,1,0.8930268327903168,0,dominant,-0.6983386839738268,cautious,none,0.152805266577148
+user_0028,let me know when you arrive.,2025-06-03T21:40:46.716365,group_7,smuggler,1,1,0.06226571058358532,1,submissive,0.8096769566803539,bold,none,0.38038102892771164
+user_0001,"i swear, you can trust me.",2025-05-29T14:41:46.716365,group_7,smuggler,0,1,0.21942163462143616,1,submissive,-0.9419503601065695,cautious,none,0.6791418850283497
+user_0052,"change of plans, update soon.",2025-06-06T07:02:46.716365,group_3,middleman,0,1,0.5918927756279109,0,dominant,0.2854992960186715,bold,confirmation,0.18172902651343215
+user_0034,"if you get caught, say nothing.",2025-05-30T22:05:46.716365,group_4,smuggler,1,1,0.7612297078940271,1,submissive,0.5040196471095697,cautious,confirmation,0.8349109149121212
+user_0061,meet at the usual spot.,2025-06-09T13:43:46.716365,group_1,smuggler,0,0,0.7812330496108949,0,dominant,0.8992234654319777,bold,overconfidence,0.6213356565861579
+user_0031,payment received.,2025-06-06T13:47:46.716365,group_2,middleman,0,1,0.6994649712461508,1,dominant,0.21178538512062262,bold,overconfidence,0.9647207730340877
+user_0014,i feel nervous about this run.,2025-05-17T04:34:46.716365,group_5,middleman,1,1,0.9414705985413097,0,dominant,0.1841957224997044,bold,overconfidence,0.6971930024957722
+user_0039,"everything is under control, trust me.",2025-05-21T12:45:46.716365,group_10,supplier,1,1,0.6615213406873559,0,neutral,0.29508650811361026,bold,confirmation,0.8223309180900581
+user_0014,"i promise, this is the last time.",2025-06-01T12:08:46.716365,group_8,middleman,0,1,0.17613696108605936,1,neutral,0.6163984376135119,cautious,confirmation,0.4355744930038943
+user_0094,i feel nervous about this run.,2025-05-28T05:41:46.716365,group_6,supplier,0,1,0.881631184002772,0,submissive,0.13969928935664444,cautious,confirmation,0.02869999777008958
+user_0042,"change of plans, update soon.",2025-06-07T05:04:46.716365,group_4,smuggler,1,1,0.279658488037586,1,neutral,-0.9796977711226458,bold,overconfidence,0.24135605037267993
+user_0053,are you sure this is safe?,2025-06-10T06:56:46.716365,group_4,middleman,1,1,0.44817454958657077,0,dominant,-0.41152883735900536,cautious,none,0.24330516387675716
+user_0085,i feel nervous about this run.,2025-06-01T19:36:46.716365,group_8,middleman,1,1,0.996631463959332,1,submissive,0.4057098843715379,cautious,confirmation,0.2514036762009415
+user_0016,keep it quiet.,2025-05-30T09:11:46.716365,group_2,middleman,0,0,0.21638463987860568,1,submissive,0.44917000218610315,cautious,overconfidence,0.8326283633270679
+user_0038,use the new route.,2025-06-01T10:42:46.716365,group_3,smuggler,0,0,0.2743113267832673,0,neutral,-0.4157267108944449,bold,none,0.868461197262944
+user_0063,the shipment is delayed.,2025-05-16T13:55:46.716365,group_10,smuggler,1,1,0.44046879813601025,0,dominant,-0.4950432190140548,cautious,overconfidence,0.8221156452994304
+user_0052,are you sure this is safe?,2025-05-19T09:27:46.716365,group_10,middleman,0,0,0.14919758447365516,1,dominant,0.9878362454204404,bold,none,0.7644434453261942
+user_0078,"everything is under control, trust me.",2025-06-13T04:00:46.716365,group_4,middleman,1,1,0.9085043776238039,1,neutral,0.9800625209335958,cautious,none,0.6210273210721485
+user_0079,the shipment is delayed.,2025-05-25T11:29:46.716365,group_4,smuggler,0,0,0.2398651776746924,0,dominant,-0.9946485547942285,cautious,none,0.5938111951195633
+user_0038,package is ready for pickup.,2025-05-26T13:22:46.716365,group_5,middleman,1,1,0.07117976015347927,0,submissive,0.5756560532934627,bold,confirmation,0.11477630246104575
+user_0029,payment received.,2025-05-28T02:40:46.716365,group_3,supplier,0,0,0.7926285662324116,1,submissive,-0.7512926836505835,cautious,none,0.4025085191628056
+user_0035,"don't tell anyone else, okay?",2025-06-09T14:20:46.716365,group_8,smuggler,0,0,0.8894228892924536,1,neutral,-0.4992641951759922,bold,overconfidence,0.9619111021928367
+user_0074,i feel nervous about this run.,2025-05-16T23:11:46.716365,group_5,middleman,0,0,0.47050082325163356,1,submissive,-0.6370217055537482,cautious,none,0.8142449445406034
+user_0012,are you sure this is safe?,2025-05-31T20:35:46.716365,group_7,smuggler,1,0,0.8577330944003526,1,submissive,0.387347347966865,cautious,none,0.9451935395632106
+user_0098,"just follow my lead, don't ask questions.",2025-05-17T16:36:46.716365,group_8,supplier,1,1,0.3232737862759947,1,neutral,0.6498544065374019,bold,none,0.8693674843206524
+user_0060,"i promise, this is the last time.",2025-05-18T11:44:46.716365,group_4,middleman,1,1,0.625408742145009,0,dominant,-0.4658875234541351,bold,confirmation,0.43811609507237825
+user_0090,are you sure this is safe?,2025-05-21T13:09:46.716365,group_1,middleman,0,0,0.3107501383933351,0,neutral,-0.18401862542019498,bold,overconfidence,0.4614478941787834
+user_0016,payment received.,2025-06-07T16:53:46.716365,group_5,middleman,1,1,0.8347239455766944,1,dominant,-0.08642705453537292,bold,confirmation,0.19061037094792832
+user_0077,"don't tell anyone else, okay?",2025-05-22T05:38:46.716365,group_2,smuggler,1,1,0.9342483936825201,1,dominant,-0.4343220334343467,cautious,none,0.5799233838834041
+user_0085,are you sure this is safe?,2025-05-22T18:50:46.716365,group_8,middleman,1,1,0.33243995571074936,1,submissive,0.865704511430522,bold,none,0.23880554416624933
+user_0050,use the new route.,2025-06-03T17:12:46.716365,group_1,smuggler,1,1,0.38607875249098234,0,submissive,0.9296488767418207,bold,none,0.9653535901768537
+user_0043,the shipment is delayed.,2025-06-05T01:27:46.716365,group_2,middleman,1,0,0.7224438275706426,1,neutral,0.9399135880822125,bold,confirmation,0.7815252912730248
+user_0034,"honestly, i don't know if this will work...",2025-06-13T09:17:46.716365,group_7,middleman,0,1,0.8523413365658931,1,submissive,0.2535983580159755,cautious,none,0.03589909983768658
+user_0009,use the new route.,2025-06-13T17:55:46.716365,group_5,supplier,0,1,0.9783377282205457,0,submissive,-0.6672704265415497,cautious,overconfidence,0.04599096867721275
+user_0008,everything is set.,2025-06-01T08:04:46.716365,group_6,smuggler,0,0,0.53116631814876,0,dominant,-0.6498612898741909,cautious,none,0.6831345799627139
+user_0064,i feel nervous about this run.,2025-05-22T12:51:46.716365,group_4,smuggler,1,1,0.25532670815915404,0,submissive,0.802418847197766,bold,overconfidence,0.44172978360381443
+user_0045,i feel nervous about this run.,2025-05-29T15:17:46.716365,group_7,middleman,1,1,0.8453039251425987,0,submissive,0.7066709173203716,bold,overconfidence,0.381364297657629
+user_0046,i feel nervous about this run.,2025-05-29T11:42:46.716365,group_5,supplier,1,1,0.008097965761490244,0,neutral,0.4903443082679402,cautious,overconfidence,0.607064998164266
+user_0046,use the new route.,2025-06-13T23:53:46.716365,group_4,middleman,1,0,0.6282481036868983,0,submissive,0.5772209680203078,bold,none,0.36486123302846973
+user_0017,let me know when you arrive.,2025-05-29T10:52:46.716365,group_6,middleman,1,0,0.2007947946500762,1,neutral,0.003589524529680199,cautious,overconfidence,0.2569700845632623
+user_0062,everything is set.,2025-05-31T10:30:46.716365,group_2,smuggler,0,0,0.7541514930613354,0,neutral,0.4484334241510364,cautious,none,0.3657750494055664
+user_0051,meet at the usual spot.,2025-05-28T01:23:46.716365,group_9,supplier,1,1,0.6728283818737536,1,neutral,-0.23794900145504938,cautious,overconfidence,0.674836555375322
+user_0061,meet at the usual spot.,2025-06-13T05:14:46.716365,group_9,smuggler,0,0,0.6354039223779391,1,neutral,-0.39561965094149953,cautious,overconfidence,0.13977701250722108
+user_0005,everything is set.,2025-06-07T10:36:46.716365,group_2,supplier,0,0,0.3886458311501425,1,neutral,0.8987615368238109,cautious,none,0.7422690147653158
+user_0020,"i promise, this is the last time.",2025-06-14T19:52:46.716365,group_2,smuggler,1,1,0.032716286855046905,1,dominant,-0.1132338278785967,bold,confirmation,0.09935462460613032
+user_0088,"i swear, you can trust me.",2025-06-09T19:14:46.716365,group_6,supplier,1,1,0.18980856216107955,0,submissive,-0.8166531523649583,bold,none,0.6394929185297038
+user_0003,package is ready for pickup.,2025-05-31T04:48:46.716365,group_4,supplier,0,0,0.8298178372171325,0,neutral,-0.5680972961626505,bold,confirmation,0.77436857780482
+user_0077,meet at the usual spot.,2025-05-28T15:23:46.716365,group_3,supplier,1,0,0.10992634788943556,0,dominant,-0.9702793455385823,bold,none,0.32377146196202244
+user_0023,contact the middleman first.,2025-05-18T09:46:46.716365,group_3,middleman,1,0,0.7456652750339957,1,submissive,0.5560340786284055,bold,confirmation,0.5038386897858214
+user_0079,package is ready for pickup.,2025-06-15T00:13:46.716365,group_9,smuggler,1,0,0.06082540749450582,1,submissive,-0.1474527614400165,bold,confirmation,0.7124013148970963
+user_0057,let me know when you arrive.,2025-05-19T16:46:46.716365,group_6,middleman,0,0,0.12619158830505606,1,submissive,0.9892555117218471,cautious,confirmation,0.5055510744856804
+user_0056,the shipment is delayed.,2025-05-21T05:30:46.716365,group_9,middleman,0,1,0.4515549159652815,0,submissive,-0.3221367623296496,cautious,confirmation,0.41598965026149526
+user_0013,"honestly, i don't know if this will work...",2025-06-04T10:40:46.716365,group_6,middleman,1,1,0.9535925176191249,1,dominant,-0.8175504232679027,bold,overconfidence,0.43187651855174025
+user_0096,"i swear, you can trust me.",2025-05-21T22:39:46.716365,group_9,supplier,1,0,0.4108086329221582,1,neutral,-0.8971078400552479,cautious,none,0.31244889908765394
+user_0014,i feel nervous about this run.,2025-06-08T02:45:46.716365,group_4,supplier,1,0,0.8472748481349526,1,neutral,-0.2648778987692997,cautious,none,0.22615909432784742
+user_0055,"just follow my lead, don't ask questions.",2025-06-13T07:37:46.716365,group_10,middleman,0,1,0.028953181061268318,1,neutral,0.5248190359619958,cautious,confirmation,0.00610578940365869
+user_0019,i feel nervous about this run.,2025-06-14T22:31:46.716365,group_7,supplier,0,0,0.09175768305444532,0,submissive,-0.1603350124709937,cautious,overconfidence,0.3700530924770039
+user_0093,"honestly, i don't know if this will work...",2025-06-10T20:29:46.716365,group_10,supplier,0,0,0.15740989710715314,0,neutral,-0.8368369449361737,cautious,none,0.4240147731129952
+user_0078,"we need to move fast, no time to think.",2025-06-03T20:55:46.716365,group_5,supplier,0,1,0.42991363339789035,1,neutral,0.35697250952026605,cautious,none,0.6671325587363496
+user_0006,use the new route.,2025-06-03T00:15:46.716365,group_10,supplier,0,0,0.3014193620184368,0,dominant,0.5283217915224954,cautious,confirmation,0.11998434370554911
+user_0064,"i promise, this is the last time.",2025-05-24T00:26:46.716365,group_3,smuggler,0,1,0.07207549659215784,0,submissive,-0.9625169268287086,bold,confirmation,0.5757591607368311
+user_0074,"if you get caught, say nothing.",2025-06-14T03:44:46.716365,group_7,smuggler,0,1,0.02085655902474881,1,dominant,0.6026443086209043,cautious,none,0.9197697517413846
+user_0012,"i promise, this is the last time.",2025-05-20T20:09:46.716365,group_4,smuggler,1,0,0.39576669685933297,1,neutral,-0.3209734377030722,cautious,overconfidence,0.07637937747302115
+user_0082,the shipment is delayed.,2025-06-09T04:05:46.716365,group_9,supplier,1,1,0.7273791056739043,0,dominant,-0.7943909444444743,cautious,overconfidence,0.1734990224420948
+user_0020,let me know when you arrive.,2025-05-24T02:01:46.716365,group_8,smuggler,1,1,0.8642468748314162,1,dominant,-0.12047436731627204,cautious,confirmation,0.6313851200254293
+user_0036,i feel nervous about this run.,2025-05-18T13:53:46.716365,group_6,middleman,0,1,0.4617424864464541,0,dominant,-0.26252480102037445,cautious,overconfidence,0.6446664695758374
+user_0012,"everything is under control, trust me.",2025-06-12T01:25:46.716365,group_9,smuggler,1,0,0.44973370365090626,0,submissive,0.2100116681401285,bold,overconfidence,0.4505231090150913
+user_0044,let me know when you arrive.,2025-06-07T23:38:46.716365,group_3,supplier,0,1,0.9909860226468875,0,submissive,-0.25429603579734583,cautious,confirmation,0.4087693972473203
+user_0044,"everything is under control, trust me.",2025-05-18T09:43:46.716365,group_6,supplier,1,0,0.5579632124184023,1,submissive,-0.49600843006769346,bold,confirmation,0.08150198744788395
+user_0085,payment received.,2025-05-31T22:37:46.716365,group_5,middleman,1,0,0.5950412281515748,0,submissive,0.11784414018212708,cautious,overconfidence,0.6701163999947225
+user_0095,"don't tell anyone else, okay?",2025-05-20T06:36:46.716365,group_7,middleman,1,0,0.3625976689820444,0,dominant,-0.3165353097369037,cautious,overconfidence,0.22654304653388724
+user_0018,payment received.,2025-05-19T12:49:46.716365,group_5,supplier,0,1,0.8763927725427418,0,neutral,-0.24656025835495066,bold,overconfidence,0.8313450566891255
+user_0099,"everything is under control, trust me.",2025-05-23T13:20:46.716365,group_8,supplier,1,1,0.6763629221885329,0,submissive,0.2211908442516315,cautious,overconfidence,0.5340111496982611
+user_0040,are you sure this is safe?,2025-05-24T20:27:46.716365,group_6,middleman,1,1,0.769438551975576,1,neutral,0.05491957692296534,bold,overconfidence,0.8012592241515476
+user_0018,contact the middleman first.,2025-05-18T09:31:46.716365,group_8,smuggler,0,0,0.28506301405932843,0,submissive,-0.10136155925234847,bold,confirmation,0.09171356965909339
+user_0029,"we need to move fast, no time to think.",2025-05-31T22:22:46.716365,group_1,smuggler,0,1,0.5020071146932354,0,submissive,0.9890507024765824,cautious,overconfidence,0.02818754552815006
+user_0013,"honestly, i don't know if this will work...",2025-05-22T16:03:46.716365,group_3,supplier,1,1,0.6960719885759836,0,neutral,-0.061779745689012566,bold,overconfidence,0.01900388491097038
+user_0028,payment received.,2025-06-09T23:58:46.716365,group_10,middleman,1,0,0.7761726326353965,0,submissive,-0.7563033096827649,bold,confirmation,0.6389517321728103
+user_0080,"we need to move fast, no time to think.",2025-05-18T21:08:46.716365,group_2,smuggler,0,0,0.7185443277923527,1,submissive,-0.996871328133202,cautious,overconfidence,0.5706637160224288
+user_0024,let me know when you arrive.,2025-06-08T20:19:46.716365,group_6,supplier,0,1,0.8733314385275176,0,neutral,-0.2262373569452849,cautious,confirmation,0.7473165915626453
+user_0046,let me know when you arrive.,2025-05-31T17:08:46.716365,group_4,middleman,0,1,0.13340958985936402,1,neutral,-0.32290548364059846,bold,none,0.46462289974703774
+user_0090,are you sure this is safe?,2025-06-13T18:33:46.716365,group_3,supplier,0,1,0.03698379019977571,0,dominant,0.5822184264580879,bold,confirmation,0.9333709799503973
+user_0066,"if you get caught, say nothing.",2025-06-09T17:40:46.716365,group_8,smuggler,0,0,0.28611089555154867,0,neutral,-0.33615062723731093,bold,confirmation,0.4369513831249364
+user_0052,"we need to move fast, no time to think.",2025-06-02T14:51:46.716365,group_6,supplier,1,1,0.36734692695968196,1,dominant,0.45416264868527145,bold,confirmation,0.6024532988302272
+user_0024,"just follow my lead, don't ask questions.",2025-05-29T09:24:46.716365,group_6,supplier,0,1,0.6609192214581366,1,submissive,0.2052432554611996,cautious,overconfidence,0.6897648084454863
+user_0045,"we need to move fast, no time to think.",2025-05-17T22:47:46.716365,group_6,middleman,1,1,0.6394693104924803,0,dominant,0.34236777778733574,cautious,confirmation,0.5130860194645521
+user_0096,"change of plans, update soon.",2025-05-17T10:32:46.716365,group_3,middleman,1,0,0.12623002430225427,0,neutral,-0.2673430537857029,cautious,none,0.03238532397966698
+user_0020,"we need to move fast, no time to think.",2025-06-01T21:43:46.716365,group_6,smuggler,0,0,0.5294598815362896,1,submissive,0.2991214734120631,bold,overconfidence,0.02591334086414321
+user_0024,are you sure this is safe?,2025-06-08T14:02:46.716365,group_7,middleman,0,1,0.7749644835314882,1,dominant,0.9927302243095215,cautious,none,0.9164789095418814
+user_0063,keep it quiet.,2025-05-21T14:29:46.716365,group_3,supplier,1,0,0.8986790307862303,1,dominant,0.6210264367152638,cautious,none,0.34742529473856454
+user_0009,"just follow my lead, don't ask questions.",2025-06-09T16:43:46.716365,group_5,smuggler,0,0,0.7936963838450027,0,dominant,0.9702650934603865,bold,overconfidence,0.7903730608077492
+user_0004,"i swear, you can trust me.",2025-06-10T05:40:46.716365,group_10,smuggler,1,0,0.6119483626205209,0,dominant,-0.3814185649430757,cautious,none,0.4107951206651669
+user_0053,i feel nervous about this run.,2025-05-19T09:05:46.716365,group_3,smuggler,0,1,0.46583319962105885,1,dominant,0.7559203033008235,bold,overconfidence,0.43261828648197487
+user_0008,the shipment is delayed.,2025-06-08T14:26:46.716365,group_3,smuggler,0,0,0.3226607511545556,0,submissive,0.8949662736192949,cautious,overconfidence,0.25060530898199906
+user_0082,"just follow my lead, don't ask questions.",2025-05-28T12:18:46.716365,group_3,middleman,1,0,0.5025731447412627,0,neutral,0.8832139757371917,bold,overconfidence,0.6587328733837543
+user_0093,"everything is under control, trust me.",2025-05-31T09:18:46.716365,group_10,supplier,0,0,0.04546180329134197,1,neutral,-0.5783832405960709,cautious,none,0.6389911922088705
+user_0064,"just follow my lead, don't ask questions.",2025-05-29T04:55:46.716365,group_5,smuggler,0,1,0.2974338714297423,0,neutral,-0.880173934130662,cautious,confirmation,0.4842511301073592
+user_0027,"honestly, i don't know if this will work...",2025-06-12T15:10:46.716365,group_3,smuggler,1,1,0.9753741279148802,0,submissive,0.029960268164444193,bold,confirmation,0.2417378609364671
+user_0016,contact the middleman first.,2025-06-05T11:36:46.716365,group_4,supplier,0,0,0.2902120049699015,1,neutral,-0.1637305133302469,bold,confirmation,0.9337515352494048
+user_0093,"honestly, i don't know if this will work...",2025-05-24T15:52:46.716365,group_3,smuggler,1,1,0.8790756636004186,1,dominant,-0.8199018099124313,cautious,none,0.45723064218973086
+user_0031,keep it quiet.,2025-06-11T13:42:46.716365,group_6,supplier,0,1,0.4948942035251763,1,submissive,0.07338149857785403,bold,confirmation,0.13393494399231465
+user_0034,"i swear, you can trust me.",2025-06-03T08:59:46.716365,group_6,supplier,1,0,0.5702816438810293,0,submissive,0.10644585324230338,bold,confirmation,0.5042555291232047
+user_0098,"just follow my lead, don't ask questions.",2025-05-28T18:03:46.716365,group_10,middleman,0,0,0.975082815413784,1,submissive,0.5897944567618916,cautious,none,0.9389485669553754
+user_0097,payment received.,2025-05-25T01:57:46.716365,group_10,middleman,1,0,0.04530335246707473,0,neutral,-0.3339185892944656,cautious,none,0.45698855928287396
+user_0078,"don't tell anyone else, okay?",2025-05-22T09:12:46.716365,group_6,middleman,1,0,0.3929545878664831,1,neutral,-0.3272530956966433,cautious,none,0.5629242606445444
+user_0061,meet at the usual spot.,2025-06-01T18:52:46.716365,group_6,middleman,0,1,0.5837021418487863,0,neutral,-0.05081957182987895,bold,none,0.051355165120387625
+user_0062,"change of plans, update soon.",2025-06-08T21:08:46.716365,group_10,smuggler,0,0,0.03157051334209937,0,dominant,-0.9621252649867749,cautious,confirmation,0.15143125811934544
+user_0089,keep it quiet.,2025-06-03T16:46:46.716365,group_9,middleman,1,0,0.7057752321517652,0,neutral,-0.34990093114789045,cautious,none,0.37682477618569576
+user_0023,"we need to move fast, no time to think.",2025-06-09T06:51:46.716365,group_6,middleman,1,1,0.6100765800787515,0,dominant,-0.4419872081564866,cautious,overconfidence,0.9414855463274614
+user_0039,everything is set.,2025-05-25T10:56:46.716365,group_8,smuggler,1,1,0.5604875902362195,1,submissive,-0.7562517885345699,cautious,confirmation,0.8183774601305623
+user_0099,payment received.,2025-05-29T05:47:46.716365,group_1,smuggler,0,1,0.9240096318898805,1,neutral,-0.04184147396703364,bold,none,0.2711327219979758
+user_0072,contact the middleman first.,2025-05-22T06:28:46.716365,group_2,middleman,0,0,0.050765429957464026,0,neutral,-0.5343268803880945,bold,confirmation,0.3302936234873388
+user_0061,the shipment is delayed.,2025-05-22T06:41:46.716365,group_1,middleman,0,1,0.6528927977012998,1,submissive,0.30107738374853077,cautious,confirmation,0.28541534130199187
+user_0008,let me know when you arrive.,2025-06-14T17:01:46.716365,group_10,supplier,0,0,0.41788498224500537,0,dominant,0.9943436061770199,cautious,confirmation,0.1863116319224889
+user_0096,everything is set.,2025-05-17T17:27:46.716365,group_1,smuggler,0,1,0.28456165235004627,1,dominant,0.7021194771559933,cautious,confirmation,0.19281139827380978
+user_0015,"honestly, i don't know if this will work...",2025-05-23T10:01:46.716365,group_8,middleman,1,0,0.014084195618464745,1,submissive,0.13556244484187863,bold,overconfidence,0.610954499663014
+user_0082,"if you get caught, say nothing.",2025-06-04T11:41:46.716365,group_9,smuggler,0,1,0.6692558534099542,0,dominant,-0.045091803020214094,bold,overconfidence,0.26078527706544385
+user_0031,"we need to move fast, no time to think.",2025-05-28T04:09:46.716365,group_6,smuggler,0,1,0.6536833670701987,0,dominant,0.3355722295973427,cautious,confirmation,0.15971682522756314
+user_0088,"don't tell anyone else, okay?",2025-05-30T04:12:46.716365,group_2,middleman,1,1,0.614625448143849,0,dominant,-0.04363620052955208,cautious,none,0.9888379618953089
+user_0048,"i promise, this is the last time.",2025-06-10T00:26:46.716365,group_8,middleman,0,0,0.680341919919398,0,neutral,-0.10650404500703337,cautious,overconfidence,0.9172447067809755
+user_0015,package is ready for pickup.,2025-06-09T22:42:46.716365,group_9,supplier,0,0,0.3281176377422065,1,dominant,0.3605904758781415,cautious,overconfidence,0.8988893517134737
+user_0058,package is ready for pickup.,2025-06-05T15:48:46.716365,group_3,middleman,1,1,0.5639111850987134,1,neutral,0.613830705108785,bold,confirmation,0.25445721906761243
+user_0001,keep it quiet.,2025-06-11T08:12:46.716365,group_2,supplier,1,1,0.7003848780971759,0,dominant,0.9722744961645537,cautious,overconfidence,0.2870907068913201
+user_0024,payment received.,2025-06-14T05:14:46.716365,group_7,smuggler,1,1,0.8696202853107085,1,submissive,-0.8395000147412666,bold,none,0.8602865811271212
+user_0016,"change of plans, update soon.",2025-06-09T11:21:46.716365,group_7,middleman,0,0,0.8348216116687155,0,submissive,-0.07399219761044007,cautious,none,0.3792764680337938
+user_0030,use the new route.,2025-06-05T23:39:46.716365,group_6,supplier,1,0,0.9374103611350668,0,dominant,0.6189563670783889,cautious,none,0.7660534675139034
+user_0003,use the new route.,2025-05-25T09:37:46.716365,group_2,supplier,0,1,0.5977848967315527,0,dominant,0.48108215695972323,cautious,confirmation,0.23433927848756164
+user_0028,package is ready for pickup.,2025-05-22T09:35:46.716365,group_9,smuggler,0,1,0.577474814637882,1,dominant,-0.3964711297115935,bold,none,0.5212510542649235
+user_0053,everything is set.,2025-05-28T13:04:46.716365,group_1,middleman,0,1,0.5558506659837126,0,submissive,0.8831728196638235,cautious,none,0.3187344573163122
+user_0054,"i promise, this is the last time.",2025-05-22T19:31:46.716365,group_5,smuggler,0,1,0.24096818901107409,0,submissive,0.7150824771460413,bold,confirmation,0.9147411738159055
+user_0072,"i promise, this is the last time.",2025-06-03T23:28:46.716365,group_9,middleman,0,1,0.24285851608958575,0,submissive,0.2934117030958894,cautious,confirmation,0.09246399652686366
+user_0093,keep it quiet.,2025-05-18T08:49:46.716365,group_5,smuggler,0,0,0.18816329393275533,0,submissive,-0.5822218228954994,cautious,confirmation,0.9570197605266731
+user_0002,keep it quiet.,2025-05-24T16:05:46.716365,group_2,middleman,1,0,0.6956262857049818,0,submissive,0.8302529191871129,cautious,confirmation,0.38066174437292255
+user_0069,"i swear, you can trust me.",2025-05-30T01:24:46.716365,group_5,smuggler,1,1,0.09860823156548004,1,submissive,0.8286609977949781,cautious,confirmation,0.4139301705786246
+user_0073,use the new route.,2025-05-22T15:55:46.716365,group_1,smuggler,1,1,0.15241141018414328,1,dominant,-0.24032045051769169,bold,confirmation,0.5506425325170752
+user_0088,"honestly, i don't know if this will work...",2025-05-27T17:36:46.716365,group_8,middleman,1,1,0.168233645951541,1,dominant,-0.7200829428387654,cautious,overconfidence,0.9168993896943668
+user_0070,package is ready for pickup.,2025-06-08T20:49:46.716365,group_1,supplier,0,0,0.4123922224155927,0,dominant,0.4143391274069197,bold,overconfidence,0.5057329196930651
+user_0048,package is ready for pickup.,2025-06-13T03:22:46.716365,group_10,smuggler,1,0,0.0066123569921588965,1,dominant,-0.9665477047947402,cautious,none,0.9774793482325117
+user_0003,"don't tell anyone else, okay?",2025-06-04T14:50:46.716365,group_3,supplier,0,0,0.24096883231350819,1,submissive,-0.4653505266467284,cautious,overconfidence,0.37305158346368217
+user_0052,"we need to move fast, no time to think.",2025-06-10T17:39:46.716365,group_4,middleman,0,1,0.6840416254703855,0,neutral,0.9833494105669729,bold,overconfidence,0.4052782981042863
+user_0049,"just follow my lead, don't ask questions.",2025-06-06T16:27:46.716365,group_1,middleman,0,0,0.08268612250580176,1,neutral,0.5687526215802223,bold,none,0.9191522154402119
+user_0030,keep it quiet.,2025-06-10T19:36:46.716365,group_8,smuggler,0,0,0.6844287434636415,1,neutral,0.12701972809596707,bold,overconfidence,0.9287663612546593
+user_0041,meet at the usual spot.,2025-05-25T10:48:46.716365,group_10,supplier,1,0,0.2992768895808625,0,neutral,0.669301120183504,cautious,none,0.8965257670027198
+user_0043,"if you get caught, say nothing.",2025-05-22T09:23:46.716365,group_2,middleman,1,0,0.09768578735804745,0,dominant,-0.3188145070497881,cautious,confirmation,0.029625658945165112
+user_0035,"we need to move fast, no time to think.",2025-06-07T08:24:46.716365,group_4,smuggler,1,1,0.185737845895401,1,dominant,0.5443348082693797,cautious,overconfidence,0.7131085326783857
+user_0011,contact the middleman first.,2025-05-23T00:59:46.716365,group_7,middleman,0,1,0.31667822868153617,0,dominant,-0.9896095552599398,cautious,confirmation,0.3599174973468966
+user_0035,the shipment is delayed.,2025-05-22T01:15:46.716365,group_2,supplier,1,1,0.5569850322212279,1,dominant,-0.9474761919734056,cautious,none,0.09306426045987415
+user_0077,"honestly, i don't know if this will work...",2025-06-02T13:18:46.716365,group_1,smuggler,1,1,0.7791691056244039,0,neutral,0.04220906152699766,cautious,overconfidence,0.13884005895941676
+user_0039,contact the middleman first.,2025-06-07T11:09:46.716365,group_3,supplier,0,1,0.2759618716024036,1,submissive,0.565333248330971,cautious,confirmation,0.9442222956313943
+user_0093,are you sure this is safe?,2025-06-12T01:07:46.716365,group_10,supplier,1,0,0.13548952568067607,0,submissive,-0.3355655693767461,cautious,confirmation,0.4402229214812533
+user_0056,"everything is under control, trust me.",2025-05-22T05:13:46.716365,group_5,smuggler,0,1,0.31418328119544137,1,submissive,-0.41710369683989357,cautious,none,0.7819743696035765
+user_0042,"if you get caught, say nothing.",2025-05-28T18:41:46.716365,group_7,smuggler,0,0,0.5922270342503855,0,neutral,0.53523581549673,bold,none,0.46162222283314847
+user_0091,keep it quiet.,2025-06-04T23:26:46.716365,group_5,middleman,0,1,0.6729776523955405,0,neutral,-0.39433471497861805,cautious,none,0.15414323445585654
+user_0055,"if you get caught, say nothing.",2025-05-19T09:19:46.716365,group_8,middleman,1,1,0.5343674012021171,1,neutral,-0.926469671864496,cautious,none,0.8955015153608991
+user_0069,"everything is under control, trust me.",2025-06-14T01:35:46.716365,group_2,supplier,0,1,0.16633849328011152,0,neutral,0.9672164119039655,cautious,confirmation,0.9657167777138282
+user_0056,the shipment is delayed.,2025-05-16T12:03:46.716365,group_2,smuggler,0,0,0.44577855150490675,1,submissive,0.5446844649248641,bold,confirmation,0.9977027254146534
+user_0062,the shipment is delayed.,2025-05-29T11:13:46.716365,group_7,supplier,0,0,0.34832865232147525,1,submissive,0.5685399950573939,cautious,confirmation,0.4761625312091635
+user_0057,"we need to move fast, no time to think.",2025-05-30T12:52:46.716365,group_2,smuggler,0,0,0.02258511520311235,1,neutral,-0.7812746364304524,bold,none,0.2439129465519927
+user_0023,"just follow my lead, don't ask questions.",2025-05-23T07:26:46.716365,group_6,middleman,1,1,0.23185554741141035,1,neutral,-0.6310964496972127,cautious,confirmation,0.02919227434239058
+user_0079,keep it quiet.,2025-06-05T11:35:46.716365,group_10,smuggler,1,0,0.7047356159597344,0,submissive,0.5046509907209833,bold,none,0.10175204872714239
+user_0069,"change of plans, update soon.",2025-06-01T16:04:46.716365,group_6,supplier,1,0,0.2623533954523609,1,neutral,0.9318327998982159,cautious,none,0.38863926091274925
+user_0051,i feel nervous about this run.,2025-05-21T05:18:46.716365,group_6,smuggler,1,0,0.8137382542609338,1,neutral,0.18033672995495742,bold,confirmation,0.11786165266165671
+user_0040,the shipment is delayed.,2025-05-24T08:28:46.716365,group_6,middleman,0,1,0.4182391062112586,0,neutral,-0.23258007432462602,bold,confirmation,0.6355016420586352
+user_0089,"change of plans, update soon.",2025-06-10T06:38:46.716365,group_3,smuggler,1,0,0.18709857996240264,1,neutral,-0.8927774747383264,cautious,overconfidence,0.48460891944568385
+user_0025,"if you get caught, say nothing.",2025-06-10T13:55:46.716365,group_9,middleman,1,1,0.6846966705599865,1,neutral,0.6797836042024454,cautious,overconfidence,0.08267062578646689
+user_0004,use the new route.,2025-05-29T07:34:46.716365,group_1,smuggler,0,1,0.1682089774365737,1,neutral,0.4850365038595741,cautious,none,0.5108059802145585
+user_0074,the shipment is delayed.,2025-05-28T05:08:46.716365,group_9,smuggler,0,1,0.5463532747219646,1,dominant,0.47197739526734805,bold,confirmation,0.8748098462768843
+user_0005,"we need to move fast, no time to think.",2025-05-27T23:35:46.716365,group_6,supplier,1,0,0.7756316498807736,0,dominant,0.6214054336788204,cautious,none,0.6102618026194768
+user_0055,"change of plans, update soon.",2025-06-13T01:32:46.716365,group_3,supplier,0,0,0.5700743448049983,1,neutral,0.07753709209527604,cautious,none,0.29263469792405694
+user_0074,contact the middleman first.,2025-06-08T10:24:46.716365,group_2,supplier,1,0,0.9924862256446744,0,neutral,0.7321575899823136,bold,overconfidence,0.711394848839169
+user_0032,"if you get caught, say nothing.",2025-06-07T07:09:46.716365,group_3,middleman,1,1,0.375172327846227,0,neutral,0.5891972613353293,bold,confirmation,0.515613472087699
+user_0036,"i swear, you can trust me.",2025-06-05T17:10:46.716365,group_8,smuggler,0,0,0.730931937487053,1,neutral,0.32828764166368507,cautious,overconfidence,0.7956779266478453
+user_0051,keep it quiet.,2025-06-04T13:49:46.716365,group_4,smuggler,1,1,0.828343617048808,1,neutral,0.15586728052190302,cautious,confirmation,0.894154658038556
+user_0098,package is ready for pickup.,2025-05-18T02:42:46.716365,group_2,middleman,1,0,0.12423717923039845,0,submissive,-0.08696372806018715,cautious,overconfidence,0.9956940687342872
+user_0017,everything is set.,2025-05-23T06:10:46.716365,group_5,supplier,1,1,0.08242053070547994,0,dominant,-0.20731686613553357,cautious,none,0.6994413715245735
+user_0030,"i promise, this is the last time.",2025-06-14T20:29:46.716365,group_2,middleman,0,0,0.2134211769462131,0,dominant,0.18735899368212894,cautious,overconfidence,0.00806256901917679
+user_0044,the shipment is delayed.,2025-06-04T05:48:46.716365,group_3,smuggler,0,0,0.3830699256757727,0,dominant,-0.3732970451181876,cautious,overconfidence,0.3827210498859024
+user_0097,payment received.,2025-06-14T05:18:46.716365,group_3,supplier,0,0,0.44009942077985187,0,neutral,0.496537672748776,cautious,none,0.6865661698757399
+user_0028,let me know when you arrive.,2025-05-20T14:16:46.716365,group_3,supplier,1,1,0.9632487105532641,1,dominant,-0.5044272500728422,bold,overconfidence,0.5533966317847301
+user_0077,"everything is under control, trust me.",2025-05-28T23:44:46.716365,group_1,middleman,1,0,0.5177491277972375,0,neutral,-0.21649796820369294,bold,overconfidence,0.49488771994326686
+user_0015,use the new route.,2025-06-07T18:12:46.716365,group_10,supplier,0,1,0.9339244016742159,0,submissive,0.7216280078734949,cautious,confirmation,0.546356221161351
+user_0023,are you sure this is safe?,2025-05-19T08:15:46.716365,group_1,middleman,0,0,0.2621852771620671,0,dominant,0.8973599938942491,cautious,none,0.28648780009575703
+user_0092,"don't tell anyone else, okay?",2025-06-03T22:17:46.716365,group_7,middleman,1,0,0.6405372883123518,0,submissive,-0.8328058524443673,bold,none,0.9209248587727359
+user_0020,"just follow my lead, don't ask questions.",2025-05-30T21:25:46.716365,group_7,middleman,0,1,0.6986758816054913,0,dominant,-0.511040492561269,cautious,overconfidence,0.45337184229714267
+user_0078,package is ready for pickup.,2025-05-30T02:21:46.716365,group_3,supplier,0,0,0.7014996112238661,0,submissive,0.9060324035093952,cautious,overconfidence,0.37186943089165236
+user_0096,contact the middleman first.,2025-05-21T09:28:46.716365,group_1,smuggler,1,1,0.5238542114486693,1,neutral,0.9501011755563566,bold,confirmation,0.4551977776794275
+user_0047,package is ready for pickup.,2025-06-07T18:14:46.716365,group_10,supplier,1,0,0.2551160810390781,0,neutral,0.34824086312619396,bold,overconfidence,0.7407799624564118
+user_0001,package is ready for pickup.,2025-05-16T13:57:46.716365,group_4,supplier,1,1,0.3829794743673991,0,dominant,0.862320154314371,bold,none,0.8031154864575539
+user_0092,"i promise, this is the last time.",2025-05-26T05:45:46.716365,group_6,supplier,1,1,0.27125795800981667,0,neutral,-0.25438366652427735,bold,overconfidence,0.22318506095065183
+user_0067,package is ready for pickup.,2025-06-03T06:27:46.716365,group_2,smuggler,1,1,0.3273009217261189,1,dominant,-0.2621612816949017,cautious,none,0.7845072172873415
+user_0095,"everything is under control, trust me.",2025-05-27T01:29:46.716365,group_8,smuggler,1,0,0.7324633367392666,0,dominant,-0.9872442344963919,cautious,overconfidence,0.23299774185974298
+user_0045,meet at the usual spot.,2025-05-31T06:27:46.716365,group_1,middleman,1,1,0.10394901935155965,0,submissive,-0.0159422463002048,bold,overconfidence,0.7116524747001027
+user_0012,package is ready for pickup.,2025-05-26T13:21:46.716365,group_9,smuggler,1,1,0.9745547901682511,0,neutral,-0.8088459893252289,bold,none,0.819962891894216
+user_0010,i feel nervous about this run.,2025-06-10T20:44:46.716365,group_1,smuggler,0,0,0.2916760240569035,1,submissive,0.40145121264308425,cautious,confirmation,0.45275785231557386
+user_0030,let me know when you arrive.,2025-05-25T05:56:46.716365,group_3,middleman,0,0,0.10565775010269118,1,submissive,-0.3719334243757644,bold,none,0.35828744593735573
+user_0099,keep it quiet.,2025-06-05T14:08:46.716365,group_5,smuggler,1,0,0.09042088804852488,1,neutral,0.3937559664741528,bold,overconfidence,0.8359247509879862
+user_0042,payment received.,2025-05-20T04:09:46.716365,group_4,smuggler,1,0,0.6771833769890718,1,dominant,-0.9378358132824809,cautious,confirmation,0.5559537615483883
+user_0071,use the new route.,2025-05-20T07:59:46.716365,group_8,supplier,0,0,0.011956923169412992,0,dominant,-0.6037339296389608,cautious,confirmation,0.6862852620355602
+user_0083,let me know when you arrive.,2025-06-11T12:35:46.716365,group_10,smuggler,0,0,0.9971614261304739,0,neutral,-0.11313735232802236,bold,overconfidence,0.9050779703801529
+user_0043,the shipment is delayed.,2025-05-17T23:10:46.716365,group_8,supplier,0,1,0.8216854015322838,1,submissive,-0.941035413999417,cautious,overconfidence,0.35394325267312
+user_0024,contact the middleman first.,2025-05-28T18:12:46.716365,group_8,supplier,0,0,0.6472784004740801,1,submissive,0.7655571483178236,cautious,overconfidence,0.08772155105900747
+user_0050,payment received.,2025-06-04T02:26:46.716365,group_4,middleman,0,0,0.9894036157615339,1,submissive,0.08903561206810329,cautious,confirmation,0.912677016598367
+user_0065,"honestly, i don't know if this will work...",2025-06-02T16:44:46.716365,group_5,supplier,0,1,0.5971163527594521,0,submissive,-0.882817539443763,cautious,none,0.35743289267154155
+user_0075,use the new route.,2025-05-23T06:53:46.716365,group_2,supplier,0,1,0.5336895645878103,0,dominant,0.15138421723999196,cautious,confirmation,0.9352060320915448
+user_0023,"change of plans, update soon.",2025-05-26T18:54:46.716365,group_10,smuggler,1,0,0.7034528829199135,1,neutral,0.1272129735663874,bold,confirmation,0.5421246015209933
+user_0023,are you sure this is safe?,2025-05-17T17:59:46.716365,group_2,supplier,0,0,0.0199279898885526,1,dominant,-0.3365320128515932,bold,overconfidence,0.3407590442667725
+user_0023,"honestly, i don't know if this will work...",2025-05-18T17:35:46.716365,group_1,supplier,0,0,0.8464808875791346,1,dominant,-0.2528184398332536,cautious,none,0.10103217018068633
+user_0039,"honestly, i don't know if this will work...",2025-05-22T05:34:46.716365,group_3,middleman,1,1,0.649180265644814,0,neutral,0.9374857926663354,cautious,overconfidence,0.6655316694747667
+user_0023,"if you get caught, say nothing.",2025-05-29T23:39:46.716365,group_5,supplier,0,0,0.9487881042212877,1,neutral,-0.9352345141458251,cautious,none,0.22089525043701208
+user_0073,the shipment is delayed.,2025-06-07T14:29:46.716365,group_3,smuggler,0,0,0.34681012468322847,1,dominant,0.2723735404807366,bold,none,0.6700245711140534
+user_0094,"honestly, i don't know if this will work...",2025-06-05T08:22:46.716365,group_1,smuggler,0,0,0.6931760763212649,1,submissive,0.5740400121813207,bold,overconfidence,0.3859370979534099
+user_0094,"i promise, this is the last time.",2025-05-23T14:13:46.716365,group_7,smuggler,1,1,0.5460239676784543,0,submissive,0.5774599889524388,bold,overconfidence,0.4512874191530748
+user_0005,everything is set.,2025-05-16T22:27:46.716365,group_6,smuggler,0,0,0.34180820114988975,1,dominant,0.4639701705426338,bold,confirmation,0.5940305440520949
+user_0079,are you sure this is safe?,2025-05-17T10:23:46.716365,group_7,middleman,0,1,0.15710377733078407,0,submissive,-0.5888990465641257,bold,confirmation,0.6971967038073571
+user_0093,"just follow my lead, don't ask questions.",2025-05-28T02:16:46.716365,group_5,smuggler,0,0,0.04963544303850986,1,dominant,-0.8909902965898973,bold,confirmation,0.08762835930697199
+user_0085,"everything is under control, trust me.",2025-06-06T21:10:46.716365,group_4,supplier,0,0,0.17083219169222308,1,dominant,-0.05285869771586249,bold,confirmation,0.7848765730669152
+user_0061,are you sure this is safe?,2025-05-28T01:59:46.716365,group_2,middleman,1,0,0.37102052484074743,1,submissive,-0.6268341176841368,bold,confirmation,0.43974042285276915
+user_0034,use the new route.,2025-05-28T05:52:46.716365,group_10,supplier,0,0,0.08570731183991709,1,neutral,-0.17202669425747508,bold,none,0.060983746057727606
+user_0050,"don't tell anyone else, okay?",2025-06-04T01:47:46.716365,group_9,middleman,1,0,0.4762622810814686,0,submissive,0.8055544026783081,bold,none,0.5712199352715541
+user_0067,i feel nervous about this run.,2025-06-13T06:02:46.716365,group_3,supplier,1,0,0.9490614830282925,0,dominant,0.6169214426387262,bold,overconfidence,0.42337489931559946
+user_0088,"i promise, this is the last time.",2025-05-25T05:04:46.716365,group_3,middleman,1,1,0.9108044857315942,0,dominant,-0.22380169397049854,cautious,none,0.32612680536973604
+user_0036,"don't tell anyone else, okay?",2025-06-05T20:57:46.716365,group_1,middleman,1,0,0.4144423987689787,0,neutral,0.175868266562776,bold,overconfidence,0.5626837594773225
+user_0013,everything is set.,2025-06-09T09:35:46.716365,group_6,smuggler,1,1,0.6547876707135497,1,dominant,-0.6556005436865369,cautious,overconfidence,0.6182444886017983
+user_0088,"if you get caught, say nothing.",2025-05-17T18:53:46.716365,group_7,smuggler,0,0,0.7457498198391361,1,submissive,-0.9595342228134562,cautious,confirmation,0.2803466531846416
+user_0063,the shipment is delayed.,2025-05-26T09:31:46.716365,group_3,smuggler,1,1,0.26941998100876363,1,neutral,0.2911096228552885,bold,confirmation,0.2113905021058976
+user_0053,are you sure this is safe?,2025-06-08T12:41:46.716365,group_6,supplier,0,0,0.31112309328890886,1,dominant,0.561032859255304,bold,overconfidence,0.19276344683155822
+user_0026,package is ready for pickup.,2025-05-27T09:02:46.716365,group_1,smuggler,0,1,0.7046339452200365,1,submissive,0.6470125833782323,cautious,none,0.9230735683729712
+user_0088,meet at the usual spot.,2025-05-27T00:47:46.716365,group_6,smuggler,1,0,0.9605203782802877,1,neutral,0.10266744121551352,cautious,overconfidence,0.8376537702567273
+user_0034,let me know when you arrive.,2025-05-28T23:54:46.716365,group_1,smuggler,0,0,0.8538213265855465,0,dominant,0.29475978352296406,bold,confirmation,0.6515873328559636
+user_0066,meet at the usual spot.,2025-05-16T10:15:46.716365,group_8,supplier,0,0,0.22377003172330878,1,neutral,0.9340488867367533,cautious,confirmation,0.8954829750692505
+user_0045,"we need to move fast, no time to think.",2025-05-27T11:46:46.716365,group_4,smuggler,1,1,0.5844871558421262,0,neutral,0.9988587597363507,cautious,none,0.6473421200645904
+user_0078,everything is set.,2025-05-29T14:32:46.716365,group_2,smuggler,0,1,0.9883609658217671,1,submissive,-0.4777061841470063,cautious,overconfidence,0.14992929635415653
+user_0098,use the new route.,2025-05-18T14:32:46.716365,group_10,smuggler,1,0,0.7212831975926106,1,submissive,-0.48114745457602215,cautious,confirmation,0.38827492100545835
+user_0005,i feel nervous about this run.,2025-06-11T01:21:46.716365,group_4,smuggler,0,1,0.9065265055050548,1,neutral,-0.39961034289867814,bold,none,0.8764947843421105
+user_0024,everything is set.,2025-05-20T11:08:46.716365,group_8,supplier,1,0,0.9469233801939514,1,neutral,-0.8214003559611216,cautious,overconfidence,0.744209929342808
+user_0040,"i promise, this is the last time.",2025-05-31T02:25:46.716365,group_6,smuggler,1,1,0.8512138882114102,1,dominant,0.7327867393850793,bold,confirmation,0.8894260614703878
+user_0065,the shipment is delayed.,2025-06-02T09:25:46.716365,group_9,smuggler,1,0,0.8708491463530046,0,dominant,0.9846957057758656,cautious,confirmation,0.9871915993795065
+user_0059,payment received.,2025-05-30T10:06:46.716365,group_3,supplier,1,1,0.6310327722626952,0,submissive,0.268997938305342,bold,confirmation,0.2735278622014996
+user_0098,"change of plans, update soon.",2025-06-11T05:59:46.716365,group_3,smuggler,0,0,0.6144797387250618,1,submissive,-0.14194910279917972,cautious,confirmation,0.004669137580136318
+user_0069,keep it quiet.,2025-06-02T00:03:46.716365,group_1,smuggler,0,0,0.6767481416771101,0,dominant,0.3870494943407943,cautious,confirmation,0.12893080042830274
+user_0050,"don't tell anyone else, okay?",2025-06-11T19:31:46.716365,group_5,supplier,0,0,0.29820225349413876,1,submissive,0.4556638228936256,cautious,confirmation,0.8879740438370417
+user_0018,"honestly, i don't know if this will work...",2025-06-07T07:56:46.716365,group_6,supplier,0,1,0.019124733123319415,0,neutral,0.9697590489865209,bold,none,0.021913272065615885
+user_0065,"change of plans, update soon.",2025-05-21T15:03:46.716365,group_6,middleman,0,1,0.8765441375994762,1,neutral,0.24626955462376698,bold,none,0.10811345021104524
+user_0003,package is ready for pickup.,2025-05-21T07:00:46.716365,group_7,smuggler,1,0,0.5472823847289255,1,neutral,-0.6937458037511273,bold,confirmation,0.4208714564268632
+user_0013,"don't tell anyone else, okay?",2025-05-28T07:25:46.716365,group_10,middleman,0,1,0.8306527204708898,0,neutral,0.4375324490323358,bold,confirmation,0.11401255268424793
+user_0014,are you sure this is safe?,2025-05-25T01:30:46.716365,group_10,supplier,1,0,0.35792183655080756,1,submissive,-0.6792528027384623,cautious,overconfidence,0.6882039154553736
+user_0062,"honestly, i don't know if this will work...",2025-05-26T16:40:46.716365,group_1,supplier,0,0,0.8352321652632412,1,dominant,0.8988920314622322,bold,none,0.7235762484467809
+user_0033,use the new route.,2025-06-05T19:25:46.716365,group_5,smuggler,1,0,0.09980891505761746,0,dominant,0.7044973714734193,cautious,none,0.31270710696276427
+user_0095,the shipment is delayed.,2025-05-20T08:17:46.716365,group_1,supplier,0,0,0.3286608260685756,1,neutral,-0.46338120283967954,bold,confirmation,0.8149642895364964
+user_0024,the shipment is delayed.,2025-06-03T06:17:46.716365,group_7,smuggler,1,1,0.689902431150314,1,submissive,0.29769296774452747,bold,overconfidence,0.13251157623655996
+user_0093,package is ready for pickup.,2025-05-23T06:38:46.716365,group_2,smuggler,1,1,0.1812605605373021,1,submissive,0.22271683855080937,bold,confirmation,0.9203979856381027
+user_0015,"i promise, this is the last time.",2025-06-05T01:52:46.716365,group_1,supplier,1,1,0.012360212985934038,0,neutral,0.7462871274098848,bold,confirmation,0.661713262845963
+user_0032,are you sure this is safe?,2025-05-31T18:11:46.716365,group_7,supplier,0,0,0.6433987165568129,0,neutral,0.6976911495520015,cautious,overconfidence,0.07486524247698478
+user_0063,"honestly, i don't know if this will work...",2025-05-26T23:39:46.716365,group_6,smuggler,0,0,0.550495569730679,1,submissive,0.6342066114395857,bold,confirmation,0.44418887645945904
+user_0074,"we need to move fast, no time to think.",2025-05-20T00:40:46.716365,group_8,smuggler,1,0,0.9806707389457028,0,dominant,-0.1931206820556739,bold,none,0.5490987896931895
+user_0012,"everything is under control, trust me.",2025-06-13T04:43:46.716365,group_5,middleman,0,1,0.9503551299933657,1,dominant,0.6331773731547312,cautious,confirmation,0.5601508451060682
+user_0080,"everything is under control, trust me.",2025-06-06T13:19:46.716365,group_6,middleman,1,0,0.09743702232330997,0,dominant,-0.3172857708463226,cautious,none,0.5219850866041359
+user_0090,the shipment is delayed.,2025-05-18T02:32:46.716365,group_3,smuggler,0,1,0.106961505519519,0,dominant,-0.7585083852676116,cautious,overconfidence,0.4570460082929889
+user_0025,"honestly, i don't know if this will work...",2025-05-20T22:14:46.716365,group_7,supplier,0,1,0.45738787694615635,0,submissive,-0.9913247446661542,bold,none,0.9353082808316526
+user_0075,are you sure this is safe?,2025-06-08T03:46:46.716365,group_3,middleman,0,0,0.10355396112356763,1,neutral,0.7627811340192352,cautious,none,0.9159102416970992
+user_0098,use the new route.,2025-05-28T11:22:46.716365,group_7,smuggler,1,1,0.8047968308133768,0,submissive,0.20504889935276327,cautious,none,0.5478059713595177
+user_0041,"just follow my lead, don't ask questions.",2025-06-13T19:28:46.716365,group_4,supplier,0,1,0.6866112973190365,0,neutral,0.30017277561395583,bold,none,0.5424914784305689
+user_0082,"honestly, i don't know if this will work...",2025-05-21T06:35:46.716365,group_6,middleman,1,1,0.6742434855391735,1,submissive,0.616609558653392,bold,overconfidence,0.3808703135350846
+user_0007,package is ready for pickup.,2025-05-25T02:52:46.716365,group_5,supplier,1,1,0.14642839014069597,0,neutral,0.5687148018947328,bold,none,0.03230638324232715
+user_0058,the shipment is delayed.,2025-06-13T01:29:46.716365,group_9,supplier,1,0,0.5109223036788938,1,neutral,0.3289871371832471,cautious,confirmation,0.41656623748467836
+user_0088,"honestly, i don't know if this will work...",2025-06-10T03:36:46.716365,group_1,supplier,1,0,0.620561695611849,1,dominant,0.8229727541474772,cautious,none,0.5466151367012413
+user_0078,keep it quiet.,2025-05-24T19:53:46.716365,group_5,smuggler,0,0,0.18697658153232366,0,neutral,0.02769370554914774,cautious,overconfidence,0.42850781440073427
+user_0072,contact the middleman first.,2025-05-21T22:36:46.716365,group_3,middleman,1,0,0.3305627887422691,0,dominant,-0.6925932328607405,cautious,none,0.05085544119522678
+user_0081,"everything is under control, trust me.",2025-05-29T17:28:46.716365,group_8,middleman,1,0,0.7840314485705014,1,neutral,-0.5600759691448851,bold,none,0.06817646910442587
+user_0065,"change of plans, update soon.",2025-06-03T22:50:46.716365,group_9,middleman,1,0,0.34940295086203565,0,neutral,-0.336232970192037,cautious,confirmation,0.21844528578451472
+user_0097,"everything is under control, trust me.",2025-06-09T03:58:46.716365,group_8,middleman,0,0,0.6689384679943866,1,dominant,0.8089929169753842,bold,overconfidence,0.682551360768528
+user_0042,"if you get caught, say nothing.",2025-05-21T04:22:46.716365,group_7,smuggler,1,0,0.9113359266286181,1,neutral,0.6056334750165877,cautious,confirmation,0.043851660910501744
+user_0084,keep it quiet.,2025-05-30T14:24:46.716365,group_9,supplier,0,0,0.9716287699064329,0,neutral,-0.8690563557925601,bold,none,0.42420945194114057
+user_0014,keep it quiet.,2025-06-09T11:54:46.716365,group_7,middleman,0,0,0.023752946102807093,1,dominant,-0.8249582041316028,bold,overconfidence,0.7942147869758903
+user_0072,let me know when you arrive.,2025-06-11T04:32:46.716365,group_4,smuggler,1,1,0.4511256637440417,1,submissive,-0.36719150816066626,cautious,none,0.11830576162661888
+user_0001,"everything is under control, trust me.",2025-05-18T21:36:46.716365,group_10,supplier,0,1,0.9280477501663338,0,submissive,0.5737837953251399,cautious,none,0.08650522143779271
+user_0098,"we need to move fast, no time to think.",2025-06-02T09:08:46.716365,group_7,middleman,0,1,0.15632347414991077,0,dominant,0.4935078232138239,cautious,none,0.14407553745848312
+user_0087,"i swear, you can trust me.",2025-05-16T12:42:46.716365,group_9,middleman,0,0,0.041773140467925574,1,neutral,0.09505090038447661,bold,confirmation,0.21005289069039057
+user_0095,"i swear, you can trust me.",2025-05-25T15:48:46.716365,group_7,middleman,0,0,0.18399272278538314,1,dominant,-0.7707549157536331,bold,none,0.4612652036895939
+user_0071,let me know when you arrive.,2025-05-29T06:00:46.716365,group_2,smuggler,0,0,0.7255892573341403,1,submissive,-0.2857232819763551,bold,overconfidence,0.2851371438765211
+user_0009,keep it quiet.,2025-05-30T11:38:46.716365,group_8,smuggler,1,1,0.6934581293476367,0,neutral,0.1337237859441851,cautious,confirmation,0.16863951090598017
+user_0041,use the new route.,2025-05-26T02:29:46.716365,group_7,smuggler,1,0,0.6795801798475741,1,submissive,-0.07430324784877951,cautious,confirmation,0.48697138243669136
+user_0014,"change of plans, update soon.",2025-06-14T09:38:46.716365,group_10,supplier,1,0,0.891297038932279,0,submissive,0.467089234088895,bold,none,0.07539995679337663
+user_0003,"don't tell anyone else, okay?",2025-06-13T18:26:46.716365,group_1,middleman,1,0,0.9063035773981832,1,neutral,0.7879718690921094,cautious,none,0.7751972388374282
+user_0047,"if you get caught, say nothing.",2025-05-26T04:26:46.716365,group_10,middleman,1,0,0.4647011421704528,0,submissive,-0.27226888385165826,bold,none,0.2388808045385914
+user_0079,"change of plans, update soon.",2025-06-08T10:06:46.716365,group_3,smuggler,0,0,0.566357254599868,0,neutral,0.4640089494511992,cautious,overconfidence,0.21881911725902836
+user_0063,use the new route.,2025-05-18T21:11:46.716365,group_5,smuggler,0,0,0.6685856000093674,1,submissive,-0.06065154197958211,cautious,overconfidence,0.03990469858489765
+user_0084,"honestly, i don't know if this will work...",2025-05-20T17:16:46.716365,group_9,middleman,1,1,0.5786314349200581,0,submissive,0.30735062626776855,cautious,none,0.6533365465568498
+user_0010,"don't tell anyone else, okay?",2025-05-27T11:19:46.716365,group_7,supplier,1,1,0.8172367652335719,1,submissive,0.5853149068669987,bold,none,0.8820342431885623
+user_0057,"change of plans, update soon.",2025-05-26T11:44:46.716365,group_2,middleman,1,0,0.15024040778656056,0,submissive,0.20404055293355428,bold,none,0.23034633259932458
+user_0043,the shipment is delayed.,2025-06-06T22:28:46.716365,group_8,smuggler,0,0,0.6472592341405525,1,dominant,-0.512659385157461,bold,none,0.5923476603711332
+user_0018,"don't tell anyone else, okay?",2025-05-17T19:20:46.716365,group_10,supplier,0,0,0.2582596460167085,0,neutral,0.9164766729691074,bold,none,0.727974315447696
+user_0037,let me know when you arrive.,2025-05-25T21:06:46.716365,group_8,middleman,1,1,0.17056678398969627,1,neutral,-0.7145757258740655,bold,none,0.6596487500578531
+user_0034,"change of plans, update soon.",2025-05-31T14:49:46.716365,group_8,middleman,0,0,0.3782113521208009,0,dominant,-0.9668747454531708,cautious,overconfidence,0.6055110178612066
+user_0023,are you sure this is safe?,2025-06-13T00:00:46.716365,group_10,supplier,0,0,0.4822409351124809,0,neutral,0.07857197266104476,bold,none,0.6492317351065339
+user_0067,"i promise, this is the last time.",2025-06-01T21:05:46.716365,group_1,middleman,1,0,0.9384216278962805,1,submissive,-0.29896437244045626,bold,confirmation,0.13388310562460137
+user_0062,use the new route.,2025-05-19T20:05:46.716365,group_5,middleman,1,1,0.18902101371787072,0,neutral,0.04508125957591225,bold,confirmation,0.6545461208031974
+user_0089,"honestly, i don't know if this will work...",2025-06-03T15:06:46.716365,group_6,supplier,0,1,0.6515759347779317,1,submissive,0.7099538525358571,cautious,none,0.3656440944364717
+user_0036,"if you get caught, say nothing.",2025-05-25T07:01:46.716365,group_7,middleman,1,0,0.370212968879147,1,submissive,0.9770165280499024,cautious,none,0.39812975179986976
+user_0018,the shipment is delayed.,2025-05-26T11:30:46.716365,group_8,middleman,0,0,0.21445814153808007,1,submissive,0.6017074667003186,bold,overconfidence,0.38910368058510303
+user_0082,meet at the usual spot.,2025-05-20T04:01:46.716365,group_3,smuggler,1,0,0.06408045636931059,0,submissive,-0.8399205266083947,bold,none,0.384326010426022
+user_0052,"everything is under control, trust me.",2025-06-14T21:15:46.716365,group_9,smuggler,0,0,0.640291314530137,1,dominant,-0.5965855143879708,cautious,overconfidence,0.033609351396258424
+user_0077,"don't tell anyone else, okay?",2025-06-08T11:56:46.716365,group_4,middleman,0,0,0.35973999827546344,0,dominant,-0.826314374851925,cautious,confirmation,0.353127663356528
+user_0051,"if you get caught, say nothing.",2025-06-11T16:41:46.716365,group_4,middleman,0,0,0.9191774211091239,1,neutral,0.6595296048985997,cautious,confirmation,0.9632876650654888
+user_0036,use the new route.,2025-06-12T14:50:46.716365,group_4,smuggler,1,0,0.2611075056719391,1,neutral,-0.7870700872148468,bold,none,0.29425182446812004
+user_0015,"don't tell anyone else, okay?",2025-05-27T18:00:46.716365,group_9,middleman,1,1,0.9660554556331059,1,dominant,0.5149465700933449,cautious,none,0.4607204414645122
+user_0076,meet at the usual spot.,2025-06-06T22:58:46.716365,group_2,smuggler,0,1,0.6336617975581885,0,neutral,0.4023522023846229,cautious,confirmation,0.9554456871233602
+user_0067,"just follow my lead, don't ask questions.",2025-05-16T11:09:46.716365,group_5,supplier,1,0,0.3989306365974091,1,dominant,0.10910300808245288,bold,confirmation,0.31387277955962656
+user_0028,i feel nervous about this run.,2025-05-28T06:26:46.716365,group_3,middleman,0,1,0.7371122479413936,0,neutral,-0.5158869643100725,cautious,overconfidence,0.22920753212844247
+user_0032,"everything is under control, trust me.",2025-06-01T05:24:46.716365,group_3,supplier,0,0,0.6758121248765265,1,neutral,-0.9867526476942867,bold,confirmation,0.3711965353836676
+user_0041,are you sure this is safe?,2025-06-11T04:03:46.716365,group_5,smuggler,0,1,0.3978794978714941,0,dominant,0.051470887650101105,cautious,confirmation,0.9396544213650222
+user_0005,"don't tell anyone else, okay?",2025-05-31T19:51:46.716365,group_7,middleman,0,1,0.9765071952370418,1,submissive,0.3784210981192977,bold,none,0.21075238570144772
+user_0075,the shipment is delayed.,2025-05-30T19:59:46.716365,group_6,middleman,1,0,0.5485634003791886,0,submissive,-0.057309270523089095,cautious,confirmation,0.1839136741963775
+user_0055,keep it quiet.,2025-06-04T02:17:46.716365,group_6,smuggler,1,1,0.45072899147785617,0,neutral,0.37202382428298497,bold,none,0.2699491069025366
+user_0031,"just follow my lead, don't ask questions.",2025-06-04T16:37:46.716365,group_7,supplier,0,0,0.47298702452829744,0,dominant,-0.1569586619794694,bold,none,0.5170069749205006
+user_0093,"honestly, i don't know if this will work...",2025-06-07T04:03:46.716365,group_5,smuggler,0,1,0.09897479929434638,0,dominant,-0.5690653500882079,cautious,confirmation,0.8389717089374528
+user_0013,"we need to move fast, no time to think.",2025-05-31T06:04:46.716365,group_5,smuggler,1,1,0.34414027646061274,1,dominant,-0.2978190203403148,bold,none,0.5758944574733487
+user_0084,"just follow my lead, don't ask questions.",2025-05-23T23:10:46.716365,group_5,smuggler,1,1,0.7747443671265704,1,dominant,-0.2378580031743085,cautious,confirmation,0.6317121904834689
+user_0019,"change of plans, update soon.",2025-06-14T04:13:46.716365,group_6,smuggler,1,0,0.0791119274646005,1,dominant,-0.37303587322118537,cautious,none,0.2674723908706379
+user_0083,"if you get caught, say nothing.",2025-05-28T08:48:46.716365,group_8,smuggler,1,1,0.16731810706769068,0,dominant,0.45554483286480885,cautious,none,0.7006969284246842
+user_0011,keep it quiet.,2025-05-23T14:50:46.716365,group_7,supplier,0,0,0.9367936617038471,1,neutral,-0.8923491235619052,cautious,none,0.7649963721335957
+user_0011,the shipment is delayed.,2025-05-27T23:12:46.716365,group_10,supplier,0,1,0.3093706535499986,0,neutral,-0.431649439883822,bold,overconfidence,0.5267423379310799
+user_0022,meet at the usual spot.,2025-05-17T14:55:46.716365,group_6,smuggler,1,1,0.9749815454400946,1,neutral,-0.1103101352585123,bold,none,0.5975841988365607
+user_0081,i feel nervous about this run.,2025-06-04T19:38:46.716365,group_9,middleman,1,1,0.48165168270221437,0,dominant,-0.11627938884693112,cautious,confirmation,0.25980704393772436
+user_0039,meet at the usual spot.,2025-05-16T00:38:46.716365,group_9,supplier,1,1,0.4691979552440262,0,neutral,0.8441767914881058,cautious,confirmation,0.009132599576333167
+user_0056,everything is set.,2025-06-12T04:37:46.716365,group_4,supplier,1,0,0.4117358690661346,1,submissive,-0.5002077644576208,cautious,confirmation,0.22059242623284658
+user_0011,"i promise, this is the last time.",2025-06-13T11:33:46.716365,group_4,middleman,1,1,0.6484570409575617,1,submissive,-0.6239987484591898,bold,overconfidence,0.13662403292652436
+user_0015,"we need to move fast, no time to think.",2025-06-13T03:15:46.716365,group_8,smuggler,1,0,0.3206437231555238,0,dominant,0.9394324352587871,bold,overconfidence,0.972332604991447
+user_0037,contact the middleman first.,2025-05-21T17:06:46.716365,group_8,middleman,0,0,0.0901969831487811,0,submissive,-0.5656238296342961,cautious,confirmation,0.7857253387530323
+user_0064,"i swear, you can trust me.",2025-06-06T03:00:46.716365,group_1,smuggler,0,0,0.056038344401892815,1,dominant,0.08638390109161698,bold,overconfidence,0.8956989783163315
+user_0033,"if you get caught, say nothing.",2025-05-16T14:18:46.716365,group_2,middleman,0,1,0.7712253330273345,1,dominant,0.4752380251070172,bold,overconfidence,0.46083463531227986
+user_0099,the shipment is delayed.,2025-06-08T17:45:46.716365,group_4,smuggler,1,1,0.9362152466406165,0,neutral,0.45647415581622575,bold,confirmation,0.4812295931467414
+user_0039,keep it quiet.,2025-06-01T10:12:46.716365,group_1,middleman,0,0,0.23596583778343316,1,submissive,-0.969864589462275,cautious,none,0.11964959201073866
+user_0032,meet at the usual spot.,2025-05-17T22:24:46.716365,group_10,middleman,1,0,0.3713986633032337,0,dominant,-0.6846030876052498,bold,none,0.6186448584379411
+user_0098,package is ready for pickup.,2025-05-18T17:49:46.716365,group_6,middleman,0,0,0.1258274576652264,0,submissive,0.9633514219276671,cautious,confirmation,0.7331888317537703
+user_0003,"if you get caught, say nothing.",2025-06-01T07:44:46.716365,group_3,smuggler,0,1,0.7066259789280593,1,neutral,0.39407554999130956,bold,none,0.18662672894910382
+user_0045,"honestly, i don't know if this will work...",2025-06-06T08:08:46.716365,group_5,middleman,0,0,0.5311374303327908,1,submissive,0.6388371029995272,cautious,confirmation,0.0007198287242494716
+user_0082,"don't tell anyone else, okay?",2025-06-02T06:32:46.716365,group_3,supplier,1,0,0.3206940943077472,0,neutral,0.9343263140165285,cautious,overconfidence,0.5240697688104523
+user_0064,"just follow my lead, don't ask questions.",2025-05-23T00:53:46.716365,group_10,smuggler,1,1,0.6409039297850732,0,dominant,0.046401078386471006,bold,overconfidence,0.8351933578982914
+user_0017,"change of plans, update soon.",2025-05-17T10:41:46.716365,group_4,supplier,1,0,0.09875358664853229,1,neutral,-0.02018072417644623,cautious,overconfidence,0.3663540200942962
+user_0078,let me know when you arrive.,2025-05-16T14:49:46.716365,group_4,middleman,1,0,0.46805914343163324,0,submissive,0.11603977894004336,cautious,confirmation,0.7942495771380795
+user_0008,"everything is under control, trust me.",2025-05-28T02:52:46.716365,group_9,supplier,0,1,0.0779353748604914,0,neutral,-0.8057614996846749,bold,none,0.3853310882259936
+user_0025,"don't tell anyone else, okay?",2025-06-14T22:01:46.716365,group_4,middleman,0,1,0.7461083762758536,1,neutral,-0.08255881514325125,cautious,overconfidence,0.16680931890354744
+user_0024,"just follow my lead, don't ask questions.",2025-06-03T07:08:46.716365,group_9,smuggler,0,1,0.9335199695253675,1,neutral,0.9829259812362539,cautious,confirmation,0.41234329167145756
+user_0082,"i promise, this is the last time.",2025-05-30T17:49:46.716365,group_10,supplier,0,1,0.7657082196342848,1,submissive,0.9233035512626688,cautious,confirmation,0.00019562785560844898
+user_0005,everything is set.,2025-06-12T03:15:46.716365,group_1,middleman,0,1,0.0065688289726819615,0,dominant,0.7114408510164123,bold,none,0.8223374581035757
+user_0071,"don't tell anyone else, okay?",2025-06-10T08:11:46.716365,group_10,middleman,0,0,0.037736300083769825,1,dominant,-0.72318361304718,cautious,none,0.2498569058849971
+user_0033,everything is set.,2025-05-20T04:55:46.716365,group_10,smuggler,0,0,0.723580526744515,1,dominant,-0.023447203253131654,bold,none,0.6422546230285857
+user_0005,i feel nervous about this run.,2025-06-02T09:17:46.716365,group_2,supplier,1,1,0.8797925026501842,1,submissive,0.860492167887555,bold,overconfidence,0.7476786572693227
+user_0078,meet at the usual spot.,2025-06-13T20:54:46.716365,group_7,supplier,1,0,0.3193165402109155,0,submissive,0.004803220894465499,bold,overconfidence,0.05051981414582751
+user_0094,"if you get caught, say nothing.",2025-06-05T07:15:46.716365,group_10,middleman,0,0,0.4319356701506899,1,dominant,-0.7356219092582439,bold,confirmation,0.5714405905106293
+user_0007,"just follow my lead, don't ask questions.",2025-06-03T04:33:46.716365,group_5,supplier,1,1,0.7738251365562566,0,dominant,-0.03815499604797101,bold,confirmation,0.3953188035804661
+user_0074,keep it quiet.,2025-06-10T13:28:46.716365,group_10,middleman,0,0,0.07164398034108488,1,submissive,0.3694759446999143,bold,overconfidence,0.6717475534497354
+user_0055,"i swear, you can trust me.",2025-05-31T20:58:46.716365,group_4,smuggler,1,0,0.7696812920631382,0,submissive,0.2324419889090068,cautious,none,0.14581847519027757
+user_0006,use the new route.,2025-05-25T02:38:46.716365,group_6,supplier,0,0,0.7395816300402434,0,neutral,0.8534593902182142,cautious,overconfidence,0.3432713724210502
+user_0015,everything is set.,2025-06-05T12:07:46.716365,group_8,supplier,1,0,0.7400129850060154,0,dominant,0.0928484279403965,cautious,none,0.4830263303446918
+user_0094,payment received.,2025-05-16T20:37:46.716365,group_7,middleman,0,1,0.17031964704476332,1,dominant,0.5783769890148442,cautious,overconfidence,0.46496081840066505
+user_0002,let me know when you arrive.,2025-06-02T17:02:46.716365,group_5,middleman,1,0,0.019078323934194175,1,dominant,0.9595857021317065,bold,confirmation,0.4846621518341656
+user_0077,"just follow my lead, don't ask questions.",2025-05-20T00:40:46.716365,group_3,supplier,1,0,0.03975240325474838,1,submissive,-0.020134309032562303,bold,overconfidence,0.34677990290754546
+user_0046,"i swear, you can trust me.",2025-06-13T11:27:46.716365,group_5,supplier,1,0,0.6257923637157631,1,dominant,0.8882733964165948,cautious,overconfidence,0.15170818076868464
+user_0051,payment received.,2025-05-20T00:25:46.716365,group_7,middleman,0,1,0.24036080817057603,0,submissive,0.9410743461904341,cautious,confirmation,0.5422337512058923
+user_0027,payment received.,2025-06-11T11:10:46.716365,group_9,middleman,0,0,0.3089983961621827,0,submissive,0.9913716004640174,bold,none,0.9330299464229068
+user_0021,"honestly, i don't know if this will work...",2025-05-19T02:36:46.716365,group_9,middleman,0,0,0.31759758919121694,0,neutral,-0.9410333072329311,cautious,confirmation,0.9611961872223895
+user_0039,"we need to move fast, no time to think.",2025-06-14T00:08:46.716365,group_5,supplier,0,0,0.13154588032324976,0,neutral,0.23389301101658644,bold,none,0.23218253426933566
+user_0088,meet at the usual spot.,2025-06-01T08:56:46.716365,group_2,middleman,1,0,0.5023245874504613,1,neutral,0.2991371061497836,bold,confirmation,0.4914455970663347
+user_0018,"change of plans, update soon.",2025-05-24T19:37:46.716365,group_4,supplier,1,0,0.9254350831349096,1,dominant,0.4847333233257991,bold,overconfidence,0.06613632423488935
+user_0057,"everything is under control, trust me.",2025-06-07T07:40:46.716365,group_6,smuggler,0,1,0.40486676824252843,0,neutral,0.4706635597993212,cautious,none,0.3128974914114975
+user_0079,i feel nervous about this run.,2025-06-12T01:07:46.716365,group_9,middleman,0,0,0.45160959256366207,0,dominant,0.037405305175023384,cautious,none,0.03925162224248757
+user_0050,"don't tell anyone else, okay?",2025-06-13T17:22:46.716365,group_1,supplier,1,1,0.3980398914545593,1,submissive,-0.07730567207207395,cautious,confirmation,0.6131342792438925
+user_0007,"don't tell anyone else, okay?",2025-05-22T11:53:46.716365,group_8,middleman,1,0,0.7226467914928331,0,dominant,0.5574622837520795,bold,confirmation,0.4135593050976166
+user_0058,meet at the usual spot.,2025-05-24T03:54:46.716365,group_8,middleman,0,1,0.09017966128947053,1,neutral,0.2971528605693945,bold,none,0.7332623312141315
+user_0012,the shipment is delayed.,2025-06-05T11:23:46.716365,group_6,supplier,1,0,0.37867863141257974,1,dominant,0.5365206475687767,cautious,none,0.8713054035569007
+user_0020,"change of plans, update soon.",2025-05-22T14:28:46.716365,group_3,middleman,0,1,0.30806220553456465,1,submissive,0.2529056993230585,bold,overconfidence,0.9604338795159139
+user_0001,"everything is under control, trust me.",2025-05-27T12:59:46.716365,group_1,smuggler,1,1,0.5435011596043002,0,neutral,0.7654058410743891,bold,overconfidence,0.5888623271843092
+user_0061,"we need to move fast, no time to think.",2025-06-03T16:31:46.716365,group_8,supplier,0,0,0.8821678649436057,1,neutral,0.25727085109872583,bold,overconfidence,0.18483998736930018
+user_0008,"i swear, you can trust me.",2025-05-17T16:38:46.716365,group_3,supplier,1,1,0.9203846982695362,0,dominant,-0.16608615228928358,bold,overconfidence,0.672090495261405
+user_0079,"everything is under control, trust me.",2025-06-11T01:37:46.716365,group_9,supplier,1,1,0.9314798193860057,0,submissive,-0.354356298318961,cautious,overconfidence,0.7584419878372836
+user_0071,let me know when you arrive.,2025-05-29T08:23:46.716365,group_8,supplier,0,1,0.3292085269618983,1,neutral,-0.5803092614437715,bold,none,0.058184587279723754
+user_0074,"don't tell anyone else, okay?",2025-05-20T00:17:46.716365,group_8,middleman,1,1,0.6088446069344726,1,submissive,0.050782450663189316,cautious,overconfidence,0.6142899808483894
+user_0064,"don't tell anyone else, okay?",2025-06-13T18:41:46.716365,group_8,smuggler,0,0,0.7085870675033931,0,dominant,-0.7635857310297074,cautious,none,0.7967325532281825
+user_0095,keep it quiet.,2025-06-13T00:36:46.716365,group_7,smuggler,0,1,0.3496500444443188,0,dominant,0.28123662175516984,cautious,confirmation,0.7901955028462117
+user_0040,everything is set.,2025-06-08T01:58:46.716365,group_9,smuggler,0,0,0.6858357886469579,1,submissive,0.4487932856220236,bold,overconfidence,0.19401557989802076
+user_0044,are you sure this is safe?,2025-06-06T14:48:46.716365,group_1,middleman,0,1,0.15538628866672877,1,neutral,0.7918572028742679,cautious,confirmation,0.927789976765101
+user_0008,"don't tell anyone else, okay?",2025-05-29T15:29:46.716365,group_10,middleman,1,0,0.20826247019616984,1,submissive,-0.8675739173648762,bold,confirmation,0.8407391535578158
+user_0044,"if you get caught, say nothing.",2025-06-13T12:51:46.716365,group_9,supplier,1,0,0.5951918670299994,1,neutral,0.7156389551535158,bold,confirmation,0.41386956786213647
+user_0064,use the new route.,2025-06-01T22:24:46.716365,group_8,smuggler,0,1,0.17501274579935722,1,dominant,0.5555807829215884,bold,confirmation,0.5059946926305798
+user_0062,"don't tell anyone else, okay?",2025-05-23T00:49:46.716365,group_4,smuggler,1,1,0.7755332091997411,0,dominant,0.6442770359258869,bold,overconfidence,0.7245706322532336
+user_0059,"if you get caught, say nothing.",2025-06-08T19:04:46.716365,group_2,supplier,1,0,0.6870523307332695,0,submissive,-0.06624819503447599,bold,overconfidence,0.5205777121050669
+user_0085,everything is set.,2025-05-17T01:05:46.716365,group_10,smuggler,0,1,0.20055551225353507,1,submissive,0.06455161153003242,cautious,none,0.11765083873759363
+user_0020,"change of plans, update soon.",2025-05-28T11:25:46.716365,group_2,supplier,0,0,0.5425287138694386,1,submissive,-0.7168863424170344,cautious,none,0.2448250738626344
+user_0010,everything is set.,2025-06-12T22:22:46.716365,group_6,middleman,1,0,0.13007400206470998,1,neutral,-0.899087978811161,cautious,overconfidence,0.08611958046604495
+user_0051,"change of plans, update soon.",2025-06-12T03:39:46.716365,group_10,middleman,1,1,0.3124406511510319,0,neutral,0.5168050925563314,bold,confirmation,0.5677893022581583
+user_0012,"we need to move fast, no time to think.",2025-05-20T10:46:46.716365,group_8,smuggler,1,1,0.23169421365446052,0,dominant,0.7221925541117915,cautious,confirmation,0.39207691835875114
+user_0090,"honestly, i don't know if this will work...",2025-05-30T19:15:46.716365,group_8,smuggler,0,0,0.47533436203663837,1,submissive,-0.07751663259020058,bold,confirmation,0.7679415147648412
+user_0078,i feel nervous about this run.,2025-05-21T19:40:46.716365,group_9,supplier,1,0,0.32586972829811167,0,submissive,0.06549113185666267,cautious,none,0.4134419056667036
+user_0080,use the new route.,2025-06-09T23:02:46.716365,group_3,smuggler,1,0,0.3407141581791501,1,submissive,0.1344223884839828,cautious,none,0.6941331568073803
+user_0023,let me know when you arrive.,2025-06-11T03:42:46.716365,group_8,supplier,1,1,0.5550877012137614,1,dominant,-0.38392855292732353,cautious,overconfidence,0.598259181594436
+user_0088,"everything is under control, trust me.",2025-06-02T06:24:46.716365,group_6,smuggler,0,0,0.21761177343900195,0,neutral,0.8065120094267801,bold,overconfidence,0.6608813937695058
+user_0058,"just follow my lead, don't ask questions.",2025-05-29T06:55:46.716365,group_7,middleman,1,0,0.20566168190178857,1,submissive,0.14055281571070322,cautious,confirmation,0.7177912219060979
+user_0045,let me know when you arrive.,2025-06-11T13:01:46.716365,group_1,middleman,1,0,0.8525051794512917,0,submissive,0.8021513901484776,bold,overconfidence,0.7033541244270671
+user_0046,the shipment is delayed.,2025-05-28T20:46:46.716365,group_1,supplier,1,1,0.6252143034199424,1,submissive,-0.23686990983501022,bold,none,0.17341010626309672
+user_0018,keep it quiet.,2025-06-10T07:12:46.716365,group_7,smuggler,1,0,0.288470871727586,0,dominant,-0.9767944951095284,bold,overconfidence,0.7213392323619774
+user_0063,"i promise, this is the last time.",2025-05-22T04:50:46.716365,group_2,supplier,1,1,0.8935824691424401,1,neutral,-0.6404052458048708,cautious,none,0.8200714249167276
+user_0050,"i swear, you can trust me.",2025-05-26T07:06:46.716365,group_3,smuggler,0,1,0.8468038866736991,0,neutral,0.003457609850919807,cautious,none,0.576352353147939
+user_0005,package is ready for pickup.,2025-06-10T21:06:46.716365,group_8,middleman,1,0,0.5802687814945944,0,dominant,0.46037093894620496,cautious,confirmation,0.5169495499002531
+user_0067,"everything is under control, trust me.",2025-05-20T01:08:46.716365,group_4,smuggler,0,1,0.6130391139743795,1,neutral,0.557054266494265,cautious,confirmation,0.5126631103907159
+user_0061,i feel nervous about this run.,2025-05-31T02:38:46.716365,group_7,smuggler,1,1,0.16750816282127967,1,neutral,0.5700431103066543,cautious,overconfidence,0.629300053962771
+user_0075,"change of plans, update soon.",2025-06-11T02:14:46.716365,group_1,middleman,1,0,0.28681565437287226,0,dominant,0.011192218614552107,cautious,confirmation,0.13253876280633925
+user_0036,contact the middleman first.,2025-05-27T17:11:46.716365,group_1,middleman,0,0,0.9101314886791267,0,neutral,-0.10669366464366292,bold,confirmation,0.7825277052877461
+user_0031,are you sure this is safe?,2025-05-24T06:01:46.716365,group_9,supplier,1,0,0.9673456336935627,0,submissive,0.5055225937602754,cautious,confirmation,0.23794743910929028
+user_0057,"change of plans, update soon.",2025-05-25T14:50:46.716365,group_10,middleman,1,0,0.6422610973149202,0,dominant,-0.6647992064950627,cautious,confirmation,0.3013671299536991
+user_0096,"just follow my lead, don't ask questions.",2025-05-26T15:45:46.716365,group_7,middleman,1,1,0.26262515146396925,1,dominant,-0.422415555607937,cautious,confirmation,0.678493405250375
+user_0068,package is ready for pickup.,2025-05-20T10:52:46.716365,group_9,middleman,1,1,0.6104855680319816,1,submissive,-0.45934776563811597,bold,confirmation,0.6543432815684141
+user_0051,"we need to move fast, no time to think.",2025-05-27T00:38:46.716365,group_10,supplier,1,0,0.313269827869628,0,neutral,-0.9830476666735188,bold,overconfidence,0.4112487666137423
+user_0068,the shipment is delayed.,2025-06-05T07:37:46.716365,group_6,supplier,1,1,0.19307953144641044,0,neutral,-0.8161174348461344,bold,none,0.6380828851594785
+user_0091,the shipment is delayed.,2025-05-19T22:53:46.716365,group_10,supplier,1,0,0.8960016303572437,0,submissive,-0.41086276669866484,bold,none,0.4534437650642945
+user_0036,"i promise, this is the last time.",2025-05-30T17:46:46.716365,group_5,supplier,0,1,0.7771059502839102,1,submissive,-0.3346905261880373,bold,confirmation,0.9556056992173259
+user_0034,"change of plans, update soon.",2025-06-05T01:45:46.716365,group_2,smuggler,0,1,0.17844217006477092,1,dominant,-0.712254799296973,cautious,overconfidence,0.6139662909756464
+user_0014,"we need to move fast, no time to think.",2025-05-27T19:25:46.716365,group_2,supplier,0,0,0.5713445598449196,1,submissive,-0.9624704137964191,cautious,overconfidence,0.6528653326655571
+user_0001,package is ready for pickup.,2025-06-02T19:02:46.716365,group_5,supplier,1,1,0.5746402517237048,1,submissive,-0.12788466507326457,bold,none,0.2258468419559848
+user_0050,are you sure this is safe?,2025-05-21T12:55:46.716365,group_10,middleman,1,1,0.6818357356103366,1,dominant,0.2645450531991689,bold,confirmation,0.5346262965600347
+user_0044,let me know when you arrive.,2025-06-05T22:34:46.716365,group_5,middleman,0,0,0.5544754716704128,1,neutral,-0.6179936781693944,cautious,overconfidence,0.6306170574489428
+user_0046,are you sure this is safe?,2025-05-19T21:13:46.716365,group_8,middleman,0,0,0.03569828862765967,0,neutral,0.9927671193025325,bold,confirmation,0.3887675334736155
+user_0070,everything is set.,2025-06-07T18:19:46.716365,group_9,smuggler,0,0,0.3392851058844808,1,neutral,-0.9143709330930136,bold,overconfidence,0.8071037058074022
+user_0086,"don't tell anyone else, okay?",2025-06-05T21:11:46.716365,group_9,supplier,0,0,0.03687766742303755,0,submissive,0.30766305355821544,cautious,none,0.045801693519074815
+user_0090,payment received.,2025-05-16T16:13:46.716365,group_3,middleman,0,1,0.8207392230160319,0,submissive,0.2224517788095679,bold,overconfidence,0.11417968196528772
+user_0077,"everything is under control, trust me.",2025-05-26T01:27:46.716365,group_2,supplier,1,1,0.8115210297397967,1,submissive,-0.7583951208613327,bold,confirmation,0.8364270922891228
+user_0028,package is ready for pickup.,2025-06-12T00:20:46.716365,group_3,smuggler,0,0,0.2738933573755383,1,dominant,0.39259157135974365,bold,confirmation,0.2436446094935799
+user_0075,package is ready for pickup.,2025-05-22T02:12:46.716365,group_2,middleman,1,0,0.01563032626827754,1,dominant,-0.9873008428927661,bold,overconfidence,0.7067412484568043
+user_0076,everything is set.,2025-06-03T23:09:46.716365,group_8,middleman,0,0,0.1430878612386115,1,neutral,-0.09916173797799166,bold,overconfidence,0.6105379886304853
+user_0005,"everything is under control, trust me.",2025-05-24T05:08:46.716365,group_8,middleman,0,1,0.3478535668461462,0,neutral,-0.5287219853415659,bold,none,0.9767914794063854
+user_0080,"i swear, you can trust me.",2025-06-09T14:03:46.716365,group_9,supplier,1,0,0.2764265839239136,0,dominant,0.5932259432854863,cautious,confirmation,0.17632381737053082
+user_0086,package is ready for pickup.,2025-05-18T11:32:46.716365,group_6,smuggler,0,1,0.2513817797176139,1,dominant,-0.7911578008470403,bold,none,0.1758876082155526
+user_0004,are you sure this is safe?,2025-06-08T10:56:46.716365,group_2,supplier,0,1,0.5927066622656716,1,submissive,-0.6024972089069076,cautious,overconfidence,0.7789752789596681
+user_0042,use the new route.,2025-05-20T11:38:46.716365,group_4,middleman,1,0,0.375532387877741,0,dominant,-0.05801948033135762,cautious,overconfidence,0.890488843887039
+user_0019,keep it quiet.,2025-06-12T18:11:46.716365,group_8,supplier,1,1,0.13640461458072206,0,neutral,-0.2828196290797609,cautious,overconfidence,0.33589133715042296
+user_0005,i feel nervous about this run.,2025-05-18T17:41:46.716365,group_5,supplier,0,1,0.45857892497050634,0,submissive,-0.5602928714989279,cautious,none,0.15678812406619602
+user_0082,"everything is under control, trust me.",2025-05-23T18:08:46.716365,group_10,middleman,0,0,0.41169614238272423,1,dominant,0.18316174259020368,cautious,confirmation,0.01450385697199219
+user_0055,use the new route.,2025-05-27T07:13:46.716365,group_6,smuggler,0,0,0.9137547207899449,0,submissive,0.9603680825862912,bold,confirmation,0.7334763017938016
+user_0065,package is ready for pickup.,2025-06-04T09:30:46.716365,group_9,smuggler,1,0,0.4524413682169097,0,dominant,0.11697393287835545,bold,none,0.7317862838999784
+user_0028,payment received.,2025-06-01T08:00:46.716365,group_5,supplier,0,0,0.4797829513924986,1,dominant,0.4066089758170073,bold,confirmation,0.46376064249750226
+user_0018,"if you get caught, say nothing.",2025-05-24T10:32:46.716365,group_6,middleman,1,0,0.860382650996037,0,submissive,0.7868688805513178,cautious,none,0.03271417540751376
+user_0055,contact the middleman first.,2025-06-12T21:32:46.716365,group_9,middleman,0,0,0.6204552120033446,1,neutral,0.8644865312399219,cautious,overconfidence,0.11096654372628767
+user_0047,"we need to move fast, no time to think.",2025-06-13T04:47:46.716365,group_1,smuggler,1,0,0.6481726583748344,0,neutral,0.4186742719050571,bold,overconfidence,0.9812516222516423
+user_0031,"just follow my lead, don't ask questions.",2025-05-21T04:34:46.716365,group_8,middleman,0,0,0.3204638164692496,1,neutral,0.36045347784353976,cautious,overconfidence,0.06336918005953562
+user_0045,"we need to move fast, no time to think.",2025-06-07T03:37:46.716365,group_9,middleman,0,1,0.709825288742069,1,submissive,0.24190253567912934,bold,overconfidence,0.8919032132922037
+user_0059,let me know when you arrive.,2025-05-19T16:06:46.716365,group_7,supplier,1,0,0.10936492059205627,1,dominant,0.3941642217033212,cautious,overconfidence,0.8749931395370971
+user_0067,meet at the usual spot.,2025-05-29T08:45:46.716365,group_7,middleman,0,1,0.3467002467820791,1,neutral,0.28936888309541775,cautious,overconfidence,0.06294950859275916
+user_0030,"don't tell anyone else, okay?",2025-06-14T08:41:46.716365,group_6,smuggler,1,1,0.4861483916145358,1,submissive,-0.39183532346410077,bold,confirmation,0.17173712543597597
+user_0034,use the new route.,2025-06-07T01:27:46.716365,group_6,smuggler,0,0,0.3531208953587862,1,dominant,0.23726045972304988,bold,none,0.5353166854772462
+user_0024,"change of plans, update soon.",2025-05-23T00:10:46.716365,group_3,supplier,0,0,0.9937730380641359,0,submissive,-0.4791856055010537,bold,overconfidence,0.5624872424239992
+user_0005,"honestly, i don't know if this will work...",2025-05-31T16:06:46.716365,group_3,smuggler,1,0,0.5336429573711735,0,dominant,-0.19087533755497765,cautious,overconfidence,0.9477890540513451
+user_0041,payment received.,2025-05-16T05:13:46.716365,group_9,middleman,1,1,0.4739106736777533,1,neutral,0.3337754629117766,cautious,confirmation,0.6891469814800889
+user_0094,are you sure this is safe?,2025-05-17T20:18:46.716365,group_3,middleman,0,1,0.02479559482358329,0,submissive,-0.2852129028367829,cautious,overconfidence,0.6081512096622038
+user_0025,i feel nervous about this run.,2025-06-08T23:32:46.716365,group_4,smuggler,0,0,0.08358955039391136,1,neutral,0.3431155526283933,bold,none,0.3944236129108819
+user_0063,"honestly, i don't know if this will work...",2025-06-12T11:21:46.716365,group_10,middleman,0,1,0.39755799731571917,1,submissive,-0.2277747635121472,bold,confirmation,0.3449202131580936
+user_0040,"we need to move fast, no time to think.",2025-06-10T13:19:46.716365,group_2,supplier,1,1,0.8036855045147565,1,dominant,0.6113455702066519,cautious,none,0.8964288265570535
+user_0018,i feel nervous about this run.,2025-06-12T05:38:46.716365,group_2,supplier,0,1,0.4746131300060631,1,dominant,0.866305991412629,cautious,overconfidence,0.006618867885028079
+user_0082,contact the middleman first.,2025-06-03T21:17:46.716365,group_3,middleman,1,0,0.19925756146018514,1,submissive,0.10773385302104965,bold,confirmation,0.8345852016300578
+user_0039,are you sure this is safe?,2025-06-10T11:25:46.716365,group_8,supplier,0,0,0.15402396964041154,1,neutral,0.6684861427033071,cautious,overconfidence,0.6538129722022522
+user_0037,"i promise, this is the last time.",2025-05-24T04:27:46.716365,group_8,middleman,0,0,0.11935466352640356,1,submissive,0.9886659081373412,bold,none,0.7455655735862218
+user_0075,are you sure this is safe?,2025-06-10T18:17:46.716365,group_7,smuggler,1,0,0.37320221597348047,0,submissive,-0.6743055346361624,bold,overconfidence,0.3196811114329394
+user_0089,payment received.,2025-06-01T06:53:46.716365,group_3,supplier,1,1,0.4195140051562125,1,dominant,-0.4202876047542081,bold,none,0.19381483470233107
+user_0081,"change of plans, update soon.",2025-05-20T07:45:46.716365,group_10,supplier,1,1,0.8268219966068482,1,submissive,0.3708874389226362,cautious,overconfidence,0.5344203232232231
+user_0046,payment received.,2025-05-16T14:37:46.716365,group_3,middleman,1,1,0.7788078448541389,1,submissive,0.8418147550640698,bold,overconfidence,0.21787621196027773
+user_0065,use the new route.,2025-05-24T14:20:46.716365,group_9,middleman,0,1,0.46049135860823953,0,dominant,0.6376894881014845,bold,confirmation,0.3482099124161412
+user_0089,"i swear, you can trust me.",2025-05-22T08:22:46.716365,group_8,middleman,1,0,0.7098948829225022,0,neutral,0.629148216822697,bold,overconfidence,0.8568152091968375
+user_0019,use the new route.,2025-05-30T00:19:46.716365,group_3,supplier,0,0,0.4248050726266066,0,dominant,-0.9623871777252511,cautious,confirmation,0.04251694080495083
+user_0014,package is ready for pickup.,2025-06-08T09:23:46.716365,group_10,supplier,1,0,0.9085292984024619,0,dominant,-0.3967083891095755,bold,overconfidence,0.7823708141132708
+user_0078,keep it quiet.,2025-06-11T18:21:46.716365,group_4,supplier,1,0,0.09077931303945908,1,neutral,-0.30432691645319365,bold,none,0.7808021361273086
+user_0079,use the new route.,2025-06-08T00:01:46.716365,group_10,supplier,0,0,0.5288387404158568,0,submissive,-0.6564530744901258,bold,none,0.09868571850830388
+user_0028,"don't tell anyone else, okay?",2025-06-06T15:02:46.716365,group_6,middleman,0,1,0.6735256981681863,0,dominant,0.6694843076888075,cautious,confirmation,0.2142740004826411
+user_0030,"i promise, this is the last time.",2025-05-21T03:47:46.716365,group_6,supplier,1,0,0.5197275812619355,1,submissive,0.40946183038162065,bold,overconfidence,0.32811540733063815
+user_0015,"if you get caught, say nothing.",2025-05-28T22:18:46.716365,group_8,middleman,1,1,0.22587342972990787,1,submissive,0.9699246563816915,cautious,overconfidence,0.8567737495125022
+user_0061,"i swear, you can trust me.",2025-05-24T04:22:46.716365,group_1,middleman,1,0,0.39636975853188594,0,dominant,-0.7132648766813956,cautious,none,0.5905572323320124
+user_0014,"change of plans, update soon.",2025-05-18T23:12:46.716365,group_6,supplier,1,0,0.5949608299436382,1,dominant,-0.5342607224269342,cautious,none,0.4991101121792072
+user_0098,i feel nervous about this run.,2025-06-12T00:57:46.716365,group_5,middleman,1,1,0.4758262832960263,1,submissive,0.022829030139604578,bold,confirmation,0.10803666801892264
+user_0033,are you sure this is safe?,2025-06-07T15:41:46.716365,group_4,middleman,0,0,0.09960339023022613,0,dominant,-0.0037301826759064127,bold,overconfidence,0.38263298276501834
+user_0087,"honestly, i don't know if this will work...",2025-05-22T23:21:46.716365,group_5,middleman,0,0,0.6610806044311057,1,submissive,-0.5961364910965723,cautious,confirmation,0.5047947560374831
+user_0070,"honestly, i don't know if this will work...",2025-06-09T14:56:46.716365,group_9,supplier,0,1,0.8801256709913846,0,submissive,-0.09976896174908889,cautious,confirmation,0.45965623882398843
+user_0005,"change of plans, update soon.",2025-06-10T08:33:46.716365,group_5,middleman,0,1,0.43068111788100183,1,neutral,-0.22183901835300146,bold,none,0.6750245801400669
+user_0085,"just follow my lead, don't ask questions.",2025-06-09T13:41:46.716365,group_10,smuggler,1,0,0.506685048757025,1,submissive,-0.0106177390956117,cautious,none,0.6764877837357205
+user_0099,everything is set.,2025-05-30T14:35:46.716365,group_1,supplier,0,0,0.8369341519952572,1,neutral,0.16793395618945106,cautious,confirmation,0.09735004922858015
+user_0045,"i swear, you can trust me.",2025-06-03T18:28:46.716365,group_6,supplier,0,0,0.2346220884329291,1,neutral,-0.8301165266277044,bold,confirmation,0.11447129650111687
+user_0022,meet at the usual spot.,2025-06-09T12:37:46.716365,group_6,supplier,1,1,0.568049404880105,1,submissive,-0.9591954544788828,cautious,none,0.02223645140055397
+user_0041,"if you get caught, say nothing.",2025-06-10T23:30:46.716365,group_7,smuggler,0,1,0.10005668320405448,0,submissive,-0.006537206429712228,cautious,overconfidence,0.6148278735542364
+user_0047,"i promise, this is the last time.",2025-05-25T04:54:46.716365,group_8,middleman,0,0,0.28735555905964294,0,submissive,0.992455386720906,cautious,overconfidence,0.6245722900546195
+user_0012,i feel nervous about this run.,2025-05-20T08:00:46.716365,group_10,smuggler,1,0,0.5664282947867041,1,submissive,-0.5805216826898385,bold,none,0.8237389497596548
+user_0065,everything is set.,2025-06-04T17:23:46.716365,group_9,smuggler,0,1,0.40230095573711977,1,neutral,0.5268844298655164,bold,overconfidence,0.6278439365575584
+user_0067,"change of plans, update soon.",2025-06-11T06:36:46.716365,group_8,supplier,1,1,0.9371629255855557,1,neutral,0.4532301370316516,bold,none,0.20064802739228804
+user_0060,payment received.,2025-05-26T23:05:46.716365,group_3,middleman,1,1,0.41026026247928415,0,neutral,-0.592883917004362,cautious,confirmation,0.8237107044983252
+user_0083,"change of plans, update soon.",2025-05-27T16:38:46.716365,group_10,supplier,1,0,0.1135585766282845,0,dominant,-0.5088267803632505,cautious,confirmation,0.4853823524700478
+user_0056,"i promise, this is the last time.",2025-06-14T11:08:46.716365,group_1,supplier,0,1,0.13643062881486012,1,submissive,0.3173414252803639,bold,none,0.8525210175084499
+user_0093,are you sure this is safe?,2025-05-16T22:16:46.716365,group_1,supplier,1,1,0.867171779748661,1,submissive,0.34334414686904235,bold,confirmation,0.9431621420369332
+user_0093,payment received.,2025-05-26T18:21:46.716365,group_2,middleman,0,1,0.49645110133711146,0,dominant,0.1996426302533869,cautious,confirmation,0.832334165158318
+user_0095,"if you get caught, say nothing.",2025-05-26T18:14:46.716365,group_7,supplier,0,0,0.17515425543568008,1,submissive,-0.18324888863703737,bold,confirmation,0.5334699703358484
+user_0090,the shipment is delayed.,2025-05-30T10:13:46.716365,group_9,smuggler,1,0,0.9633153399656248,0,submissive,-0.049556438391339386,cautious,confirmation,0.02107421044556479
+user_0078,package is ready for pickup.,2025-05-18T12:15:46.716365,group_4,smuggler,1,1,0.6389490586406261,1,neutral,-0.7558924625082213,bold,confirmation,0.38847101485629454
+user_0051,contact the middleman first.,2025-05-29T17:11:46.716365,group_2,supplier,1,0,0.8594167373347783,0,submissive,0.26270540531254327,cautious,overconfidence,0.2740365256849273
+user_0011,are you sure this is safe?,2025-06-06T11:05:46.716365,group_7,smuggler,1,0,0.8244008657361815,1,neutral,-0.8672655321381042,cautious,none,0.7292315946029726
+user_0071,"honestly, i don't know if this will work...",2025-06-05T15:36:46.716365,group_1,supplier,0,1,0.7910193178139537,0,dominant,-0.19867630004770587,cautious,confirmation,0.5758093452619913
+user_0015,"change of plans, update soon.",2025-05-27T09:10:46.716365,group_9,middleman,0,1,0.7926422949091957,1,submissive,-0.043269040085288424,bold,confirmation,0.17347902571757778
+user_0076,"honestly, i don't know if this will work...",2025-05-28T20:19:46.716365,group_4,supplier,1,1,0.1818892538062794,1,neutral,-0.5510257330427375,bold,none,0.6471066893041368
+user_0081,use the new route.,2025-05-20T01:43:46.716365,group_8,supplier,1,0,0.04978296459492226,1,neutral,-0.47968444005770694,bold,confirmation,0.17012288382085783
+user_0073,the shipment is delayed.,2025-05-16T15:57:46.716365,group_9,smuggler,1,1,0.11851234901311947,0,dominant,0.8921046534469235,cautious,confirmation,0.7464430294496428
+user_0049,payment received.,2025-06-04T15:38:46.716365,group_4,middleman,0,1,0.7267080670385707,0,submissive,-0.6392602561634169,bold,overconfidence,0.290192961514951
+user_0034,use the new route.,2025-06-13T03:12:46.716365,group_8,supplier,1,1,0.0857386738830822,1,dominant,0.7428869504220184,cautious,none,0.2122176640729304
+user_0050,"i promise, this is the last time.",2025-06-12T04:49:46.716365,group_5,supplier,0,0,0.05211261162804459,0,submissive,0.8164530747279775,bold,overconfidence,0.25365688282655174
+user_0080,"if you get caught, say nothing.",2025-05-29T18:57:46.716365,group_7,middleman,1,0,0.968057810457244,0,neutral,-0.641255553658431,bold,none,0.4928398276144783
+user_0044,"we need to move fast, no time to think.",2025-05-22T00:37:46.716365,group_2,smuggler,1,0,0.2604060107234273,1,dominant,0.95703320395755,cautious,confirmation,0.7478233677192941
+user_0056,everything is set.,2025-05-28T00:02:46.716365,group_10,smuggler,1,1,0.8926718098296509,1,neutral,0.9891301317702945,bold,none,0.8530336612675548
+user_0085,"we need to move fast, no time to think.",2025-05-18T10:39:46.716365,group_4,supplier,0,0,0.1831413212110269,1,submissive,-0.672890086383181,cautious,confirmation,0.11602404710055692
+user_0064,package is ready for pickup.,2025-06-05T02:47:46.716365,group_6,middleman,1,1,0.4929885500110006,0,dominant,-0.300791396296354,bold,confirmation,0.18065496411140003
+user_0022,"don't tell anyone else, okay?",2025-05-28T10:29:46.716365,group_10,middleman,0,0,0.5260154065999957,0,submissive,0.8408263933187046,bold,confirmation,0.6769085160963626
+user_0043,meet at the usual spot.,2025-05-28T23:02:46.716365,group_2,smuggler,1,0,0.8369772085811074,0,dominant,-0.837873526510102,cautious,confirmation,0.6283567395448798
+user_0035,"everything is under control, trust me.",2025-06-14T23:15:46.716365,group_1,smuggler,0,1,0.32491546830101603,0,dominant,0.7265576876503563,cautious,confirmation,0.7981469709838556
+user_0096,let me know when you arrive.,2025-06-09T22:10:46.716365,group_10,smuggler,0,1,0.2551639018804639,0,submissive,-0.8216233846468921,bold,overconfidence,0.3885029016397338
+user_0052,everything is set.,2025-06-14T11:24:46.716365,group_3,supplier,1,1,0.8011004211929322,1,neutral,0.20702721374164024,cautious,none,0.09611149752179438
+user_0048,"don't tell anyone else, okay?",2025-05-25T02:50:46.716365,group_8,smuggler,1,1,0.26847940357817013,1,dominant,0.5129812869807533,cautious,none,0.18635583247323273
+user_0081,"i promise, this is the last time.",2025-05-20T06:03:46.716365,group_1,middleman,1,1,0.6764400320070252,0,submissive,0.05455742224394644,bold,confirmation,0.4682191717427635
+user_0011,are you sure this is safe?,2025-05-29T16:38:46.716365,group_3,supplier,1,0,0.5230920570174739,1,neutral,-0.9045434512049806,bold,overconfidence,0.5134145178469431
+user_0066,"i promise, this is the last time.",2025-06-03T19:39:46.716365,group_2,smuggler,1,1,0.254860204350709,0,neutral,-0.9674626124808865,cautious,overconfidence,0.7861770926580438
+user_0051,package is ready for pickup.,2025-05-19T19:30:46.716365,group_7,middleman,1,1,0.587208388180246,1,neutral,-0.10010418856426506,cautious,confirmation,0.9667196267702574
+user_0024,keep it quiet.,2025-05-24T10:41:46.716365,group_2,middleman,1,0,0.4337989206193089,0,dominant,-0.210132314016249,bold,overconfidence,0.6558009719634046
+user_0059,"if you get caught, say nothing.",2025-06-14T22:56:46.716365,group_10,middleman,1,1,0.6184993744874929,1,neutral,0.34760628585728415,cautious,confirmation,0.08763513062215955
+user_0018,meet at the usual spot.,2025-05-24T16:56:46.716365,group_2,supplier,0,0,0.2092294803344994,0,neutral,-0.5164395654829075,bold,overconfidence,0.30091786958069455
+user_0060,payment received.,2025-06-06T14:15:46.716365,group_7,supplier,0,0,0.9024153363140094,1,submissive,-0.057021602695766616,cautious,none,0.2426296487550319
+user_0038,i feel nervous about this run.,2025-06-02T20:24:46.716365,group_1,smuggler,0,0,0.630409880337339,1,submissive,0.6972325220063806,cautious,overconfidence,0.48749651312589914
+user_0063,"don't tell anyone else, okay?",2025-06-11T22:06:46.716365,group_10,middleman,1,0,0.7142903287761262,0,submissive,0.1528067039825043,bold,confirmation,0.892877196135374
+user_0054,are you sure this is safe?,2025-05-21T08:15:46.716365,group_8,middleman,1,1,0.6975144403892011,0,dominant,-0.42397843709276417,bold,confirmation,0.3438473898031613
+user_0030,"don't tell anyone else, okay?",2025-05-26T00:30:46.716365,group_10,middleman,1,1,0.1311585670946046,1,neutral,0.4227703718896392,cautious,none,0.652500187863295
+user_0047,are you sure this is safe?,2025-05-23T09:30:46.716365,group_10,supplier,1,0,0.6670564523554575,0,dominant,-0.6010315543962406,cautious,overconfidence,0.7934824557303216
+user_0064,everything is set.,2025-05-26T16:54:46.716365,group_4,middleman,0,0,0.3587867534228124,1,submissive,0.35385571656533266,bold,none,0.0319700077683891
+user_0009,"honestly, i don't know if this will work...",2025-06-04T14:53:46.716365,group_2,middleman,0,0,0.5619814487106772,1,submissive,0.9873256436038644,cautious,overconfidence,0.7700948929616335
+user_0072,contact the middleman first.,2025-05-22T21:39:46.716365,group_9,middleman,0,0,0.9266320984532515,1,submissive,0.9252942180871511,bold,overconfidence,0.7816523955059985
+user_0079,the shipment is delayed.,2025-06-10T14:54:46.716365,group_1,middleman,0,0,0.6299261161540399,0,submissive,-0.6859349052853991,cautious,none,0.44151791007790475
+user_0065,are you sure this is safe?,2025-05-20T12:59:46.716365,group_3,middleman,1,1,0.8191607828272317,0,dominant,-0.12178307816927636,cautious,overconfidence,0.24531606461713729
+user_0061,"honestly, i don't know if this will work...",2025-05-29T01:44:46.716365,group_9,supplier,0,1,0.37243635740279957,1,submissive,0.2588808039575108,bold,overconfidence,0.7532062586658237
+user_0068,"i promise, this is the last time.",2025-05-26T09:46:46.716365,group_3,smuggler,1,1,0.8980652575101931,1,dominant,-0.11484262130283862,bold,none,0.8062468656700007
+user_0009,let me know when you arrive.,2025-05-31T10:03:46.716365,group_6,smuggler,0,1,0.061468328485386525,0,neutral,0.8450377232054733,bold,none,0.05780982954601177
+user_0081,"don't tell anyone else, okay?",2025-05-29T11:32:46.716365,group_7,smuggler,1,1,0.9092308532011312,0,submissive,0.8004170436828095,bold,none,0.4039380732639808
+user_0083,keep it quiet.,2025-06-09T19:11:46.716365,group_10,middleman,1,1,0.8876748965071967,1,dominant,0.761949364863804,bold,overconfidence,0.5374334926492939
+user_0050,payment received.,2025-06-08T17:01:46.716365,group_9,smuggler,0,0,0.5116716068371076,1,neutral,-0.31858224038710725,bold,overconfidence,0.027891225295657907
+user_0070,i feel nervous about this run.,2025-05-27T19:05:46.716365,group_4,smuggler,1,0,0.7319861654933224,1,submissive,0.253979064635923,cautious,overconfidence,0.0477328729373212
+user_0084,the shipment is delayed.,2025-06-05T10:40:46.716365,group_5,middleman,0,1,0.3389802946370136,0,neutral,0.9780001577972444,bold,confirmation,0.29920160982411714
+user_0086,i feel nervous about this run.,2025-05-22T09:25:46.716365,group_7,middleman,0,0,0.3278469630811499,0,submissive,-0.09138081821817412,bold,none,0.4256921323272409
+user_0053,let me know when you arrive.,2025-05-20T05:17:46.716365,group_1,smuggler,0,1,0.2147844019991464,0,submissive,0.35364488551401485,cautious,none,0.5589684510152414
+user_0100,"if you get caught, say nothing.",2025-05-28T00:33:46.716365,group_10,smuggler,1,1,0.6890178615677028,1,neutral,0.946544966353809,bold,overconfidence,0.5057858908707199
+user_0063,"we need to move fast, no time to think.",2025-05-21T21:51:46.716365,group_9,middleman,0,0,0.4554323738318351,0,neutral,-0.686320603727258,cautious,overconfidence,0.6016002137386635
+user_0053,the shipment is delayed.,2025-05-21T12:33:46.716365,group_6,middleman,1,0,0.5227774989106097,0,submissive,-0.39015081538230034,cautious,confirmation,0.29398129497412995
+user_0004,payment received.,2025-05-22T11:47:46.716365,group_10,smuggler,0,1,0.8890572062394194,0,dominant,0.6382501384565282,cautious,overconfidence,0.12232790550244821
+user_0045,let me know when you arrive.,2025-05-18T01:20:46.716365,group_7,smuggler,1,1,0.9002872879641,1,submissive,0.6689199763541442,bold,overconfidence,0.504763861272188
+user_0059,"we need to move fast, no time to think.",2025-06-05T11:02:46.716365,group_3,middleman,1,0,0.7998116211948575,1,submissive,-0.5343554332815943,cautious,confirmation,0.5409944507913269
+user_0086,"we need to move fast, no time to think.",2025-05-28T15:30:46.716365,group_2,supplier,0,1,0.5610443550732708,0,neutral,0.11870564647245452,bold,none,0.5418343288962213
+user_0097,package is ready for pickup.,2025-06-10T23:23:46.716365,group_9,supplier,1,0,0.12028317643891573,0,dominant,-0.45007494409744386,bold,overconfidence,0.8296905510546095
+user_0075,"we need to move fast, no time to think.",2025-05-19T20:59:46.716365,group_9,middleman,1,1,0.5888930264486644,1,dominant,-0.32008688990745826,bold,confirmation,0.024056940225127388
+user_0068,"honestly, i don't know if this will work...",2025-06-02T09:47:46.716365,group_5,supplier,0,0,0.5417792735111414,1,dominant,-0.6346621475286109,bold,overconfidence,0.306794218362605
+user_0053,"change of plans, update soon.",2025-05-18T16:52:46.716365,group_10,smuggler,0,0,0.7133006234355403,1,submissive,-0.8025115680688402,bold,confirmation,0.8930110210494532
+user_0034,"if you get caught, say nothing.",2025-05-21T12:39:46.716365,group_1,supplier,0,0,0.4929794409023319,1,dominant,-0.4614249458814863,cautious,confirmation,0.5531210855176781
+user_0009,are you sure this is safe?,2025-05-17T08:06:46.716365,group_7,middleman,0,0,0.26915973837729734,0,dominant,0.5259565942690885,bold,confirmation,0.5682456374671006
+user_0058,let me know when you arrive.,2025-06-13T22:59:46.716365,group_9,supplier,0,1,0.5404397546150439,0,dominant,0.07507125962693428,cautious,none,0.45174200118923247
+user_0001,"we need to move fast, no time to think.",2025-06-13T06:32:46.716365,group_5,middleman,0,0,0.06017503092815579,1,submissive,0.19573550300134634,cautious,confirmation,0.8424386727229277
+user_0028,i feel nervous about this run.,2025-06-08T05:56:46.716365,group_5,supplier,0,0,0.30063834853258053,1,neutral,-0.754046070121257,bold,none,0.5564790815027151
+user_0036,"i promise, this is the last time.",2025-05-25T14:50:46.716365,group_10,middleman,1,1,0.6351698805493156,1,submissive,-0.5081434300202576,cautious,confirmation,0.21062389358728628
+user_0077,"honestly, i don't know if this will work...",2025-05-16T17:52:46.716365,group_3,middleman,0,1,0.004279247682131726,0,neutral,-0.6529279587691572,cautious,confirmation,0.5381314537014721
+user_0084,let me know when you arrive.,2025-06-09T12:52:46.716365,group_1,middleman,1,0,0.3529947323504017,1,neutral,-0.2840685190744545,bold,none,0.9837955013545705
+user_0016,"we need to move fast, no time to think.",2025-06-01T21:11:46.716365,group_4,smuggler,0,0,0.7431444452686732,1,neutral,0.8427973793327477,cautious,overconfidence,0.0899665192982615
+user_0079,everything is set.,2025-05-26T02:05:46.716365,group_4,smuggler,1,0,0.2807563580038984,0,dominant,-0.6078264119585823,cautious,overconfidence,0.86991623250654
+user_0073,"don't tell anyone else, okay?",2025-06-07T12:07:46.716365,group_3,middleman,0,0,0.06536062500003414,0,neutral,-0.8699013571823999,cautious,none,0.8554789589938906
+user_0067,contact the middleman first.,2025-05-24T18:05:46.716365,group_1,middleman,1,1,0.001954964830654604,1,neutral,0.3461995712380739,bold,confirmation,0.43254817161218484
+user_0053,contact the middleman first.,2025-05-21T13:28:46.716365,group_9,smuggler,1,1,0.5172569137738773,0,neutral,-0.5509035878335737,cautious,confirmation,0.5324102822606377
+user_0041,meet at the usual spot.,2025-06-02T20:32:46.716365,group_4,smuggler,0,0,0.990264644752772,0,neutral,-0.15235948625541207,bold,overconfidence,0.1968768176770327
+user_0043,everything is set.,2025-05-18T21:10:46.716365,group_2,supplier,1,1,0.8080590741636121,1,submissive,-0.5056928678178692,cautious,overconfidence,0.9588026578784135
+user_0007,"honestly, i don't know if this will work...",2025-06-08T16:09:46.716365,group_4,supplier,1,0,0.6253487575535192,0,dominant,0.9490511575443585,bold,confirmation,0.31327943421962656
+user_0089,let me know when you arrive.,2025-05-21T19:50:46.716365,group_1,smuggler,0,1,0.6107386397286148,1,dominant,-0.7963448363905481,bold,none,0.05220314335015985
+user_0049,"if you get caught, say nothing.",2025-05-20T09:12:46.716365,group_10,smuggler,0,0,0.4534112467163802,1,submissive,0.7598763349683686,bold,confirmation,0.6509214262484375
+user_0087,meet at the usual spot.,2025-06-05T16:30:46.716365,group_9,smuggler,0,0,0.10268965372658201,0,neutral,0.5788328474876203,bold,none,0.12598162619295517
+user_0066,contact the middleman first.,2025-06-01T04:42:46.716365,group_7,smuggler,1,0,0.24315247787291328,0,dominant,-0.7446384979536109,cautious,none,0.9597413513936472
+user_0097,"i swear, you can trust me.",2025-05-30T04:26:46.716365,group_10,middleman,0,0,0.4695237599959553,1,submissive,-0.26234000965548976,bold,none,0.5864399124508858
+user_0087,payment received.,2025-05-18T15:08:46.716365,group_4,middleman,0,1,0.3438161030069524,0,neutral,0.8170004368016306,bold,confirmation,0.18935557207360965
+user_0061,"we need to move fast, no time to think.",2025-06-12T07:38:46.716365,group_6,middleman,1,1,0.41869528836473113,0,dominant,-0.09139581209263992,bold,confirmation,0.21940588146413553
+user_0001,use the new route.,2025-05-26T12:03:46.716365,group_8,middleman,0,0,0.48074620764394227,1,neutral,-0.2481763928336449,cautious,overconfidence,0.8260843231519911
+user_0001,"i swear, you can trust me.",2025-05-16T11:20:46.716365,group_2,smuggler,0,0,0.14240197308790836,1,dominant,0.26266915478835084,cautious,overconfidence,0.9753092753118692
+user_0026,keep it quiet.,2025-05-28T22:50:46.716365,group_3,supplier,1,0,0.33981749301801756,0,dominant,-0.6080248799697754,bold,confirmation,0.9106489501982198
+user_0003,payment received.,2025-06-02T06:25:46.716365,group_2,smuggler,0,1,0.4562036785494531,1,submissive,0.32181743042707134,cautious,none,0.06537751941750436
+user_0019,payment received.,2025-05-24T15:40:46.716365,group_4,middleman,1,1,0.3179516091909197,1,neutral,-0.5109007221309305,bold,none,0.587325872399674
+user_0069,everything is set.,2025-05-22T18:48:46.716365,group_6,supplier,0,1,0.8728514919166157,1,dominant,0.4545970869274094,cautious,none,0.6148864482706267
+user_0022,"don't tell anyone else, okay?",2025-06-02T16:27:46.716365,group_9,smuggler,1,1,0.17899851740764916,1,neutral,0.3890193474784054,cautious,confirmation,0.26833545849611373
+user_0052,i feel nervous about this run.,2025-06-14T14:13:46.716365,group_1,supplier,0,0,0.4520800699529667,0,submissive,-0.5628125472963001,cautious,confirmation,0.5713703867585161
+user_0048,contact the middleman first.,2025-06-10T01:52:46.716365,group_2,supplier,0,1,0.44450531541422544,1,dominant,0.16792444946084784,cautious,none,0.6211258198050705
+user_0055,"we need to move fast, no time to think.",2025-06-06T07:13:46.716365,group_7,smuggler,1,1,0.31702042574449973,1,dominant,-0.6408685379968808,bold,confirmation,0.6453548526457581
+user_0046,let me know when you arrive.,2025-05-29T10:13:46.716365,group_9,middleman,0,1,0.9266059192101775,0,dominant,-0.8573026454413402,bold,none,0.2003065968584853
+user_0026,"honestly, i don't know if this will work...",2025-05-27T09:37:46.716365,group_5,middleman,1,0,0.7056426376404914,0,neutral,0.4796420118678455,cautious,overconfidence,0.7700760908385675
+user_0037,"i swear, you can trust me.",2025-06-03T09:36:46.716365,group_7,middleman,0,1,0.6540910341787857,0,submissive,-0.5448430146734968,bold,confirmation,0.23372318979967643
+user_0076,"just follow my lead, don't ask questions.",2025-06-06T08:31:46.716365,group_8,smuggler,0,1,0.8458016677785407,1,neutral,-0.16462427065395202,cautious,confirmation,0.8529441249254853
+user_0004,"i swear, you can trust me.",2025-05-22T08:18:46.716365,group_10,supplier,1,0,0.4998002112686737,1,submissive,-0.5490187195070488,cautious,none,0.7526261836541348
+user_0098,"just follow my lead, don't ask questions.",2025-05-29T15:49:46.716365,group_6,middleman,0,0,0.9221441905136014,0,submissive,0.1363817696249381,cautious,confirmation,0.2042046185485472
+user_0051,let me know when you arrive.,2025-06-09T08:20:46.716365,group_7,supplier,1,0,0.3288413626664505,1,neutral,0.789487589964948,bold,overconfidence,0.10431317742828672
+user_0071,"change of plans, update soon.",2025-05-17T11:33:46.716365,group_10,smuggler,0,0,0.19899873487272135,1,submissive,-0.5882154072368231,cautious,none,0.524395697340216
+user_0059,package is ready for pickup.,2025-06-01T19:11:46.716365,group_9,supplier,0,1,0.8597073473767373,1,submissive,-0.6859290899396671,bold,overconfidence,0.5364530192197352
+user_0062,let me know when you arrive.,2025-06-02T17:25:46.716365,group_4,supplier,0,1,0.43220067633611037,1,dominant,0.20741889737682606,cautious,none,0.20297284053619957
+user_0092,"we need to move fast, no time to think.",2025-05-28T13:23:46.716365,group_4,supplier,0,1,0.06397004294829534,1,neutral,0.6151316649740952,cautious,none,0.879239391468157
+user_0059,"we need to move fast, no time to think.",2025-06-11T05:49:46.716365,group_1,middleman,0,1,0.646299137778536,1,submissive,0.40063307944893034,cautious,confirmation,0.6130275117116392
+user_0023,"i promise, this is the last time.",2025-05-27T08:39:46.716365,group_3,middleman,1,1,0.3846649967941127,0,neutral,0.13723053180477263,cautious,none,0.9456873613868986
+user_0031,"change of plans, update soon.",2025-05-28T11:34:46.716365,group_9,smuggler,0,0,0.9087364710382191,1,neutral,-0.7575387508374993,cautious,overconfidence,0.7553968660922687
+user_0065,"honestly, i don't know if this will work...",2025-06-03T16:28:46.716365,group_8,supplier,1,0,0.5060645717727777,1,dominant,-0.8536090159585086,cautious,confirmation,0.3436577152159619
+user_0052,keep it quiet.,2025-06-03T01:48:46.716365,group_1,supplier,1,0,0.7090996050621343,0,submissive,0.34059114379698063,cautious,confirmation,0.46135699799833574
+user_0011,"just follow my lead, don't ask questions.",2025-06-14T22:10:46.716365,group_4,middleman,1,0,0.47078773245533323,1,dominant,-0.6588218087182067,bold,none,0.10051512105194182
+user_0038,the shipment is delayed.,2025-06-09T08:31:46.716365,group_7,supplier,0,0,0.6773831417653878,0,submissive,-0.2838260206887093,bold,none,0.03444484541332493
+user_0087,"just follow my lead, don't ask questions.",2025-05-25T20:38:46.716365,group_8,middleman,0,0,0.3906183890279137,1,submissive,-0.8951694876223006,bold,overconfidence,0.7724096952184701
+user_0099,keep it quiet.,2025-05-27T09:16:46.716365,group_6,supplier,0,0,0.01603844330968507,0,dominant,-0.32576671510150224,bold,none,0.6689494554934761
+user_0029,the shipment is delayed.,2025-05-23T15:54:46.716365,group_3,supplier,1,0,0.8156243363554885,1,neutral,0.25357286914508825,bold,none,0.39506392135413904
+user_0055,the shipment is delayed.,2025-05-26T14:23:46.716365,group_4,supplier,1,1,0.17362155776466848,1,neutral,-0.3675195572975074,cautious,overconfidence,0.45877593174648423
+user_0009,contact the middleman first.,2025-06-14T14:26:46.716365,group_10,smuggler,0,0,0.8854600505423609,1,submissive,0.5350902616809172,cautious,overconfidence,0.7125311086787397
+user_0073,"change of plans, update soon.",2025-05-27T11:43:46.716365,group_2,middleman,1,1,0.6779005223851904,0,submissive,-0.6493379080987953,cautious,none,0.4821303789877406
+user_0043,meet at the usual spot.,2025-06-12T17:12:46.716365,group_10,smuggler,1,0,0.5034200443883876,0,dominant,-0.957573240751793,bold,confirmation,0.23639632566208602
+user_0055,use the new route.,2025-06-13T05:28:46.716365,group_2,supplier,0,1,0.4987264819191003,0,dominant,-0.24850411408565454,bold,overconfidence,0.9234091395535202
+user_0077,"we need to move fast, no time to think.",2025-05-30T23:33:46.716365,group_3,smuggler,1,0,0.5208728595955652,1,neutral,0.6254210813113317,bold,overconfidence,0.8469348455434526
+user_0043,"honestly, i don't know if this will work...",2025-05-27T01:08:46.716365,group_4,middleman,0,0,0.8014518073748784,0,neutral,0.7454115656239675,cautious,overconfidence,0.4423608901335486
+user_0001,let me know when you arrive.,2025-06-07T09:32:46.716365,group_2,supplier,0,0,0.9382745266275109,0,dominant,-0.6526483507062399,bold,overconfidence,0.5074245488506891
+user_0055,"we need to move fast, no time to think.",2025-05-30T04:44:46.716365,group_3,middleman,0,0,0.424016775015261,0,submissive,-0.4292942199644174,cautious,none,0.20140100473061784
+user_0062,let me know when you arrive.,2025-06-01T09:17:46.716365,group_7,smuggler,0,1,0.44137607084734176,1,dominant,0.6392076157593356,cautious,overconfidence,0.7619292987988837
+user_0055,let me know when you arrive.,2025-05-29T16:27:46.716365,group_10,middleman,0,0,0.25729172215201135,1,submissive,-0.09279378826579832,cautious,none,0.6060253566566433
+user_0010,"honestly, i don't know if this will work...",2025-05-22T05:47:46.716365,group_8,supplier,0,0,0.00418055067087908,1,submissive,-0.19088947883708673,cautious,confirmation,0.9704926367267518
+user_0048,"if you get caught, say nothing.",2025-06-07T07:15:46.716365,group_5,middleman,0,1,0.8849995809706068,0,submissive,0.8642591173292486,bold,overconfidence,0.7629508557639862
+user_0033,"i swear, you can trust me.",2025-06-08T05:09:46.716365,group_8,middleman,1,0,0.650906334708133,1,neutral,-0.506416376794087,cautious,overconfidence,0.9214685470843792
+user_0047,meet at the usual spot.,2025-06-14T09:24:46.716365,group_3,smuggler,1,0,0.25428803449433146,0,dominant,-0.7665387128148649,bold,none,0.7116094672447655
+user_0050,"if you get caught, say nothing.",2025-06-11T16:46:46.716365,group_2,middleman,0,1,0.1658236073683914,1,submissive,0.3836735979053312,cautious,none,0.3079788665021467
+user_0053,let me know when you arrive.,2025-05-20T23:53:46.716365,group_10,smuggler,0,1,0.748730072450083,1,neutral,-0.38379931440323145,bold,confirmation,0.0015785775845547079
+user_0009,"i promise, this is the last time.",2025-06-08T21:55:46.716365,group_7,middleman,1,1,0.17063425612748628,1,dominant,0.4080943932284722,bold,confirmation,0.18198433147828086
+user_0015,"we need to move fast, no time to think.",2025-06-10T19:56:46.716365,group_4,supplier,0,0,0.7499157352948889,0,submissive,0.9658942506056023,cautious,confirmation,0.6268373795820131
+user_0080,the shipment is delayed.,2025-06-13T23:41:46.716365,group_3,supplier,1,0,0.3777285376539944,1,dominant,-0.3156961645235621,bold,confirmation,0.48519435281160905
+user_0098,the shipment is delayed.,2025-05-16T10:55:46.716365,group_1,smuggler,0,0,0.09684185095927378,0,submissive,0.20596974372974208,cautious,confirmation,0.4732317831882211
+user_0044,"everything is under control, trust me.",2025-06-04T13:36:46.716365,group_6,smuggler,1,1,0.8168471920460241,1,neutral,-0.2030572983855652,bold,confirmation,0.8730774322916213
+user_0013,meet at the usual spot.,2025-06-05T19:36:46.716365,group_7,middleman,0,0,0.6019091764308104,1,neutral,0.5028794827319942,bold,confirmation,0.45191807760560276
+user_0088,are you sure this is safe?,2025-06-08T10:57:46.716365,group_7,middleman,0,0,0.986181405470321,1,dominant,0.2675546014339567,bold,none,0.32552519945747715
+user_0057,use the new route.,2025-06-12T15:16:46.716365,group_8,smuggler,0,1,0.42791628047141983,1,neutral,0.7142000004574616,bold,none,0.38485854338007397
+user_0078,keep it quiet.,2025-05-22T12:54:46.716365,group_9,middleman,0,0,0.497925056493437,0,submissive,0.6647082220474205,cautious,overconfidence,0.8964085761181019
+user_0015,are you sure this is safe?,2025-06-09T15:05:46.716365,group_4,supplier,0,0,0.7532525207415959,0,dominant,-0.13021318624375078,bold,overconfidence,0.9290034765673232
+user_0042,"if you get caught, say nothing.",2025-05-28T18:45:46.716365,group_4,middleman,1,1,0.951503879558376,0,neutral,-0.728487135131118,cautious,overconfidence,0.7955404646082561
+user_0043,use the new route.,2025-06-11T05:38:46.716365,group_10,supplier,1,1,0.9101671257424557,1,neutral,0.284204405323891,cautious,overconfidence,0.22355083569209233
+user_0015,everything is set.,2025-05-20T00:18:46.716365,group_2,supplier,1,0,0.7446177522987699,0,neutral,-0.26452594805631846,cautious,confirmation,0.5769168416926107
+user_0001,everything is set.,2025-05-18T20:07:46.716365,group_10,middleman,0,1,0.9798494981504864,1,submissive,0.5950362783566439,bold,none,0.6637427777172449
+user_0076,use the new route.,2025-05-20T20:57:46.716365,group_7,supplier,1,1,0.1447007865916785,1,dominant,-0.0003346699479085391,cautious,overconfidence,0.6014654135956825
+user_0019,package is ready for pickup.,2025-06-12T06:40:46.716365,group_6,smuggler,0,1,0.9968486044382249,1,neutral,0.6573746087507166,cautious,confirmation,0.7041404766328312
+user_0049,package is ready for pickup.,2025-05-31T04:24:46.716365,group_3,middleman,0,0,0.7004074136594353,0,dominant,0.7135575933382607,cautious,confirmation,0.9843895421550584
+user_0085,"change of plans, update soon.",2025-05-17T00:05:46.716365,group_9,smuggler,1,1,0.6778986861811698,1,submissive,-0.21787381065155254,cautious,confirmation,0.6963763156761511
+user_0025,"just follow my lead, don't ask questions.",2025-06-02T22:38:46.716365,group_2,supplier,1,0,0.8498097206248002,1,submissive,0.3092679703786143,bold,confirmation,0.6959555259528883
+user_0038,payment received.,2025-05-25T13:39:46.716365,group_4,middleman,0,0,0.36222577635912223,0,neutral,0.570998504586282,bold,confirmation,0.9503981544278602
+user_0055,"change of plans, update soon.",2025-05-18T14:03:46.716365,group_2,smuggler,1,0,0.945063196513594,0,neutral,0.300195609606591,cautious,overconfidence,0.6269725465964556
+user_0052,use the new route.,2025-05-17T13:39:46.716365,group_2,supplier,1,1,0.302689609587074,0,neutral,0.49040046893613987,bold,confirmation,0.8648957894608017
+user_0084,"if you get caught, say nothing.",2025-05-28T13:08:46.716365,group_8,smuggler,0,0,0.11662763418731825,0,submissive,0.28281865520465677,bold,overconfidence,0.5868504909648142
+user_0074,are you sure this is safe?,2025-05-28T11:30:46.716365,group_2,middleman,0,1,0.4841914772983952,1,submissive,0.14284619875604565,bold,confirmation,0.06349830116158828
+user_0069,"change of plans, update soon.",2025-06-03T11:15:46.716365,group_1,smuggler,1,0,0.5189011159326429,0,dominant,0.9313620874074455,bold,overconfidence,0.8620034426383868
+user_0089,"change of plans, update soon.",2025-05-16T06:20:46.716365,group_9,smuggler,1,0,0.03914316094529613,0,neutral,-0.6775794761207563,cautious,overconfidence,0.08461032792872514
+user_0016,"don't tell anyone else, okay?",2025-05-29T14:39:46.716365,group_6,middleman,0,1,0.9771030988188719,0,dominant,-0.3988000445639155,cautious,none,0.534102398491802
+user_0018,i feel nervous about this run.,2025-06-07T08:13:46.716365,group_6,middleman,1,0,0.6879303090200508,0,dominant,-0.926532101808881,bold,confirmation,0.8560851725386665
+user_0028,payment received.,2025-06-12T10:14:46.716365,group_9,supplier,1,1,0.12849211490977108,1,dominant,0.09969722114454749,cautious,confirmation,0.6497689403866226
+user_0021,"if you get caught, say nothing.",2025-06-05T18:40:46.716365,group_2,smuggler,1,0,0.5359043196124054,0,neutral,0.465349797448511,bold,none,0.3721422595057051
+user_0085,"don't tell anyone else, okay?",2025-06-12T13:17:46.716365,group_3,smuggler,0,1,0.9924489914460782,1,submissive,-0.9481802737114178,bold,overconfidence,0.27012523356542895
+user_0069,the shipment is delayed.,2025-06-09T23:29:46.716365,group_7,supplier,1,0,0.3628194846901699,1,submissive,-0.7073407341710425,bold,confirmation,0.009863332643708977
+user_0049,use the new route.,2025-06-02T06:06:46.716365,group_2,supplier,0,1,0.5888270498912278,1,dominant,0.057920237614217385,cautious,none,0.2710539669354777
+user_0013,package is ready for pickup.,2025-05-23T19:02:46.716365,group_6,smuggler,0,1,0.8060849960244978,1,submissive,0.1846202481921344,cautious,overconfidence,0.686658348989229
+user_0092,payment received.,2025-06-14T22:46:46.716365,group_3,supplier,1,1,0.052864625442338276,1,neutral,0.5550563223527614,cautious,none,0.4577865912251511
+user_0057,"i swear, you can trust me.",2025-06-06T08:26:46.716365,group_9,smuggler,1,1,0.5205946634834782,0,submissive,0.27127049651624957,bold,confirmation,0.40651478447450995
+user_0041,let me know when you arrive.,2025-06-13T21:46:46.716365,group_2,supplier,0,0,0.16511312555757685,0,dominant,0.4868189139045902,cautious,overconfidence,0.9621663313239566
+user_0055,"don't tell anyone else, okay?",2025-05-22T05:32:46.716365,group_8,smuggler,0,1,0.013900262238730532,0,neutral,-0.9854194862520684,cautious,none,0.5343248229449089
+user_0045,use the new route.,2025-06-09T01:22:46.716365,group_10,supplier,1,0,0.6745221684141856,0,dominant,-0.8497552518986027,bold,none,0.3532915335333615
+user_0007,"i promise, this is the last time.",2025-06-07T13:45:46.716365,group_7,supplier,1,0,0.33795859600637235,0,neutral,0.7015541012050792,bold,confirmation,0.29917799296322967
+user_0038,contact the middleman first.,2025-05-25T17:15:46.716365,group_1,middleman,1,0,0.9230563663305327,0,submissive,0.7849878164790374,cautious,overconfidence,0.35574406389810964
+user_0079,"we need to move fast, no time to think.",2025-05-30T23:23:46.716365,group_5,smuggler,0,0,0.34972169913497764,0,submissive,-0.29093535231256884,bold,confirmation,0.49204611925441344
+user_0011,"don't tell anyone else, okay?",2025-06-08T10:18:46.716365,group_3,smuggler,0,1,0.006910451916086635,1,dominant,-0.058602640101927284,cautious,confirmation,0.3644956978286912
+user_0024,"just follow my lead, don't ask questions.",2025-05-28T06:52:46.716365,group_2,smuggler,1,0,0.13987440134389528,1,dominant,-0.28152650768196197,bold,overconfidence,0.18956706885173735
+user_0006,payment received.,2025-06-02T23:28:46.716365,group_7,middleman,1,0,0.16031250108931072,0,submissive,0.9193977067655754,cautious,overconfidence,0.42109532273611294
+user_0071,are you sure this is safe?,2025-05-21T19:43:46.716365,group_6,smuggler,1,0,0.10973278401552577,0,dominant,-0.7477528429695668,cautious,none,0.013648955280966657
+user_0088,use the new route.,2025-05-18T09:22:46.716365,group_6,smuggler,0,1,0.4801930136193828,1,submissive,-0.8347702061995881,cautious,overconfidence,0.6176131602562644
+user_0094,"don't tell anyone else, okay?",2025-05-24T12:38:46.716365,group_4,smuggler,0,1,0.9942570604455155,0,neutral,0.6412188325697024,bold,confirmation,0.7064608989858397
+user_0014,"don't tell anyone else, okay?",2025-06-12T20:01:46.716365,group_3,supplier,0,0,0.12046118924242111,1,dominant,-0.45227672173978695,bold,overconfidence,0.4263029770378868
+user_0079,keep it quiet.,2025-05-20T03:51:46.716365,group_1,smuggler,1,1,0.7001588615276662,0,dominant,-0.3276442970920228,cautious,overconfidence,0.5098636927237572
+user_0083,package is ready for pickup.,2025-05-29T20:53:46.716365,group_2,smuggler,1,1,0.9429987471627035,1,dominant,-0.3603182301654484,bold,overconfidence,0.040889129046618344
+user_0007,"honestly, i don't know if this will work...",2025-05-25T16:04:46.716365,group_5,smuggler,1,0,0.43090752649933095,1,submissive,-0.2728375146644988,cautious,overconfidence,0.09688722095599422
+user_0002,"just follow my lead, don't ask questions.",2025-05-21T22:51:46.716365,group_6,smuggler,1,1,0.2382522199321414,1,dominant,0.16865443265511626,bold,overconfidence,0.13048540524809527
+user_0096,"everything is under control, trust me.",2025-05-21T11:59:46.716365,group_1,middleman,0,0,0.7046600538922085,0,dominant,0.8836360059168789,cautious,confirmation,0.7253506591483839
+user_0098,keep it quiet.,2025-06-09T07:19:46.716365,group_3,supplier,0,0,0.4182125594503855,1,neutral,0.9502523146173287,cautious,confirmation,0.6298646384278377
+user_0016,"i promise, this is the last time.",2025-05-19T02:29:46.716365,group_8,smuggler,0,0,0.5991536622803556,0,submissive,-0.9091095483928484,bold,none,0.190190916811788
+user_0051,are you sure this is safe?,2025-06-09T06:07:46.716365,group_9,supplier,0,1,0.7507277914082882,1,neutral,0.558744346950157,cautious,none,0.27149418895635447
+user_0024,meet at the usual spot.,2025-05-23T07:17:46.716365,group_10,supplier,0,1,0.5038177647274287,1,submissive,0.7049501571109342,cautious,none,0.26851465219371706
+user_0016,"change of plans, update soon.",2025-05-26T05:07:46.716365,group_1,middleman,0,1,0.039090675410742626,0,submissive,0.8544959147717266,cautious,overconfidence,0.6424131242932651
+user_0032,keep it quiet.,2025-06-09T08:27:46.716365,group_2,supplier,1,1,0.3245618722084622,1,neutral,-0.7327767996736934,cautious,confirmation,0.9852612842415528
+user_0081,meet at the usual spot.,2025-06-01T04:48:46.716365,group_4,middleman,1,0,0.2559872118503206,0,neutral,0.31463518707100113,bold,none,0.7457697889813437
+user_0049,contact the middleman first.,2025-06-13T12:32:46.716365,group_10,middleman,0,1,0.22063903752165304,1,dominant,0.1633275990158416,cautious,overconfidence,0.4460559057572717
+user_0094,"i promise, this is the last time.",2025-06-01T19:11:46.716365,group_3,smuggler,0,1,0.18151354386948126,0,dominant,-0.6222801570645276,cautious,none,0.1804066423145254
+user_0037,meet at the usual spot.,2025-05-30T03:18:46.716365,group_3,supplier,1,0,0.06945411967875326,0,submissive,-0.5094923309233166,cautious,overconfidence,0.7243069226054739
+user_0018,meet at the usual spot.,2025-06-12T11:29:46.716365,group_2,smuggler,1,0,0.11003551502944708,0,neutral,0.8693554705938702,bold,overconfidence,0.7701176262169744
+user_0035,payment received.,2025-06-13T13:48:46.716365,group_10,supplier,0,0,0.5423701683888696,1,neutral,-0.830069613422131,bold,confirmation,0.7596717518780471
+user_0057,"change of plans, update soon.",2025-05-30T00:16:46.716365,group_6,smuggler,0,0,0.055875506576347544,1,neutral,0.08722581152730458,bold,overconfidence,0.10281531173469194
+user_0038,the shipment is delayed.,2025-06-08T07:16:46.716365,group_7,supplier,0,0,0.024000869890117182,1,submissive,-0.7052469796939209,cautious,overconfidence,0.9216909176035978
+user_0088,"if you get caught, say nothing.",2025-05-21T03:18:46.716365,group_8,supplier,0,0,0.10173625466575087,1,submissive,-0.8474201170251257,cautious,overconfidence,0.36049351039021904
+user_0011,package is ready for pickup.,2025-06-12T12:48:46.716365,group_3,supplier,1,1,0.599611484865587,1,dominant,0.7862351040135827,cautious,none,0.8175625449940975
+user_0045,the shipment is delayed.,2025-05-28T08:38:46.716365,group_8,middleman,1,1,0.8107194148524451,0,dominant,0.7234279503389438,bold,none,0.14658908784580227
+user_0019,"if you get caught, say nothing.",2025-06-05T08:26:46.716365,group_8,supplier,0,1,0.95958531444302,1,dominant,-0.8191059630654245,bold,overconfidence,0.767535413690041
+user_0046,"honestly, i don't know if this will work...",2025-06-07T12:20:46.716365,group_7,smuggler,1,1,0.13822127731249423,0,submissive,-0.16268073693902418,cautious,none,0.5337706468448147
+user_0069,"just follow my lead, don't ask questions.",2025-05-26T11:52:46.716365,group_7,supplier,1,0,0.7030933133307861,0,submissive,-0.9942677884805253,bold,confirmation,0.5583744680428977
+user_0018,the shipment is delayed.,2025-05-18T17:36:46.716365,group_6,smuggler,0,1,0.4603883858333545,1,dominant,-0.578525262656483,bold,overconfidence,0.7469953606858947
+user_0016,payment received.,2025-06-02T04:49:46.716365,group_1,middleman,1,1,0.05408334509582635,0,neutral,0.16321414819017477,cautious,none,0.8704769772155075
+user_0004,payment received.,2025-06-01T15:28:46.716365,group_3,supplier,0,0,0.012477700182669915,1,dominant,0.5308354077104405,cautious,none,0.14011239817818344
+user_0068,everything is set.,2025-06-06T10:06:46.716365,group_7,middleman,1,1,0.7813969079021151,0,submissive,-0.7774666673557857,bold,none,0.03211910727749456
+user_0097,"change of plans, update soon.",2025-06-07T22:15:46.716365,group_3,supplier,1,1,0.6799035440999415,1,neutral,0.42281353219625695,cautious,none,0.501872437492266
+user_0091,use the new route.,2025-06-04T07:17:46.716365,group_3,smuggler,0,1,0.977926283710249,0,neutral,-0.5762715130984424,bold,overconfidence,0.392290958640678
+user_0096,"just follow my lead, don't ask questions.",2025-06-12T13:26:46.716365,group_2,middleman,1,1,0.3131896604053672,1,submissive,-0.6703512809474521,cautious,none,0.4242218896354033
+user_0035,the shipment is delayed.,2025-05-20T18:33:46.716365,group_2,smuggler,1,0,0.23952991725658568,0,neutral,-0.7870709141296273,bold,none,0.010977013085197163
+user_0040,keep it quiet.,2025-06-10T03:07:46.716365,group_4,middleman,0,0,0.2691680124777507,0,neutral,0.9729879467222944,cautious,overconfidence,0.04804890092149594
+user_0012,everything is set.,2025-05-16T09:47:46.716365,group_6,smuggler,1,0,0.3144724425065686,1,neutral,-0.28832541445120063,bold,none,0.6746864177091407
+user_0043,"i promise, this is the last time.",2025-06-07T22:34:46.716365,group_2,middleman,0,0,0.5871755093043245,1,submissive,0.1727164070131233,bold,confirmation,0.1612230029071704
+user_0088,"we need to move fast, no time to think.",2025-05-19T14:33:46.716365,group_2,middleman,0,0,0.8074760338772813,0,neutral,-0.6779059470680859,cautious,confirmation,0.7853518585204897
+user_0044,everything is set.,2025-06-01T10:05:46.716365,group_10,smuggler,0,1,0.23911062783614268,0,dominant,0.13380172294064807,cautious,overconfidence,0.8047264442961048
+user_0019,everything is set.,2025-06-09T22:09:46.716365,group_2,smuggler,0,1,0.31371870018331427,1,dominant,-0.8636763203126592,cautious,confirmation,0.08922924154351586
+user_0023,"we need to move fast, no time to think.",2025-05-27T18:16:46.716365,group_8,smuggler,1,0,0.9398294696507321,1,dominant,-0.27305577905471257,cautious,confirmation,0.4090332303717803
+user_0080,payment received.,2025-06-05T02:02:46.716365,group_6,middleman,1,1,0.08349054815024803,1,neutral,-0.09981545414287707,bold,none,0.9774316373755543
+user_0008,use the new route.,2025-06-10T13:04:46.716365,group_1,supplier,0,1,0.37582168845985675,1,dominant,-0.5538974197473676,cautious,none,0.09350312016113072
+user_0060,"we need to move fast, no time to think.",2025-06-14T06:17:46.716365,group_9,smuggler,0,0,0.18027335950566914,0,submissive,0.5364333008693813,bold,confirmation,0.3287206371461714
+user_0041,"honestly, i don't know if this will work...",2025-06-12T12:39:46.716365,group_8,supplier,1,0,0.278375062753101,0,neutral,-0.6885177649776091,cautious,overconfidence,0.6402163819482187
+user_0041,i feel nervous about this run.,2025-05-17T10:44:46.716365,group_10,smuggler,0,1,0.7895591291048357,1,dominant,-0.891844969816612,bold,none,0.4229203482705959
+user_0033,"change of plans, update soon.",2025-05-19T19:50:46.716365,group_3,supplier,1,1,0.0817091114695131,1,submissive,0.049555886001957816,cautious,overconfidence,0.8305490915011039
+user_0012,"i promise, this is the last time.",2025-05-31T14:06:46.716365,group_5,supplier,0,1,0.9419416443936607,1,submissive,0.07101258171842217,bold,none,0.4367839869461385
+user_0089,i feel nervous about this run.,2025-06-02T17:34:46.716365,group_1,middleman,0,0,0.7227236827311104,0,submissive,0.3281258789653769,cautious,overconfidence,0.15050627959147922
+user_0059,payment received.,2025-06-07T18:03:46.716365,group_6,supplier,1,1,0.5206916982105824,0,submissive,0.8866474901513877,bold,none,0.44932865082410267
+user_0075,the shipment is delayed.,2025-05-17T16:23:46.716365,group_4,middleman,0,1,0.6964460875547396,0,neutral,-0.24488685703073032,cautious,overconfidence,0.9523768811759278
+user_0087,i feel nervous about this run.,2025-05-16T16:13:46.716365,group_6,smuggler,0,1,0.8966549136263535,0,neutral,-0.0017386727197219454,cautious,confirmation,0.4103868108371569
+user_0046,"just follow my lead, don't ask questions.",2025-06-04T09:40:46.716365,group_9,smuggler,0,0,0.45882356486010256,1,dominant,0.10550714425581398,bold,none,0.4358761637029299
+user_0037,"i promise, this is the last time.",2025-06-13T21:08:46.716365,group_5,middleman,0,0,0.8059397625717112,0,dominant,0.2992491724554671,cautious,overconfidence,0.4964049290861463
+user_0097,"everything is under control, trust me.",2025-06-09T19:31:46.716365,group_2,middleman,1,0,0.6677101350568566,1,dominant,-0.5542412582504712,cautious,none,0.3810798310823821
+user_0026,are you sure this is safe?,2025-05-21T16:27:46.716365,group_6,smuggler,1,1,0.007605134990936513,1,dominant,0.01512162809974571,cautious,none,0.2644990705504766
+user_0054,use the new route.,2025-05-16T05:04:46.716365,group_7,supplier,0,0,0.15337534837804823,1,neutral,0.6400687805003735,cautious,confirmation,0.17041075199217037
+user_0074,"i promise, this is the last time.",2025-05-27T00:40:46.716365,group_9,smuggler,0,1,0.8285498995451702,1,dominant,0.8787834292094929,cautious,none,0.17371727081476906
+user_0041,"don't tell anyone else, okay?",2025-05-23T05:35:46.716365,group_7,supplier,0,0,0.5042570465681905,1,neutral,0.8333307245408015,bold,confirmation,0.2037625766788007
+user_0012,meet at the usual spot.,2025-06-04T22:18:46.716365,group_1,middleman,0,0,0.6180996426014297,0,neutral,-0.23519030175671185,bold,confirmation,0.634463151033981
+user_0100,"i swear, you can trust me.",2025-05-24T12:18:46.716365,group_4,middleman,0,1,0.19382891457838725,0,neutral,0.5600579054221122,cautious,confirmation,0.6592576954644088
+user_0036,let me know when you arrive.,2025-05-22T13:34:46.716365,group_1,middleman,0,0,0.45912772362827525,0,dominant,-0.7163292276492264,cautious,overconfidence,0.09277714101509316
+user_0064,"i swear, you can trust me.",2025-05-25T11:41:46.716365,group_7,supplier,1,0,0.41374512816649645,1,neutral,-0.8473746298209435,cautious,confirmation,0.8897135206579039
+user_0082,"we need to move fast, no time to think.",2025-05-23T08:30:46.716365,group_3,smuggler,0,0,0.6596663934535819,0,dominant,0.9518317482294207,cautious,confirmation,0.9949160487503185
+user_0077,"just follow my lead, don't ask questions.",2025-05-16T06:00:46.716365,group_3,middleman,1,0,0.19284525965236698,0,neutral,-0.953923649817781,bold,overconfidence,0.8668742579586106
+user_0015,keep it quiet.,2025-05-17T08:45:46.716365,group_6,supplier,0,0,0.7277438990146049,0,submissive,-0.4526670354370048,bold,overconfidence,0.3485533796853093
+user_0071,everything is set.,2025-06-06T06:40:46.716365,group_8,smuggler,1,0,0.2500931484472715,0,neutral,0.6920715553658439,cautious,confirmation,0.10289460110402293
+user_0099,i feel nervous about this run.,2025-05-30T04:52:46.716365,group_3,supplier,1,1,0.8828573334675858,1,neutral,0.49415854024401185,cautious,none,0.1075591117687199
+user_0050,"i promise, this is the last time.",2025-05-25T02:40:46.716365,group_10,smuggler,1,0,0.4494033840838748,0,neutral,-0.4938726784755403,cautious,confirmation,0.603882095416534
+user_0083,"don't tell anyone else, okay?",2025-06-01T01:17:46.716365,group_7,supplier,0,0,0.8090404668650117,1,dominant,-0.2845109664601364,bold,overconfidence,0.6569546116267166
+user_0048,payment received.,2025-05-30T07:59:46.716365,group_2,supplier,1,0,0.7168026218479081,0,submissive,0.1349385052210006,cautious,overconfidence,0.5616405834722157
+user_0050,everything is set.,2025-06-12T09:51:46.716365,group_4,middleman,0,0,0.5609587004635368,0,neutral,0.7853280402164178,cautious,none,0.7562012034297404
+user_0041,"honestly, i don't know if this will work...",2025-05-25T00:57:46.716365,group_4,supplier,1,1,0.046791843997386895,1,submissive,-0.7614819537983437,cautious,overconfidence,0.6014306793129053
+user_0076,"if you get caught, say nothing.",2025-05-26T18:46:46.716365,group_10,supplier,1,0,0.6436666085072281,0,submissive,-0.43126836223813836,cautious,overconfidence,0.8958295250942334
+user_0068,package is ready for pickup.,2025-05-31T09:03:46.716365,group_1,supplier,1,0,0.8298502177187299,1,neutral,-0.39800345488379096,cautious,confirmation,0.40034434258764384
+user_0072,"honestly, i don't know if this will work...",2025-06-07T11:54:46.716365,group_10,supplier,1,1,0.6964569388625534,1,submissive,0.6973446256085802,bold,confirmation,0.9377037556318715
+user_0014,meet at the usual spot.,2025-05-26T05:13:46.716365,group_1,supplier,0,0,0.9935403713796961,1,dominant,-0.6596170948741329,bold,none,0.9022764847597627
+user_0048,"just follow my lead, don't ask questions.",2025-05-16T05:55:46.716365,group_1,smuggler,0,0,0.04800339003760257,1,dominant,-0.47254573808120237,cautious,confirmation,0.6986648304040627
+user_0018,i feel nervous about this run.,2025-06-05T23:44:46.716365,group_2,supplier,1,0,0.753034826994913,1,neutral,-0.10644051926977571,bold,none,0.5275889280477423
+user_0074,are you sure this is safe?,2025-06-07T07:51:46.716365,group_5,smuggler,1,0,0.09179937291005269,1,neutral,-0.8344114519207226,bold,none,0.6471342722719033
+user_0027,let me know when you arrive.,2025-05-19T10:36:46.716365,group_8,supplier,0,0,0.6704989538798888,1,submissive,-0.6241651402764683,bold,confirmation,0.2086614580005065
+user_0076,"don't tell anyone else, okay?",2025-06-08T09:52:46.716365,group_6,smuggler,1,0,0.8478069790043786,0,dominant,-0.5624303383127267,cautious,confirmation,0.9750646833511583
+user_0080,"don't tell anyone else, okay?",2025-05-25T06:17:46.716365,group_7,supplier,0,1,0.42309398326423997,1,neutral,0.29676592502093824,bold,confirmation,0.8761962362168236
+user_0096,the shipment is delayed.,2025-05-26T23:17:46.716365,group_1,smuggler,0,1,0.02858624962151357,1,submissive,-0.4688425493489774,bold,confirmation,0.43147363671709615
+user_0020,"if you get caught, say nothing.",2025-06-07T21:03:46.716365,group_7,middleman,1,0,0.4413405975147252,1,dominant,-0.9017311983015874,cautious,none,0.9280199589028088
+user_0025,everything is set.,2025-05-24T15:27:46.716365,group_7,supplier,1,1,0.5186184602496425,0,neutral,-0.9002571009644142,bold,overconfidence,0.21957976456871553
+user_0007,package is ready for pickup.,2025-06-11T04:50:46.716365,group_5,supplier,0,0,0.2754594775025919,1,submissive,-0.2142291500970086,bold,none,0.8240686571562861
+user_0089,contact the middleman first.,2025-06-07T13:23:46.716365,group_4,supplier,0,1,0.6368992126583497,1,neutral,-0.9937862590813256,bold,none,0.9077824406360926
+user_0080,are you sure this is safe?,2025-05-29T22:01:46.716365,group_4,supplier,1,0,0.16664545377600493,1,submissive,-0.7163326894902733,bold,none,0.4746006908112954
+user_0043,meet at the usual spot.,2025-05-24T02:25:46.716365,group_5,supplier,0,0,0.5940051552067968,1,neutral,-0.9979870544626217,bold,confirmation,0.10938599739355226
+user_0003,i feel nervous about this run.,2025-05-29T06:00:46.716365,group_4,middleman,0,0,0.7752565525018431,0,submissive,0.6077852358845839,cautious,confirmation,0.4906618500859663
+user_0045,"just follow my lead, don't ask questions.",2025-05-27T17:37:46.716365,group_8,smuggler,1,1,0.013561053780834942,1,submissive,0.4203143020531366,cautious,overconfidence,0.26993744586247315
+user_0067,meet at the usual spot.,2025-05-22T18:04:46.716365,group_7,supplier,0,1,0.4978322314538409,0,neutral,0.48202485882946955,cautious,confirmation,0.20630752104792827
+user_0012,keep it quiet.,2025-06-02T05:10:46.716365,group_2,smuggler,1,0,0.2653093331331561,1,submissive,-0.21794754878956324,cautious,confirmation,0.3093232973707666
+user_0006,i feel nervous about this run.,2025-06-08T16:35:46.716365,group_6,middleman,0,1,0.7953329045700108,1,submissive,-0.7796188448448496,bold,confirmation,0.9272330305392049
+user_0019,"we need to move fast, no time to think.",2025-05-22T20:37:46.716365,group_9,smuggler,0,1,0.48682479775145615,0,submissive,-0.9688152007183704,bold,overconfidence,0.28301729876898674
+user_0076,the shipment is delayed.,2025-05-18T10:38:46.716365,group_8,smuggler,0,1,0.3522555206734933,0,dominant,-0.4971330741387787,cautious,confirmation,0.7852632988915632
+user_0065,"just follow my lead, don't ask questions.",2025-05-23T01:52:46.716365,group_2,middleman,1,0,0.9959142560739304,0,submissive,0.17044967291146262,bold,confirmation,0.21885776543719082
+user_0061,"i swear, you can trust me.",2025-05-27T08:12:46.716365,group_7,smuggler,1,0,0.8930336405430801,1,neutral,-0.3785283986732071,cautious,none,0.8759324053114644
+user_0075,payment received.,2025-05-25T02:26:46.716365,group_5,supplier,1,0,0.3010622658207721,0,submissive,0.13333018015501863,cautious,none,0.183372172534212
+user_0056,the shipment is delayed.,2025-05-22T07:55:46.716365,group_9,smuggler,1,1,0.46837887431825576,1,submissive,-0.15898867008914186,cautious,confirmation,0.027672938351022358
+user_0072,meet at the usual spot.,2025-06-04T04:17:46.716365,group_2,supplier,1,0,0.5803224184528499,1,dominant,0.24177948449953712,cautious,overconfidence,0.7553351733469019
+user_0051,payment received.,2025-06-03T08:39:46.716365,group_1,smuggler,1,0,0.08465909253576953,1,neutral,-0.7859021673577511,bold,confirmation,0.5654434001555136
+user_0089,"honestly, i don't know if this will work...",2025-05-18T19:00:46.716365,group_2,middleman,0,0,0.5162640299212329,1,dominant,-0.5529128328702997,bold,confirmation,0.6282394626057954
+user_0093,meet at the usual spot.,2025-06-07T02:14:46.716365,group_10,middleman,0,0,0.06714206188943761,0,neutral,0.7597981262361171,bold,overconfidence,0.2042936541408823
+user_0061,meet at the usual spot.,2025-06-08T01:00:46.716365,group_8,smuggler,0,0,0.29992375824270645,1,dominant,0.6405419146258808,cautious,none,0.6813204470212001
+user_0085,"everything is under control, trust me.",2025-05-21T15:05:46.716365,group_7,supplier,0,0,0.14168618484251272,0,dominant,0.023029994095336015,bold,confirmation,0.48046646483269473
+user_0038,the shipment is delayed.,2025-06-11T19:37:46.716365,group_8,smuggler,1,1,0.3858207888726346,0,submissive,-0.16620706299701937,cautious,overconfidence,0.027970658864246434
+user_0059,the shipment is delayed.,2025-06-10T16:48:46.716365,group_7,supplier,1,0,0.6451089877666706,1,dominant,0.8162166760423546,cautious,overconfidence,0.46790710749048126
+user_0093,"we need to move fast, no time to think.",2025-05-28T14:59:46.716365,group_1,supplier,1,0,0.3488340817581901,1,neutral,-0.8744684580788482,bold,confirmation,0.6559333854854785
+user_0073,"honestly, i don't know if this will work...",2025-06-05T22:24:46.716365,group_3,smuggler,1,1,0.06821010944366468,1,submissive,0.925110019322519,bold,none,0.7085001835779268
+user_0065,"don't tell anyone else, okay?",2025-05-27T19:40:46.716365,group_3,middleman,1,1,0.5844932244529949,1,dominant,-0.9101417358290875,bold,overconfidence,0.09654044110522397
+user_0014,are you sure this is safe?,2025-06-06T16:54:46.716365,group_6,supplier,0,0,0.8997943094429032,0,neutral,0.7849457023156203,cautious,overconfidence,0.061926645129200986
+user_0033,the shipment is delayed.,2025-05-17T17:24:46.716365,group_2,smuggler,1,0,0.9235508454894068,1,dominant,0.39745145215853483,cautious,overconfidence,0.9888708638950867
+user_0074,"just follow my lead, don't ask questions.",2025-05-25T02:41:46.716365,group_4,smuggler,1,1,0.6788490212417344,0,dominant,0.48430781307949977,cautious,none,0.8086722179502562
+user_0025,let me know when you arrive.,2025-06-11T12:21:46.716365,group_1,middleman,0,0,0.03323919184512525,0,dominant,-0.28087799587271123,cautious,none,0.5465808426178332
+user_0010,"honestly, i don't know if this will work...",2025-05-24T10:56:46.716365,group_9,smuggler,0,0,0.5703700693516115,1,neutral,-0.2957878953742208,bold,overconfidence,0.4388780625724177
+user_0081,"if you get caught, say nothing.",2025-05-19T05:56:46.716365,group_10,supplier,0,1,0.10091300396567204,1,dominant,-0.8970419823901419,cautious,overconfidence,0.22402122483646714
+user_0038,contact the middleman first.,2025-06-02T18:58:46.716365,group_6,supplier,0,1,0.07477712284344284,0,neutral,0.8636180998570822,cautious,confirmation,0.6186449159432068
+user_0070,the shipment is delayed.,2025-06-11T13:04:46.716365,group_8,smuggler,0,0,0.3380452425882644,1,dominant,-0.3309175090785619,bold,overconfidence,0.20423330774223314
+user_0094,"honestly, i don't know if this will work...",2025-05-18T20:36:46.716365,group_4,smuggler,0,0,0.34584557250928905,0,submissive,0.1962952574981658,bold,none,0.478771484990423
+user_0017,contact the middleman first.,2025-05-17T22:07:46.716365,group_2,supplier,1,0,0.650336968528164,1,submissive,-0.3931632968553629,bold,overconfidence,0.9312465344023447
+user_0004,keep it quiet.,2025-06-09T08:00:46.716365,group_10,smuggler,0,1,0.05214041759911758,1,neutral,-0.7495252127987349,cautious,none,0.1377704301147401
+user_0057,the shipment is delayed.,2025-06-13T00:59:46.716365,group_6,smuggler,0,1,0.43652483014813503,0,dominant,-0.5359331504703939,bold,overconfidence,0.4130654837748087
+user_0097,"just follow my lead, don't ask questions.",2025-06-10T20:59:46.716365,group_1,supplier,0,0,0.07661167574416539,0,submissive,-0.6388130443901423,bold,confirmation,0.34966746421468264
+user_0084,use the new route.,2025-05-29T07:55:46.716365,group_3,middleman,1,1,0.6575828203735974,0,dominant,-0.4996022889260927,bold,confirmation,0.7052551860751108
+user_0046,use the new route.,2025-06-05T04:59:46.716365,group_5,smuggler,1,0,0.5268441877736038,1,submissive,0.39554337473838275,bold,overconfidence,0.3466354526611073
+user_0053,"everything is under control, trust me.",2025-06-07T03:36:46.716365,group_5,supplier,0,0,0.8414253516192615,0,submissive,0.48381731738098943,bold,overconfidence,0.372389985061517
+user_0019,package is ready for pickup.,2025-05-26T17:19:46.716365,group_8,middleman,1,0,0.021289650342669164,0,submissive,-0.4440653385484197,cautious,confirmation,0.8271788505099451
+user_0011,package is ready for pickup.,2025-05-28T17:22:46.716365,group_10,smuggler,1,0,0.8627728103294088,1,submissive,-0.9111688997678691,bold,confirmation,0.18442679688279096
+user_0056,"just follow my lead, don't ask questions.",2025-05-18T09:36:46.716365,group_5,supplier,1,0,0.9100540027673489,1,submissive,0.6204873733716958,bold,overconfidence,0.34094438497562907
+user_0080,"i promise, this is the last time.",2025-06-04T11:31:46.716365,group_1,supplier,1,1,0.8585140927947398,1,submissive,0.145205106127563,cautious,overconfidence,0.9603050081528055
+user_0060,use the new route.,2025-05-22T00:34:46.716365,group_1,smuggler,1,0,0.9988060910249695,1,submissive,0.1421652644068181,bold,none,0.274269881559125
+user_0035,contact the middleman first.,2025-06-14T17:49:46.716365,group_10,supplier,0,1,0.5684410755394136,1,submissive,0.6951853361544666,cautious,confirmation,0.017266686558047528
+user_0002,"we need to move fast, no time to think.",2025-05-17T16:57:46.716365,group_6,smuggler,0,1,0.058584835973160776,0,submissive,0.79408856645716,cautious,overconfidence,0.44043951615545085
+user_0034,contact the middleman first.,2025-05-27T20:01:46.716365,group_8,supplier,0,0,0.14690178536801912,0,dominant,-0.7711068741291638,bold,overconfidence,0.6844413839781223
+user_0057,i feel nervous about this run.,2025-05-30T11:08:46.716365,group_1,middleman,0,0,0.9517037921737846,1,submissive,-0.9677636522294908,cautious,none,0.7183192971701403
+user_0077,use the new route.,2025-05-31T22:31:46.716365,group_2,supplier,1,0,0.51103551743515,0,dominant,-0.3484219078665094,cautious,none,0.4159696703507987
+user_0083,"i promise, this is the last time.",2025-05-28T21:44:46.716365,group_3,supplier,1,1,0.3349857850007625,1,neutral,-0.250568785210177,cautious,none,0.03115740537876499
+user_0048,package is ready for pickup.,2025-05-29T06:14:46.716365,group_3,middleman,0,0,0.6090381459256979,1,neutral,0.4315359410773776,cautious,overconfidence,0.37883969270234374
+user_0075,package is ready for pickup.,2025-06-14T22:13:46.716365,group_3,smuggler,0,0,0.9586251671278317,0,neutral,0.006991773811175772,cautious,none,0.7330456608626422
+user_0068,package is ready for pickup.,2025-06-12T15:39:46.716365,group_8,middleman,1,1,0.2691827207432954,1,dominant,-0.34263099367807315,cautious,overconfidence,0.45582117374849596
+user_0096,the shipment is delayed.,2025-05-26T23:49:46.716365,group_8,middleman,1,1,0.07969007158267949,0,submissive,0.3066598547124044,bold,confirmation,0.7863041417215036
+user_0030,i feel nervous about this run.,2025-05-21T17:22:46.716365,group_9,supplier,1,0,0.6055456642827313,1,submissive,-0.3723113221233485,bold,confirmation,0.4210225902872229
+user_0019,i feel nervous about this run.,2025-06-07T12:19:46.716365,group_4,supplier,1,0,0.16677094340912135,1,submissive,0.5310191147711689,cautious,none,0.10099537019728078
+user_0005,"i promise, this is the last time.",2025-05-17T02:40:46.716365,group_3,supplier,0,1,0.9042603926536342,1,dominant,-0.1953649864058391,bold,none,0.29339189171068103
+user_0044,"honestly, i don't know if this will work...",2025-06-11T22:35:46.716365,group_10,middleman,0,0,0.0737525428738327,1,submissive,0.8213484497200656,cautious,none,0.8348046722687046
+user_0038,are you sure this is safe?,2025-05-22T03:33:46.716365,group_3,middleman,0,0,0.8955991715772729,1,neutral,0.2988095202077501,cautious,confirmation,0.4385870410257746
+user_0066,i feel nervous about this run.,2025-05-28T17:36:46.716365,group_2,supplier,1,1,0.34111721104598003,1,submissive,-0.35439985418218756,cautious,overconfidence,0.9535136680543166
+user_0006,keep it quiet.,2025-06-04T14:47:46.716365,group_9,smuggler,1,0,0.34734561506503037,0,dominant,-0.42431367525684105,cautious,confirmation,0.2236333629887488
+user_0022,everything is set.,2025-05-27T19:53:46.716365,group_10,supplier,0,1,0.14100312513095148,0,neutral,0.6775799916490639,bold,overconfidence,0.5983915396224059
+user_0006,"just follow my lead, don't ask questions.",2025-06-09T12:04:46.716365,group_4,supplier,1,0,0.36954055877879954,1,neutral,-0.14699487787351884,cautious,none,0.12617870294330868
+user_0059,everything is set.,2025-05-21T00:15:46.716365,group_2,smuggler,1,1,0.2630565321956859,0,submissive,0.46326748533123085,bold,confirmation,0.8036410814454188
+user_0096,use the new route.,2025-05-19T09:44:46.716365,group_6,supplier,1,1,0.4534640582697387,0,neutral,0.375875149887948,bold,confirmation,0.10043880293047425
+user_0091,"don't tell anyone else, okay?",2025-05-30T11:21:46.716365,group_4,middleman,0,0,0.24591373009141282,1,dominant,0.34669526212928137,cautious,confirmation,0.15143310639640062
+user_0024,are you sure this is safe?,2025-05-28T21:12:46.716365,group_3,supplier,0,0,0.0031977104717402227,0,submissive,0.11547432260538915,bold,none,0.1781150254518742
+user_0054,contact the middleman first.,2025-06-12T22:30:46.716365,group_7,middleman,0,1,0.4842330629412914,0,submissive,0.6813837026341756,cautious,none,0.48505995042787464
+user_0081,"if you get caught, say nothing.",2025-06-12T05:32:46.716365,group_6,middleman,1,1,0.09653323306836581,0,submissive,-0.16081194625255257,cautious,confirmation,0.24739625798477372
+user_0055,the shipment is delayed.,2025-05-24T00:59:46.716365,group_8,smuggler,0,1,0.6969685807681777,0,submissive,0.6802416563737586,cautious,none,0.41200291877405293
+user_0031,meet at the usual spot.,2025-05-29T06:18:46.716365,group_5,middleman,0,1,0.06080326111806411,1,submissive,0.3499780940654629,cautious,confirmation,0.8090305435802903
+user_0055,"if you get caught, say nothing.",2025-05-27T21:17:46.716365,group_1,smuggler,1,0,0.3398415568192764,0,submissive,-0.10472730681580988,bold,none,0.8756219757090147
+user_0069,keep it quiet.,2025-06-13T11:30:46.716365,group_2,middleman,1,0,0.6049612055701562,0,neutral,-0.9577646135924329,cautious,overconfidence,0.780433525925357
+user_0043,"i swear, you can trust me.",2025-06-10T04:26:46.716365,group_2,middleman,0,0,0.36209775161350266,0,dominant,0.6762981047585428,cautious,none,0.2293344683214089
+user_0021,"i swear, you can trust me.",2025-05-31T02:37:46.716365,group_7,supplier,0,0,0.036074972491576984,0,neutral,-0.794958539284776,cautious,confirmation,0.04228516785014791
+user_0037,everything is set.,2025-05-17T03:00:46.716365,group_4,middleman,0,0,0.272458245977129,0,submissive,0.3105519175641378,bold,none,0.876621643230309
+user_0011,let me know when you arrive.,2025-05-19T09:14:46.716365,group_9,middleman,1,0,0.014741783906906614,0,dominant,0.4717467961936561,cautious,overconfidence,0.8314717159099249
+user_0040,"honestly, i don't know if this will work...",2025-06-04T08:54:46.716365,group_9,middleman,0,1,0.27404973997850446,0,dominant,-0.47146008954551255,cautious,confirmation,0.29123865387987025
+user_0012,use the new route.,2025-06-03T12:21:46.716365,group_9,smuggler,1,1,0.9076657571113069,0,submissive,-0.9655749351806351,cautious,none,0.39364518189025954
+user_0048,"just follow my lead, don't ask questions.",2025-05-20T22:49:46.716365,group_8,supplier,0,1,0.7712057920702959,1,submissive,-0.04638736600945492,bold,none,0.3106098199817201
+user_0019,let me know when you arrive.,2025-05-20T08:43:46.716365,group_9,supplier,0,1,0.5934095326808769,0,dominant,-0.1936098543332747,cautious,none,0.7230324137184769
+user_0073,use the new route.,2025-05-18T16:54:46.716365,group_8,smuggler,1,1,0.740511129333589,0,dominant,-0.35711403654519325,cautious,overconfidence,0.268144895809869
+user_0027,"just follow my lead, don't ask questions.",2025-06-07T06:21:46.716365,group_9,smuggler,1,0,0.3218379576606454,1,neutral,0.10961448935647167,bold,overconfidence,0.4257020257357922
+user_0010,"if you get caught, say nothing.",2025-05-21T19:33:46.716365,group_1,supplier,0,0,0.1973676118075941,0,dominant,0.7710056666162941,cautious,overconfidence,0.6261649117108704
+user_0068,are you sure this is safe?,2025-05-22T09:18:46.716365,group_9,smuggler,1,0,0.29675102321493085,1,submissive,0.4398859876687855,cautious,none,0.3223861427240109
+user_0048,i feel nervous about this run.,2025-06-14T14:44:46.716365,group_3,supplier,1,0,0.8028137282580123,1,neutral,0.20903556423245906,cautious,confirmation,0.21061713200958443
+user_0043,payment received.,2025-05-23T11:55:46.716365,group_9,middleman,1,0,0.31768802863585155,0,dominant,-0.05901312728154662,bold,confirmation,0.7014646320616783
+user_0026,the shipment is delayed.,2025-06-09T11:52:46.716365,group_8,smuggler,0,0,0.6249727641693807,0,dominant,-0.29909441416943783,bold,confirmation,0.6288217530707231
+user_0025,contact the middleman first.,2025-05-28T22:56:46.716365,group_7,middleman,1,1,0.6245009360238077,1,submissive,0.12222459228362115,bold,overconfidence,0.5926391270192102
+user_0014,keep it quiet.,2025-05-28T18:21:46.716365,group_3,smuggler,0,0,0.7968844810300901,1,submissive,0.15131142395703012,cautious,none,0.871336583911532
+user_0086,are you sure this is safe?,2025-05-25T13:09:46.716365,group_3,supplier,0,0,0.09133826888760255,0,dominant,-0.6703632254084351,bold,confirmation,0.07778742831910646
+user_0007,payment received.,2025-06-08T07:27:46.716365,group_8,smuggler,1,1,0.30255832150857964,0,dominant,0.12029027034709827,cautious,confirmation,0.7062445914333909
+user_0046,everything is set.,2025-06-08T18:40:46.716365,group_6,middleman,0,0,0.9553601232626758,1,neutral,-0.7142320001143798,cautious,none,0.4416468179977946
+user_0089,contact the middleman first.,2025-05-21T11:52:46.716365,group_9,smuggler,1,0,0.025295554594236824,1,submissive,0.5414895664161308,cautious,none,0.42407792965903846
+user_0079,"just follow my lead, don't ask questions.",2025-05-24T17:08:46.716365,group_7,smuggler,0,0,0.19583608539462505,1,neutral,-0.6102227865812997,cautious,confirmation,0.09410848402262295
+user_0048,contact the middleman first.,2025-06-07T21:43:46.716365,group_1,middleman,1,0,0.6472181176763133,1,submissive,-0.9121652246156657,cautious,confirmation,0.625270411798559
+user_0074,meet at the usual spot.,2025-06-06T10:46:46.716365,group_10,middleman,1,1,0.17377096767312594,0,dominant,-0.26093228118364564,bold,none,0.7361961690851127
+user_0017,let me know when you arrive.,2025-06-04T02:49:46.716365,group_2,supplier,1,0,0.31423655224945735,1,dominant,0.31021044573193457,bold,confirmation,0.8372735282182017
+user_0041,"change of plans, update soon.",2025-06-11T17:31:46.716365,group_6,middleman,0,1,0.41637872783628604,0,dominant,-0.6141201283775637,bold,none,0.26663592520332857
+user_0023,"we need to move fast, no time to think.",2025-05-18T01:08:46.716365,group_5,middleman,0,1,0.17296821352317704,0,submissive,-0.45247372149587606,cautious,overconfidence,0.3414524902869185
+user_0073,let me know when you arrive.,2025-06-10T18:57:46.716365,group_8,supplier,0,0,0.18250097132884247,0,dominant,-0.36499742282705716,bold,overconfidence,0.7887366787376903
+user_0028,"i swear, you can trust me.",2025-06-05T23:21:46.716365,group_2,middleman,0,1,0.837308322495897,0,neutral,0.5116650870160828,bold,confirmation,0.053335304404127926
+user_0091,everything is set.,2025-05-24T02:57:46.716365,group_5,supplier,1,1,0.22596038010176467,0,submissive,0.7671371579054689,bold,confirmation,0.25935408992736153
+user_0057,contact the middleman first.,2025-05-20T05:28:46.716365,group_8,smuggler,1,1,0.7723705443875931,1,neutral,0.3740797464807397,bold,overconfidence,0.9496651279533221
+user_0075,"if you get caught, say nothing.",2025-05-23T02:36:46.716365,group_9,middleman,0,1,0.34692153070873,1,dominant,-0.3156376674822894,cautious,overconfidence,0.513272455136545
+user_0027,contact the middleman first.,2025-05-25T22:55:46.716365,group_8,smuggler,0,0,0.5170298193270875,0,submissive,-0.7203694363348654,cautious,confirmation,0.5637694252871733
+user_0085,i feel nervous about this run.,2025-05-17T13:30:46.716365,group_6,middleman,0,1,0.8693291015999322,0,dominant,-0.15718447453534723,cautious,confirmation,0.6478813134355833
+user_0013,"change of plans, update soon.",2025-06-01T07:34:46.716365,group_5,supplier,1,0,0.7520451770853248,1,neutral,-0.08710864791907746,cautious,none,0.3993334805486505
+user_0032,contact the middleman first.,2025-06-02T00:11:46.716365,group_10,smuggler,1,1,0.30017329782343627,0,neutral,-0.7842893686743679,cautious,confirmation,0.9539819402805566
+user_0052,i feel nervous about this run.,2025-05-17T07:43:46.716365,group_3,middleman,0,1,0.8865952461723323,0,neutral,0.5037001839212953,bold,none,0.33314711443014
+user_0007,let me know when you arrive.,2025-05-30T02:20:46.716365,group_3,smuggler,1,1,0.16534208104452286,0,neutral,-0.7050179809271317,bold,confirmation,0.30752675295155696
+user_0024,use the new route.,2025-05-25T06:36:46.716365,group_7,supplier,0,0,0.6847135764013843,1,dominant,-0.04531182111308274,cautious,overconfidence,0.4708006944494625
+user_0088,"if you get caught, say nothing.",2025-05-25T16:37:46.716365,group_8,middleman,1,1,0.7062241006101817,0,submissive,-0.7429952126986281,bold,confirmation,0.7732604393892871
+user_0037,"i promise, this is the last time.",2025-06-12T04:32:46.716365,group_7,middleman,0,1,0.4883093287786593,0,dominant,0.7711762578565229,bold,overconfidence,0.36913256617099366
+user_0044,"don't tell anyone else, okay?",2025-05-16T02:16:46.716365,group_10,middleman,1,0,0.6455772685265054,0,submissive,-0.6240589016042961,bold,confirmation,0.43540062824525194
+user_0044,"if you get caught, say nothing.",2025-06-14T18:55:46.716365,group_3,smuggler,0,1,0.31109207411718,1,dominant,-0.47796100439857336,cautious,overconfidence,0.1635428771243701
+user_0088,"don't tell anyone else, okay?",2025-05-20T20:47:46.716365,group_8,supplier,1,0,0.6558686037545388,1,dominant,-0.6782324415590499,bold,none,0.5069704307913055
+user_0088,"we need to move fast, no time to think.",2025-05-16T13:11:46.716365,group_8,middleman,1,1,0.7713596601375288,1,submissive,-0.48270190146468583,bold,none,0.8071250900806366
+user_0058,"don't tell anyone else, okay?",2025-06-01T23:45:46.716365,group_8,middleman,1,1,0.11167213905971285,0,submissive,0.06342325746433097,cautious,none,0.08000911139240274
+user_0001,"honestly, i don't know if this will work...",2025-06-11T21:08:46.716365,group_5,supplier,1,1,0.04854359824033949,1,dominant,-0.7568971087351932,cautious,confirmation,0.3671041209256165
+user_0077,"i swear, you can trust me.",2025-05-27T12:08:46.716365,group_7,smuggler,1,0,0.5427484979274535,0,submissive,-0.2862292764028873,bold,confirmation,0.3246325500136863
+user_0082,package is ready for pickup.,2025-06-12T03:16:46.716365,group_2,smuggler,0,1,0.248626717740548,0,neutral,-0.8108548503211943,bold,none,0.4934502946667413
+user_0036,"i swear, you can trust me.",2025-06-05T20:49:46.716365,group_10,supplier,1,0,0.0765361437692379,1,dominant,-0.706499105552532,bold,confirmation,0.5126322804411239
+user_0093,let me know when you arrive.,2025-05-31T09:28:46.716365,group_5,smuggler,1,0,0.18393035196035257,1,neutral,0.30579086754746587,bold,confirmation,0.9651600503655182
+user_0025,i feel nervous about this run.,2025-05-27T21:35:46.716365,group_5,middleman,0,0,0.3742363868157268,1,dominant,0.521438091031883,cautious,confirmation,0.7468697927062458
+user_0100,"change of plans, update soon.",2025-05-28T14:55:46.716365,group_9,middleman,0,1,0.9097464098130197,1,submissive,-0.9898979007127466,bold,overconfidence,0.7820505754226806
+user_0085,payment received.,2025-05-28T12:39:46.716365,group_5,smuggler,1,0,0.22132368553299286,0,neutral,-0.3507823315105183,bold,none,0.2878313118827638
+user_0092,"everything is under control, trust me.",2025-06-05T23:40:46.716365,group_10,smuggler,1,1,0.47560288704836884,0,submissive,-0.3188080442004979,cautious,confirmation,0.15177862690350075
+user_0096,are you sure this is safe?,2025-05-25T14:36:46.716365,group_9,middleman,0,1,0.2556925967554615,0,neutral,0.7045833553569507,bold,none,0.4865385186770985
+user_0045,let me know when you arrive.,2025-05-25T11:14:46.716365,group_9,smuggler,1,1,0.7508575194726741,1,neutral,-0.06523978666119934,bold,none,0.5849368882681004
+user_0080,"i swear, you can trust me.",2025-06-10T17:32:46.716365,group_7,smuggler,0,1,0.5564394872192443,1,dominant,-0.2494313281599243,bold,confirmation,0.6071217428804866
+user_0016,the shipment is delayed.,2025-06-03T00:47:46.716365,group_4,supplier,0,1,0.1786224384970463,0,neutral,0.9577930033373312,cautious,confirmation,0.7512809203397676
+user_0054,"everything is under control, trust me.",2025-05-28T17:08:46.716365,group_6,smuggler,0,1,0.5023046697350371,1,dominant,0.7181131750936205,cautious,confirmation,0.2862834246913971
+user_0058,"change of plans, update soon.",2025-05-24T02:32:46.716365,group_7,smuggler,0,1,0.7629349042774847,0,neutral,0.8145617708313924,cautious,none,0.6531042413271956
+user_0054,"i promise, this is the last time.",2025-05-24T14:50:46.716365,group_1,middleman,0,0,0.6097060637170097,0,neutral,0.14116940993291127,cautious,overconfidence,0.325020310355816
+user_0032,"change of plans, update soon.",2025-06-10T22:22:46.716365,group_8,middleman,0,1,0.022719515435139614,1,neutral,0.02267090772745406,bold,overconfidence,0.4577688974817419
+user_0093,use the new route.,2025-05-23T23:54:46.716365,group_8,middleman,0,1,0.1326500571741306,0,dominant,-0.585985458230939,cautious,confirmation,0.24504697087162053
+user_0078,"we need to move fast, no time to think.",2025-05-27T00:44:46.716365,group_3,smuggler,0,1,0.872085458935468,0,dominant,-0.07557553467085576,bold,overconfidence,0.7486085745120239
+user_0088,"i promise, this is the last time.",2025-06-08T16:15:46.716365,group_8,smuggler,0,1,0.957574816495398,0,neutral,0.5531930566873686,bold,confirmation,0.4808075638693111
+user_0093,package is ready for pickup.,2025-05-29T08:31:46.716365,group_7,middleman,0,1,0.3994294383870409,1,submissive,0.5748470593103296,bold,overconfidence,0.8470703830011121
+user_0098,i feel nervous about this run.,2025-05-21T02:37:46.716365,group_3,smuggler,1,1,0.1419501000119342,0,submissive,-0.5798300316258118,bold,confirmation,0.6420355714389387
+user_0010,"we need to move fast, no time to think.",2025-06-07T09:27:46.716365,group_4,smuggler,1,1,0.6891941163291936,1,submissive,0.3991233446884417,cautious,none,0.03574464292319668
+user_0018,payment received.,2025-06-08T18:27:46.716365,group_5,supplier,0,1,0.563539433201583,1,submissive,0.8895838218307,bold,none,0.6338945798929136
+user_0061,"we need to move fast, no time to think.",2025-05-29T10:37:46.716365,group_3,middleman,0,0,0.6074494219745165,1,submissive,0.2735246602880661,bold,overconfidence,0.583230371050213
+user_0019,i feel nervous about this run.,2025-05-16T13:42:46.716365,group_5,smuggler,1,1,0.618459991365701,0,submissive,0.2877030395847089,cautious,none,0.37436258329435235
+user_0063,"change of plans, update soon.",2025-06-08T22:13:46.716365,group_8,supplier,1,1,0.014232595777100343,0,submissive,-0.5503496481581289,bold,overconfidence,0.15008852093156833
+user_0078,the shipment is delayed.,2025-06-14T14:30:46.716365,group_4,smuggler,1,1,0.5694079914145358,0,neutral,0.691491869373567,bold,none,0.20252998444110393
+user_0086,package is ready for pickup.,2025-06-03T03:47:46.716365,group_2,smuggler,0,1,0.5532844808821095,0,dominant,-0.10673429717567329,bold,overconfidence,0.25607207266442367
+user_0095,"change of plans, update soon.",2025-06-14T15:23:46.716365,group_4,supplier,1,0,0.040232792343031454,1,neutral,-0.44504688544036175,bold,none,0.8306923800518128
+user_0009,payment received.,2025-06-08T19:18:46.716365,group_5,supplier,0,0,0.24394059617577035,1,submissive,-0.803459532008564,bold,confirmation,0.7900161268853075
+user_0010,keep it quiet.,2025-06-06T18:57:46.716365,group_2,smuggler,0,1,0.1973962418725781,0,neutral,-0.02553866356669432,bold,none,0.42975564942612565
+user_0015,"we need to move fast, no time to think.",2025-06-14T06:27:46.716365,group_4,middleman,1,0,0.2517477777194995,1,neutral,-0.45851359527401425,bold,confirmation,0.507292982066271
+user_0066,everything is set.,2025-06-14T09:21:46.716365,group_5,smuggler,0,1,0.2752883484798859,1,neutral,-0.11991239918067986,bold,confirmation,0.0065172859967316255
+user_0066,are you sure this is safe?,2025-06-07T14:03:46.716365,group_3,supplier,0,1,0.6729761906313969,0,submissive,-0.31513655725295897,bold,overconfidence,0.7787917935007191
+user_0098,use the new route.,2025-05-25T17:25:46.716365,group_5,middleman,1,1,0.7664205173432791,1,dominant,0.3694926396021456,bold,none,0.6718872350051823
+user_0042,"change of plans, update soon.",2025-05-24T18:08:46.716365,group_7,supplier,0,0,0.32568126139571496,1,neutral,0.19045929295940134,cautious,none,0.26938318631592084
+user_0034,are you sure this is safe?,2025-05-29T20:09:46.716365,group_6,supplier,1,1,0.7267096367026386,1,submissive,-0.38396623096916227,cautious,confirmation,0.005672527568211683
+user_0052,package is ready for pickup.,2025-06-03T15:02:46.716365,group_6,middleman,0,1,0.7670485993788191,0,neutral,-0.595573809614643,cautious,confirmation,0.8325517354419468
+user_0004,"honestly, i don't know if this will work...",2025-06-04T11:28:46.716365,group_7,smuggler,0,0,0.6175558381001905,1,submissive,-0.7863308478232189,bold,overconfidence,0.3254830369565572
+user_0062,i feel nervous about this run.,2025-06-06T09:45:46.716365,group_1,middleman,1,1,0.2498461252461568,1,dominant,-0.7971201679689504,cautious,confirmation,0.5378957120288076
+user_0057,everything is set.,2025-05-21T01:48:46.716365,group_8,supplier,0,1,0.9771787581983424,1,dominant,0.7479012332919175,cautious,none,0.1999943074720828
+user_0012,"we need to move fast, no time to think.",2025-05-27T04:23:46.716365,group_6,middleman,1,1,0.6895701290805027,0,dominant,0.7414506492897972,cautious,confirmation,0.90510349551367
+user_0058,keep it quiet.,2025-05-24T09:39:46.716365,group_6,smuggler,0,1,0.36220379421868987,0,neutral,0.9428773329266951,cautious,confirmation,0.6036168914113214
+user_0003,payment received.,2025-05-21T10:43:46.716365,group_7,smuggler,1,1,0.7980969998838833,0,neutral,-0.25305128073392424,cautious,overconfidence,0.9597882591501739
+user_0042,"just follow my lead, don't ask questions.",2025-06-07T09:56:46.716365,group_5,middleman,1,0,0.734433807995562,0,neutral,0.5611764209320385,bold,none,0.8462993417045916
+user_0012,i feel nervous about this run.,2025-06-06T08:12:46.716365,group_10,middleman,0,0,0.7671152851280059,1,submissive,-0.06856966836320488,bold,none,0.3304294427709712
+user_0024,i feel nervous about this run.,2025-05-31T11:41:46.716365,group_8,middleman,1,0,0.4014660684372323,1,dominant,0.2473794941339289,cautious,overconfidence,0.008537905106171473
+user_0042,"i promise, this is the last time.",2025-05-22T20:54:46.716365,group_5,supplier,1,1,0.6536127005919953,0,neutral,0.8507130943930938,bold,overconfidence,0.7729920010885879
+user_0027,everything is set.,2025-05-24T06:52:46.716365,group_2,supplier,0,0,0.5400762509444326,0,submissive,0.7411121027966774,bold,none,0.208807253850262
+user_0039,"change of plans, update soon.",2025-06-04T07:57:46.716365,group_5,supplier,0,1,0.02729643983626484,1,dominant,0.6683144859673633,cautious,overconfidence,0.4439524625802992
+user_0096,keep it quiet.,2025-06-02T08:02:46.716365,group_1,smuggler,1,1,0.19863773290538977,1,neutral,0.6289988327719169,bold,overconfidence,0.5067033314204454
+user_0075,"don't tell anyone else, okay?",2025-05-21T13:27:46.716365,group_3,supplier,0,1,0.7406420007709295,1,neutral,0.9907151209843095,cautious,overconfidence,0.21032746125125956
+user_0012,"don't tell anyone else, okay?",2025-06-01T09:35:46.716365,group_8,smuggler,0,1,0.016145460361656427,1,submissive,-0.19938330409573402,bold,confirmation,0.36039244343140553
+user_0040,let me know when you arrive.,2025-06-04T18:44:46.716365,group_5,supplier,0,1,0.8759418165040125,0,submissive,0.45925822328566923,cautious,overconfidence,0.14073581879895036
+user_0032,"change of plans, update soon.",2025-06-10T17:12:46.716365,group_1,supplier,0,0,0.6950702106193654,0,dominant,0.19240897599429285,bold,none,0.660952190258239
+user_0048,"everything is under control, trust me.",2025-06-03T21:41:46.716365,group_3,smuggler,0,0,0.936291586746273,0,neutral,0.6188351781713912,bold,confirmation,0.8790774116289205
+user_0015,"change of plans, update soon.",2025-05-17T09:16:46.716365,group_8,supplier,1,1,0.6253124875812539,1,neutral,-0.3578545297909055,bold,confirmation,0.02849689043179482
+user_0061,package is ready for pickup.,2025-05-22T14:11:46.716365,group_7,supplier,1,0,0.15817257836546927,0,submissive,0.7943773898884605,bold,confirmation,0.9881915082508752
+user_0015,are you sure this is safe?,2025-06-06T03:49:46.716365,group_7,middleman,1,0,0.8569156721478036,0,submissive,-0.04751306072641959,cautious,overconfidence,0.32287645829002753
+user_0070,"i swear, you can trust me.",2025-06-12T22:45:46.716365,group_2,smuggler,1,0,0.12583297654473125,0,dominant,-0.5488963177917909,bold,none,0.09478918997398067
+user_0052,everything is set.,2025-06-13T00:17:46.716365,group_2,supplier,0,1,0.18462675608717105,1,submissive,0.4209209378653278,cautious,none,0.590784657894946
+user_0067,i feel nervous about this run.,2025-05-28T03:52:46.716365,group_3,smuggler,1,1,0.66120182831005,0,neutral,0.8120290607179907,cautious,none,0.048018431620261426
+user_0026,"change of plans, update soon.",2025-05-16T16:10:46.716365,group_3,middleman,0,0,0.16188520488711888,1,dominant,0.1441734653827007,cautious,confirmation,0.1877482654803463
+user_0074,"if you get caught, say nothing.",2025-06-05T14:21:46.716365,group_4,smuggler,1,1,0.11781912852049192,1,neutral,0.5370221065653995,cautious,confirmation,0.9966857052782687
+user_0024,contact the middleman first.,2025-05-31T12:58:46.716365,group_8,middleman,1,0,0.6680126850024937,1,neutral,-0.4742733081710673,cautious,confirmation,0.6422926934466807
+user_0070,payment received.,2025-05-20T07:50:46.716365,group_4,smuggler,0,0,0.550464769547398,1,dominant,0.7466134778801239,cautious,confirmation,0.4361641075707863
+user_0011,"don't tell anyone else, okay?",2025-05-24T07:59:46.716365,group_7,middleman,0,0,0.8400128161949989,0,dominant,-0.6026457587866141,cautious,none,0.6009362994129783
+user_0020,i feel nervous about this run.,2025-06-09T04:02:46.716365,group_9,supplier,1,0,0.6936947475907467,0,submissive,-0.6825004056075503,bold,none,0.6343126211981536
+user_0080,use the new route.,2025-05-22T22:36:46.716365,group_9,middleman,1,0,0.2784213799902213,1,submissive,-0.2204552009559182,cautious,confirmation,0.46800414712668414
+user_0018,everything is set.,2025-05-16T00:55:46.716365,group_2,smuggler,1,0,0.9230521524955368,0,dominant,0.5103391321059394,bold,overconfidence,0.4809321226361487
+user_0021,use the new route.,2025-06-02T19:52:46.716365,group_3,middleman,1,1,0.5914164050919659,0,submissive,-0.8589367236747585,cautious,overconfidence,0.8926385000455419
+user_0016,i feel nervous about this run.,2025-05-22T22:23:46.716365,group_4,smuggler,0,1,0.7605845952590513,0,neutral,-0.7654159736540873,cautious,none,0.10261221059902026
+user_0081,"everything is under control, trust me.",2025-06-06T11:06:46.716365,group_4,middleman,1,1,0.8222403684620894,1,dominant,-0.8591945338215401,cautious,confirmation,0.949487909584935
+user_0006,"if you get caught, say nothing.",2025-05-27T15:33:46.716365,group_2,middleman,1,1,0.584978574279368,1,submissive,-0.5507331710630758,bold,overconfidence,0.9976053068917937
+user_0078,"everything is under control, trust me.",2025-06-01T12:32:46.716365,group_4,middleman,1,1,0.4216741178680399,0,submissive,0.6846499997981244,cautious,confirmation,0.6402654238628115
